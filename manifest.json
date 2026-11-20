@@ -1,20 +1,20 @@
 {
   "name": "svami-agentic-id",
-  "version": "2026.11",
+  "version": "2026.11.1",
   "built": "2026-11-21",
   "licence": "CC BY 4.0",
   "scope": "all",
-  "rows": 2215,
-  "hotels": 2213,
+  "rows": 2217,
+  "hotels": 2215,
   "ships": 2,
   "merged_aids": 2,
   "countries": 128,
   "non_empty": {
-    "sabre": 2173,
-    "amadeus": 1766,
-    "galileo_apollo": 1764,
-    "worldspan": 1624,
-    "website": 1840
+    "sabre": 2179,
+    "amadeus": 1984,
+    "galileo_apollo": 1977,
+    "worldspan": 1837,
+    "website": 1842
   },
   "ships_non_empty": {
     "sabre": 0,
@@ -24,13 +24,13 @@
     "website": 2
   },
   "files": {
-    "data/agentic-id-crosswalk.csv": "fd8a04fc87dd845e02cb2750f04ded9433a732cd48f91b15d0dace6c903666ce",
-    "data/agentic-id-crosswalk.jsonl": "4933dbd16a084dd41d0230ef0ce33c6c00b69b4b696cec5dc2e448b25483aef3",
+    "data/agentic-id-crosswalk.csv": "c86925aed88a433d3d16424d1a48de9b24f1841f1ae27e6f5caec9f97a041f2b",
+    "data/agentic-id-crosswalk.jsonl": "252b3576db5333d51f94d3b75bc11b2645af255a1d6af03d859a20dfa730e730",
     "data/ships-crosswalk.csv": "f168780f480485544c419aba058ae4310253b1b6e2afaa137459da7ab3162944",
     "data/ships-crosswalk.jsonl": "aff72423be928d7835d7aa7cbd9aa3fcfd3a744783d75203f640f382fa974703",
     "data/merged-aids.csv": "dd18234a025de5b66650446beff06ac8534d52b1978bb8a11c2cc1d49ff00e15",
-    "README.md": "5a77ddba04fb15f206eb7e74d054ab69a3ab5acc22f52b5525a646b0d0506991",
+    "README.md": "59104865b01ede52a6962fde380a06a774b05130f495e79a35a29ea932895e38",
     "LICENSE": "bd6cec2a7bbf46bfedb4cc9ff5045403261a20b5b1902c76062e4589e07642e1",
-    "CITATION.cff": "6444e19f897f12a9db6c5ac9570c1a0b8a16720acc633ed391d59746770a995d"
+    "CITATION.cff": "a395b1ba8fae598ff8059fe2fb39f94b4841a7d1f644474fd259999f26d64d5a"
   }
 }
