@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: SVAMI Agentic ID (AID) crosswalk
+message: "Agentic ID (AID) data by SVAMI, mytour.travel/aid"
+type: dataset
+authors:
+  - name: SVAMI
+version: "2026.11"
+date-released: "2026-11-21"
+license: CC-BY-4.0
+url: "https://mytour.travel/aid"
