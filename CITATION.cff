@@ -4,7 +4,7 @@ message: "Agentic ID (AID) data by SVAMI, mytour.travel/aid"
 type: dataset
 authors:
   - name: SVAMI
-version: "2026.11.1"
+version: "2026.11.2"
 date-released: "2026-11-21"
 license: CC-BY-4.0
 url: "https://mytour.travel/aid"

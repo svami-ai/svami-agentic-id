@@ -14,7 +14,7 @@ configs:
 
 # SVAMI Agentic ID (AID) crosswalk
 
-Version 2026.11.1 · built 2026-11-21 · 2,215 hotels in 128 countries · 2 ships/yachts · licence CC BY 4.0
+Version 2026.11.2 · built 2026-11-21 · 2,215 hotels in 128 countries · 2 ships/yachts · licence CC BY 4.0
 
 **Agentic ID (AID)** is the supplier identifier used by SVAMI, a verified luxury travel knowledge hub for travel
 advisors and their AI agents. It is written **"Agentic ID (AID) AI-XXXXXX"**. This dataset maps every AID to the
@@ -29,6 +29,14 @@ code can be turned into an AID and back. It is not an industry standard; it is t
 - Only SVAMI issues AIDs. Never derive, guess or "correct" one: an unknown AID means "not found", not the nearest hotel or ship.
 - Resolve live: `https://mytour.travel/aid/{AID}` (page), `https://mytour.travel/v1/aid/{AID}` (JSON),
   MCP tools `resolve_aid` and `find_hotel` at `https://mytour.travel/mcp`. See `https://mytour.travel/llms.txt`.
+
+## Coverage
+
+This dataset covers luxury hotels and ships/yachts across the following hospitality groups, luxury brands, collections, and consortia, alongside independent luxury properties:
+
+Accor, Airelles, Alila, Aman, Andaz, Atlantis, Auberge Collection, Banyan Tree, Belmond, Bvlgari Hotels & Resorts, Capella Hotel Group, Capella Hotels and Resorts, Cheval Blanc, Conrad Hotels & Resorts, Corinthia Hotels, Dorchester Collection, EDITION Hotels, Fairmont Hotels & Resorts, Four Seasons Hotels and Resorts, Hilton, Hotel Indigo, Hyatt Hotels Corporation, IHG Hotels & Resorts, InterContinental Hotels & Resorts, Jumeirah, Kimpton Hotels & Restaurants, Mandarin Oriental Hotel Group, Marriott International, Maybourne Hotel Group, Montage International, Niseko Village, Oetker Collection, One&Only, Park Hyatt, Patina Hotels & Resorts, Preferred Hotels & Resorts, Raffles Hotels & Resorts, Red Sea Global, Regent Hotels & Resorts, Relais & Châteaux, Rocco Forte Hotels, Rosewood Hotel Group, Shangri-La Group, Six Senses, Small Luxury Hotels of the World (SLH), St. Regis Hotels & Resorts, The Leading Hotels of the World (LHW), The Luxury Collection, The Peninsula Hotels, The Ritz-Carlton, Upper House, Vignette Collection, Waldorf Astoria Hotels & Resorts.
+
+Group and brand names are listed solely for factual identification. All trademarks belong to their respective owners; inclusion does not imply affiliation or endorsement.
 
 ## Examples
 

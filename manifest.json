@@ -1,6 +1,6 @@
 {
   "name": "svami-agentic-id",
-  "version": "2026.11.1",
+  "version": "2026.11.2",
   "built": "2026-11-21",
   "licence": "CC BY 4.0",
   "scope": "all",
@@ -29,8 +29,8 @@
     "data/ships-crosswalk.csv": "f168780f480485544c419aba058ae4310253b1b6e2afaa137459da7ab3162944",
     "data/ships-crosswalk.jsonl": "aff72423be928d7835d7aa7cbd9aa3fcfd3a744783d75203f640f382fa974703",
     "data/merged-aids.csv": "dd18234a025de5b66650446beff06ac8534d52b1978bb8a11c2cc1d49ff00e15",
-    "README.md": "59104865b01ede52a6962fde380a06a774b05130f495e79a35a29ea932895e38",
+    "README.md": "3e44ce8dcd116ed715ef0e2e9aca6e0130df1b6ef3e1fbdcd292ea371bb27c07",
     "LICENSE": "bd6cec2a7bbf46bfedb4cc9ff5045403261a20b5b1902c76062e4589e07642e1",
-    "CITATION.cff": "a395b1ba8fae598ff8059fe2fb39f94b4841a7d1f644474fd259999f26d64d5a"
+    "CITATION.cff": "f25f0459efd5676d0d705b37ea760752b8d3f080bdab630c22548d9a82842392"
   }
 }
