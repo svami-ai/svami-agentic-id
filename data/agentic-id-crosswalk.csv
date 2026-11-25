@@ -19,6 +19,7 @@ AI-06EPXZ,Amanemu,Shima,Japan,JP,operating,AM 306553,AM NGOAMA,AM C0097,AM NGOAM
 AI-07HANS,Andaz Shenzhen Bay,Shenzhen,China,CN,operating,HY 389925,HY SZXAZS,HY G3314,,https://www.hyatt.com/andaz/en-US/szxaz-andaz-shenzhen-bay
 AI-082E8B,Fairmont Le Manoir Richelieu,La Malbaie,Canada,CA,operating,FA 020942,FA YQBLMR,FA 17784,FA QUEPL,https://www.fairmont.com/en/hotels/charlevoix/fairmont-le-manoir-richelieu.html
 AI-08AP7A,Vignette Collection Aldhafra Resort,Madinat Zayed,United Arab Emirates,AE,operating,VT 000553,,VT 04366,VT AUHTL,
+AI-08K75C,AOLUGUYA,Harbin,China,CN,operating,HY 614138,HY HRBUBH,HY I7864,HY HRBUB,https://www.hyatt.com/unbound-collection/en-US/hrbub-aoluguya
 AI-0950X3,The Ritz-Carlton Jeddah,Jeddah,Saudi Arabia,SA,operating,RZ 313105,RZ JEDRJZ,RZ D0891,RZ JEDRJ,https://www.marriott.com/en-us/hotels/jedrj/overview/
 AI-0A3JNQ,"Savute Elephant Lodge, A Belmond Safari",Chobe,Botswana,BW,operating,,,,,
 AI-0ABFRC,The Stafford London,London,United Kingdom,GB,operating,PH 007192,PH LONTSL,PH 08207,PH LONTS,https://thestaffordlondon.com/
@@ -52,6 +53,7 @@ AI-0M4M44,"The Ritz-Carlton, Denver",Denver,United States,US,operating,RZ 032611
 AI-0MBAX4,The Lowell,New York,United States,US,operating,LW 016703,LW NYC765,LW 40680,LW 1765,https://www.lowellhotel.com/
 AI-0MC80D,Fairmont Jasper Park Lodge,Jasper,Canada,CA,operating,FA 001716,FA YJAJPL,FA 17780,FA JASPP,https://www.fairmont.com/en/hotels/jasper/fairmont-jasper-park-lodge.html
 AI-0MG45W,Interalpen-Hotel Tyrol,Telfs-Buchen,Austria,AT,operating,PH 012360,PH INNHTI,PH 33282,PH INNHT,https://www.interalpen.com/
+AI-0MMFK3,Magma Resort Santorini,Santorini,Greece,GR,operating,HY 395807,HY JTRMRS,HY G9659,HY JTRUB,https://www.hyatt.com/unbound-collection/en-US/jtrub-magma-resort-santorini
 AI-0NC66M,InterContinental Shanghai Harbour City,Shanghai,China,CN,operating,IC 146493,IC SHA907,IC 89801,IC 6407,
 AI-0NZYNT,Corinthia Lisbon,Lisbon,Portugal,PT,operating,IA 046339,IA LISALF,IA 11305,IA CALF,https://www.corinthia.com/en-gb/lisbon/
 AI-0PFR83,Kimpton Grand Roatán Resort and Spa,Roatan,Honduras,HN,operating,KC 225372,KC RTBGRR,KC H6215,KC 0583,
@@ -79,17 +81,21 @@ AI-0XRWQR,Eilert Smith Hotel,Stavanger,Norway,NO,operating,LX 385473,LX SVGESH,L
 AI-0XYJGJ,"J Hotel, Shanghai Tower",Shanghai,China,CN,operating,LW 385192,LW SHASHT,LW F8755,LW PVGST,https://en.shanghaitower.com/
 AI-0Y9CGK,The St. Regis Beijing,Beijing,China,CN,operating,XR 038586,XR BJS110,XR 84324,XR 110,https://www.marriott.com/en-us/hotels/bjsxr/overview/
 AI-0YAVZ2,Hotel Arts Barcelona,Barcelona,Spain,ES,operating,RZ 027456,RZ BCNBAR,RZ 23476,RZ BCNRZ,https://www.marriott.com/en-us/hotels/bcnrz/overview/
+AI-0YQ7RF,Conrad Kuala Lumpur,Kuala Lumpur,Malaysia,MY,pre_opening,CN 622471,,,,https://www.hilton.com/en/hotels/kulskci-conrad-kuala-lumpur/
 AI-0YS0WG,Sequoia Lodge,Crafers,Australia,AU,operating,WB 394399,,,,https://www.sequoialodge.com.au/
 AI-0Z06K3,The Leela Palace Udaipur,Udaipur,India,IN,operating,LR 088130,LR UDRLEE,LR 12557,LR UDR1,https://www.theleela.com/the-leela-palace-udaipur
 AI-0ZPM23,Vignette Collection RIHGA Royal Hotel Osaka,Osaka,Japan,JP,operating,VT 013083,VT OSARRO,VT 00724,VT RROSA,
 AI-106T5A,Montage Big Sky,Big Sky,United States,US,operating,MN 393416,MN BZNBSR,MN G6904,MN BZNBS,https://www.montage.com/bigsky/
+AI-10QXEM,Kimpton Nine Trees Shanghai,Shanghai,China,CN,operating,KC 622396,,,,https://www.ihg.com/kimptonhotels/hotels/us/en/shanghai/shakp/hoteldetail
 AI-116QG8,"Mandarin Oriental Savoy, Zurich",Zurich,Switzerland,CH,operating,MO 604244,MO ZRHMOS,MO H9016,MO ZRHMS,
 AI-11NJYE,Shangri-La Yangzhou,Yangzhou,China,CN,operating,SG 174803,SG YTYGZH,SG 18266,SG YTYGH,https://www.shangri-la.com/en/yangzhou/shangrila/
 AI-12707A,ANA InterContinental Beppu Resort & Spa,Beppu,Japan,JP,operating,IC 323573,IC OIT62D,IC F0938,IC 9773,
 AI-12TZEG,San Ysidro Ranch,Santa Barbara,United States,US,operating,LW 018150,LW SBA748,LW 22914,LW 2748,https://www.sanysidroranch.com/
 AI-1321HC,The Chedi Luštica Bay,Radovici,Montenegro,ME,operating,LW 320522,LW QBA156,LW E6391,LW 3156,https://www.chedilusticabay.com/
+AI-13VWZ9,Four Seasons Resort and Residences Dominican Republic at Tropicalia,Miches,Dominican Republic,DO,pre_opening,FS 625885,,,,https://www.fourseasons.com/dominicanrepublic/
 AI-13X605,"The St. Regis Washington, D.C.",Washington,United States,US,operating,XR 000473,XR WAS193,XR 00491,XR 193,https://www.marriott.com/en-us/hotels/wassx/overview/
 AI-14CSXZ,Shebara Resort,Red Sea,Saudi Arabia,SA,operating,GD 613555,,,,https://www.shebara.sa/
+AI-14N4YD,45 Park Lane,London,United Kingdom,GB,operating,DC 011921,DC LON45P,DC 01095,DC LON45,https://www.dorchestercollection.com/london/45-park-lane
 AI-15AXWS,Four Seasons Hotel Bengaluru at Embassy ONE,Bengaluru,India,IN,operating,FS 322218,FS BLR546,FS E6546,FS 32221,https://www.fourseasons.com/bengaluru/
 AI-17JVYV,Conrad Fort Lauderdale Beach,Fort Lauderdale,United States,US,operating,CN 305035,CN FLL314,CN B8074,CN 3050,https://www.hilton.com/en/hotels/fllcici-conrad-fort-lauderdale-beach/
 AI-17NT89,"The Naka Island, a Luxury Collection Resort & Spa, Phuket",Phuket,Thailand,TH,operating,LC 052707,LC HKT714,LC 10984,LC 3714,https://www.marriott.com/en-us/hotels/pyxlc/overview/
@@ -99,7 +105,7 @@ AI-1872Y1,Fouquet's Paris,Paris,France,FR,operating,LW 033949,LW PAR635,LW 22512
 AI-18CT5D,Grand Park Hotel Rovinj,Rovinj,Croatia,HR,operating,LW 382169,LW PUYGRA,LW F8231,LW PUYGR,https://www.maistra.com/properties/grand-park-hotel-rovinj/
 AI-18TJKK,"Airelles Courchevel, Les Airelles",Courchevel,France,FR,operating,YX 034525,,,,https://airelles.com/en/destination/courchevel-hotel
 AI-194YS0,"China World Hotel, Beijing, A Shangri-La Hotel",Beijing,China,CN,operating,SG 023644,,,,https://www.shangri-la.com/en/beijing/chinaworld/
-AI-196K09,"The Ballantyne, a Luxury Collection Hotel, Charlotte",Charlotte,United States,US,operating,LC 060767,LC CLT558,LC 38974,LC 1558,https://www.marriott.com/en-us/hotels/cltlc/overview/
+AI-196K09,"The Ballantyne, a Luxury Collection Hotel, Charlotte",Charlotte,United States,US,operating,LC 060767,LC CLT558,LC 38974,LC 1558,https://www.theballantynehotel.com/
 AI-1A9767,Capella Ubud,Ubud,Indonesia,ID,operating,LW 319945,LW DPS861,LW E4998,LW 2861,https://capellahotels.com/en/capella-ubud
 AI-1AJWQS,ENTRE Évora Boutique Hotel,Évora,Portugal,PT,operating,LW 624254,LW LISEEV,LW DL938,HQ 30892,https://entrehotel.com/
 AI-1BETCW,"The Canyon Suites at The Phoenician, a Luxury Collection Resort, Scottsdale",Scottsdale,United States,US,operating,LC 122173,LC PHX544,LC 06885,LC 3544,https://www.marriott.com/en-us/hotels/phxpc/overview/
@@ -118,6 +124,7 @@ AI-1EV6MN,"The Ritz-Carlton, Boston",Boston,United States,US,operating,RZ 058534
 AI-1GHSGF,Otahuna Lodge,Christchurch,New Zealand,NZ,operating,WB 008703,WB CHC208,WB 03840,WB CHCOL,https://otahuna.co.nz/
 AI-1GKS8E,The Lanesborough,London,United Kingdom,GB,operating,OT 281918,OT LON410,OT B2839,OT 0410,https://www.oetkerhotels.com/hotels/the-lanesborough/
 AI-1J0YMN,Shangri-La Singapore,Singapore,Singapore,SG,operating,SG 000243,SG SINGAR,SG 22700,SG 4817,https://www.shangri-la.com/en/singapore/shangrila/
+AI-1JGQV6,"HOTEL THE MITSUI HAKONE, a Luxury Collection Hotel & Spa",Hakone,Japan,JP,pre_opening,LC 623888,,,,https://www.hotelthemitsui.com/en/hakone/
 AI-1JV9C0,Hotel Emma at Pearl,San Antonio,United States,US,operating,PH 284118,PH SATEMM,PH B7016,PH SATEM,https://thehotelemma.com/
 AI-1KK282,Le Gray,Beirut,Lebanon,LB,operating,LW 619125,LW BEYLEG,LW DJ946,LW 09601,https://legray.com/
 AI-1KTH8Z,Hyatt Hotel Canberra - A Park Hyatt Hotel,Canberra,Australia,AU,operating,HY 016212,HY CBRICN,HY 09971,HY CANBE,https://www.hyatt.com/park-hyatt/en-US/canbe-hyatt-hotel-canberra-a-park-hyatt-hotel
@@ -158,7 +165,7 @@ AI-229FAD,InterContinental Dubai Marina,Dubai,United Arab Emirates,AE,operating,
 AI-2301M6,"ITC Rajputana, a Luxury Collection Hotel, Jaipur",Jaipur,India,IN,operating,LC 034755,LC JAI492,LC 19967,LC 492,https://www.marriott.com/en-us/hotels/jailc/overview/
 AI-238HJQ,The Okura Prestige Bangkok,Bangkok,Thailand,TH,operating,LW 012543,LW BKK832,LW 71350,LW 2832,https://www.okurabangkok.com/
 AI-23KFZE,"Hotel Maria Cristina, a Luxury Collection Hotel, San Sebastian",San Sebastian,Spain,ES,operating,LC 050603,LC EAS086,LC 26245,LC 086,https://www.marriott.com/en-us/hotels/easlc/overview/
-AI-241GNX,Banyan Tree Dongguan Songshan Lake,Dongguan,China,CN,operating,BY 605685,,,,https://www.banyantree.com/china/dongguan
+AI-241GNX,Banyan Tree Dongguan Songshan Lake,Dongguan,China,CN,operating,BY 605685,BY XHOBAN,BY I0958,BY BYXHO,https://www.banyantree.com/china/dongguan
 AI-242YK1,Park Hyatt Tokyo,Tokyo,Japan,JP,operating,HY 003935,HY TYOIPT,HY 48695,HY TYOPH,https://www.hyatt.com/park-hyatt/en-US/tyoph-park-hyatt-tokyo
 AI-24HJXG,"Beverly Wilshire, Beverly Hills, A Four Seasons Hotel",Beverly Hills,United States,US,operating,FS 004714,FS LAX713,FS 16713,FS 4714,https://www.fourseasons.com/beverlywilshire/
 AI-24NDN7,Park Hyatt Paris-Vendôme,Paris,France,FR,operating,HY 030053,HY PARVEN,HY 46497,HY PARPH,https://www.hyatt.com/park-hyatt/en-US/parph-park-hyatt-paris-vendome
@@ -189,15 +196,17 @@ AI-2F4TCX,Raffles Doha,Doha,Qatar,QA,operating,YR 286193,YR DOHRAD,YR H3528,YR R
 AI-2FR9YT,Bürgenstock Hotel & Alpine Spa,Bürgenstock,Switzerland,CH,operating,LW 314046,LW QLJ630,LW D9259,,https://burgenstockresort.com/
 AI-2G2XGT,Castell Son Claret,Mallorca,Spain,ES,operating,LW 001713,LW PMI437,LW 13417,LW 1437,https://www.castellsonclaret.com/
 AI-2GN1EM,Monument Hotel,Barcelona,Spain,ES,operating,PH 305140,PH BCNMOH,PH B8169,PH BCNMO,https://www.monumenthotel.com/en/
+AI-2H75DJ,Grand Hôtel du Louvre,Paris,France,FR,operating,HY 011931,HY PARHDL,HY 29768,HY PARAZ,https://www.hyatt.com/unbound-collection/en-US/paraz-grand-hotel-du-louvre
 AI-2JFAT3,Shangri-La Phnom Penh,Phnom Penh,Cambodia,KH,operating,SG 608102,SG KTISLP,SG I3358,SG PNHSL,https://www.shangri-la.com/en/phnompenh/shangrila/
 AI-2JJFFC,"The Ritz-Carlton, Almaty",Almaty,Kazakhstan,KZ,operating,RZ 210541,RZ ALARZZ,RZ A1189,RZ ALARZ,https://www.marriott.com/en-us/hotels/alarz/overview/
 AI-2K1H5J,InterContinental Yokohama Pier 8,Yokohama,Japan,JP,operating,IC 327996,IC TYOF06,IC F5159,IC 7942,
 AI-2K5DFY,Rayavadee,Krabi,Thailand,TH,operating,LW 037952,LW KBV819,LW 68888,,
 AI-2K7M4Q,"Airelles Saint-Tropez, Château de la Messardière",Saint-Tropez,France,FR,operating,YX 034764,,,,https://airelles.com/en/destination/chateau-de-la-messardiere-hotel
+AI-2KEZZ4,Hotel 1000,Seattle,United States,US,operating,HY 073205,HY SEAH10,HY J2616,HY UWAAA,https://www.hyatt.com/unbound-collection/en-US/uwaaa-hotel-1000
 AI-2KHB7W,Four Seasons Hotel Riyadh at Kingdom Centre,Riyadh,Saudi Arabia,SA,operating,FS 061210,,,,https://www.fourseasons.com/riyadh/
 AI-2KPCVN,"Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado",Urubamba,Peru,PE,operating,LC 115373,LC CUZ285,LC 60764,LC 3285,https://www.marriott.com/en-us/hotels/cuztl/overview/
 AI-2M3XAQ,InterContinental Indianapolis,Indianapolis,United States,US,operating,IC 610508,IC IND47F,IC I4909,IC 9343,
-AI-2N2K47,Raffles The Red Sea,Red Sea,Saudi Arabia,SA,operating,,,,,https://www.raffles.com/the-red-sea/
+AI-2N2K47,Raffles The Red Sea,Red Sea,Saudi Arabia,SA,operating,,YR UHTRED,YR J1667,YR REUHT,https://www.raffles.com/the-red-sea/
 AI-2N7QBB,Hôtel de Paris Monte-Carlo,Monte Carlo,Monaco,MC,operating,LW 035877,LW MCM660,LW 49004,LW 0660,https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo
 AI-2ND2ZX,"Mystique, a Luxury Collection Hotel, Santorini",Santorini,Greece,GR,operating,LC 036821,,,,https://www.marriott.com/en-us/hotels/jtrml/overview/
 AI-2NGHS3,Halekulani,Honolulu,United States,US,operating,LW 003918,LW HNL752,LW 08375,LW 1752,
@@ -237,7 +246,7 @@ AI-323N4X,"ITC Royal Bengal, a Luxury Collection Hotel, Kolkata",Kolkata,India,I
 AI-339QXZ,"Shisui, a Luxury Collection Hotel, Nara",Nara,Japan,JP,operating,LC 602574,LC OSANLK,LC H7134,LC OSANL,https://www.marriott.com/en-us/hotels/osanl/overview/
 AI-33K08X,InterContinental Athenaeum Athens,Athens,Greece,GR,operating,IC 001188,IC ATHICA,IC 19220,IC ATHHA,
 AI-33SQMR,The Jefferson Hotel,Richmond,United States,US,operating,PH 029627,PH RICJEF,PH 45346,PH RICTJ,https://www.jeffersondc.com/
-AI-33WV4M,Banyan Tree Yangcheng Lake,Suzhou,China,CN,operating,BY 610274,,,,https://www.banyantree.com/china/banyan-tree-yangcheng-lake
+AI-33WV4M,Banyan Tree Yangcheng Lake,Suzhou,China,CN,operating,BY 610274,BY SZVBAY,BY I5338,BY BYSZV,https://www.banyantree.com/china/banyan-tree-yangcheng-lake
 AI-33X00K,Bettei Senjuan,Minakami-Machi,Japan,JP,operating,WB 153310,WB KIJBEH,WB 53584,WB HNDBS,https://www.senjyuan.jp/
 AI-34EX04,Hotel Indigo Rome – St. George,Rome,Italy,IT,operating,IN 058654,,,,
 AI-351NGM,Hotel Montevideo,Montevideo,Uruguay,UY,operating,LW 286050,LW MVDHMO,LW H3263,LW MVDHM,https://www.hotelmvd.com/
@@ -253,6 +262,7 @@ AI-398JX6,Anantara Palazzo Naiadi Rome,Rome,Italy,IT,operating,LW 037250,LW ROME
 AI-3A4CNQ,Palazzo Firenze by Baglioni Hotels & Resorts,Florence,Italy,IT,operating,LW 044725,LW FLRRSC,LW 12389,,https://florence.baglionihotels.com/
 AI-3AFF13,The Welbeck Hotel,London,United Kingdom,GB,operating,SP 010718,SP LON6AA,SP 50110,SP 1706,
 AI-3AG784,Andaz 5th Avenue,New York,United States,US,operating,HY 122755,HY NYCAVE,HY 09435,HY NYCAM,https://www.hyatt.com/andaz/en-US/nycam-andaz-5th-avenue
+AI-3BH2QK,Orient Express Venezia,Venice,Italy,IT,operating,OF 615526,OF VCEPAL,OF I8602,OF PAVCE,https://www.orient-express.com/en/hotel/europe/italy/venice/orient-express-venezia/orient-express-venezia
 AI-3BMXG3,Alila Purnama,Labuan Bajo,Indonesia,ID,operating,,,,,https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpaal-alila-purnama
 AI-3C7S2Q,Elounda Beach Hotel & Villas,Elounda,Greece,GR,operating,LW 035281,LW HER802,LW 21090,LW 0802,https://www.eloundabeach.gr/
 AI-3CS324,Alila Ubud,Bali,Indonesia,ID,operating,HY 027090,HY DPS795,HY 25649,,https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsau-alila-ubud
@@ -274,6 +284,7 @@ AI-3K6A8N,Fairmont San Francisco,San Francisco,United States,US,operating,FA 012
 AI-3KX6B2,Park Hyatt New York,New York,United States,US,operating,HY 219730,HY NYCPNY,HY A4191,HY NYCPH,https://www.hyatt.com/park-hyatt/en-US/nycph-park-hyatt-new-york
 AI-3M1GSC,Botania Relais & Spa,Ischia,Italy,IT,operating,LW 211474,LW ISHBOT,LW H5481,LW NAPBO,https://www.botaniarelais.com/
 AI-3MBG59,Upper House Chengdu,Chengdu,China,CN,operating,SV 282558,SV CTUTHH,SV B4509,SV CTUTH,https://www.upperhouse.com/en/chengdu/
+AI-3MHM8M,Jinmao Purelax Lijiang,Lijiang,China,CN,operating,HY 226730,HY LJGGHL,HY A9053,HY LJGGH,https://www.hyatt.com/unbound-collection/en-US/ljggh-jinmao-purelax-lijiang
 AI-3MN214,Marquis Reforma Hotel & Spa,Mexico City,Mexico,MX,operating,LW 026703,LW MEX506,LW 63353,LW 7506,https://www.marquisreforma.com/
 AI-3MNE79,Cheval Blanc Paris,Paris,France,FR,operating,NV 328250,NV PARCBP,NV F6142,NV CDGCB,https://www.chevalblanc.com/en/maison/paris/
 AI-3NED5Q,Esperanza,Los Cabos,Mexico,MX,operating,AU 061342,,,,https://auberge.com/esperanza/
@@ -300,11 +311,13 @@ AI-3XFES3,Lefay Resort & SPA Lago di Garda,Gargnano,Italy,IT,operating,PH 023585
 AI-3XHQZ6,The St. Regis Florence,Florence,Italy,IT,operating,XR 040045,XR FLR045,XR 58597,XR 045,https://www.marriott.com/en-us/hotels/flrxr/overview/
 AI-3XTXMG,"Park Hyatt Jeddah – Marina, Club and Spa",Jeddah,Saudi Arabia,SA,operating,HY 004113,HY JEDPHJ,HY 49219,HY JEDPH,https://www.hyatt.com/park-hyatt/en-US/jedph-park-hyatt-jeddah-marina-club-and-spa
 AI-3XX4EE,"The Wellesley Knightsbridge, a Luxury Collection Hotel, London",London,United Kingdom,GB,operating,LC 174286,,,,https://www.marriott.com/en-us/hotels/lonwb/overview/
+AI-3Y6QPA,Mumian Hangzhou,Hangzhou,China,CN,operating,HY 611618,,,,https://www.hyatt.com/unbound-collection/en-US/hanub-mumian-hangzhou
 AI-3YS9F1,Raffles The Palm Dubai,Dubai,United Arab Emirates,AE,operating,YR 394225,YR DXBPAL,YR G8020,YR LMDXB,https://www.raffles.com/thepalm-dubai/
 AI-3YZ21W,Il San Corrado di Noto Resort,Noto,Italy,IT,operating,LW 390654,LW CTASCO,LW G3733,,https://ilsancorradodinoto.com/
 AI-3ZA22Z,Aman Tokyo,Tokyo,Japan,JP,operating,AM 271125,AM TYOATK,AM B1020,AM HNDAT,https://www.aman.com/hotels/aman-tokyo
 AI-403WJ0,"The Ritz-Carlton Georgetown, Washington, D.C.",Washington,United States,US,operating,RZ 037391,RZ WASGOZ,RZ 54294,RZ WASGO,https://www.marriott.com/en-us/hotels/wasgo/overview/
 AI-405E4K,Nihi Sumba,Sumba,Indonesia,ID,operating,LW 281926,LW TMC851,LW B2842,LW 2851,https://nihi.com/
+AI-40D032,The Manner,New York,United States,US,operating,HY 056153,HY NYC607,HY 31412,HY LGAPR,https://www.hyatt.com/unbound-collection/en-US/lgapr-the-manner
 AI-411C38,Falkensteiner Hotel Kronplatz,Riscone di Brunico,Italy,IT,operating,LW 387135,LW BZO096,LW G0112,,https://www.falkensteiner.com/en/hotel-kronplatz
 AI-411E2W,Corinthia Budapest,Budapest,Hungary,HU,operating,IA 046273,IA BUDROY,IA 12449,IA COHR,https://www.corinthia.com/en-gb/budapest/
 AI-41DP7V,Four Seasons Hotel Denver,Denver,United States,US,operating,FS 050264,FS DEN529,FS 05529,FS 50264,https://www.fourseasons.com/denver/
@@ -315,6 +328,7 @@ AI-46THR6,Shangri-La Kunming,Kunming,China,CN,operating,SG 619593,,,,https://www
 AI-46ZN07,Gran Hotel Inglés,Madrid,Spain,ES,operating,LW 317951,LW MAD445,LW E2557,LW 1445,https://hiddenhotels.com/
 AI-47N775,Four Seasons Hotel Doha,Doha,Qatar,QA,operating,FS 032140,FS DOH562,FS 10562,FS 32140,https://www.fourseasons.com/doha/
 AI-47Q4XP,Regent Hong Kong,Hong Kong,China (Hong Kong SAR),HK,operating,RE 000881,RE HKGICC,RE 36863,RE HKGHC,
+AI-48EYDJ,"The Ritz-Carlton, AMAALA",AMAALA,Saudi Arabia,SA,operating,,,,,https://www.ritzcarlton.com/en/hotels/ejhaz-the-ritz-carlton-amaala/overview/
 AI-48TZ86,"Atlantis, The Palm",Dubai,United Arab Emirates,AE,operating,AO 103019,AO DXBAPJ,AO 94910,AO DXBPJ,https://www.atlantis.com/dubai/atlantis-the-palm
 AI-48ZHQB,Four Seasons Hotel Bahrain Bay,Manama,Bahrain,BH,operating,FS 225218,FS BAH749,FS A6749,FS 22521,https://www.fourseasons.com/bahrain/
 AI-4AC0XE,"Mandarin Oriental Lutetia, Paris",Paris,France,FR,operating,MO 317693,MO PAR650,MO E3214,MO 0650,
@@ -336,10 +350,13 @@ AI-4EV9TR,The Times Square EDITION,New York,United States,US,operating,EB 322373
 AI-4EWFMP,One&Only Le Saint Géran,Belle Mare,Mauritius,MU,operating,OO 014460,OO MRU021,OO 11040,OO 6021,https://www.oneandonlyresorts.com/le-saint-geran
 AI-4F4CPW,Faubourg 21,Brussels,Belgium,BE,operating,LW 620901,LW BRUF21,LW DK666,LW 09612,https://faubourg21.com/
 AI-4F57WR,Kimpton Aysla Mallorca,Santa Ponsa,Spain,ES,operating,KC 396611,KC PMI488,KC H0522,KC 5256,
+AI-4F6TG1,Mumian Chengdu,Chengdu,China,CN,operating,HY 611701,,,,https://www.hyatt.com/unbound-collection/en-US/ctmub-mumian-chengdu
 AI-4F8KCQ,Janu Tokyo,Tokyo,Japan,JP,operating,AM 604745,AM TYOJAN,AM H9605,AM TYOJT,https://www.janu.com/janu-tokyo/
 AI-4G0AEB,Andaz Pattaya Jomtien Beach,Pattaya,Thailand,TH,operating,HY 285294,HY PYXPAZ,HY H2812,HY UTPAZ,https://www.hyatt.com/andaz/en-US/utpaz-hyatt-andaz-pattaya-jomtien-beach
 AI-4G1Z8G,Andaz West Hollywood,West Hollywood,United States,US,operating,HY 000920,HY LAXHCH,HY 00920,HY LAXSS,https://www.hyatt.com/andaz/en-US/laxss-andaz-west-hollywood
 AI-4H0792,Banyan Tree Cabo Marqués,Acapulco,Mexico,MX,operating,BY 384580,BY ACAABO,BY F8555,BY ANACA,https://www.banyantree.com/mexico/cabo-marques
+AI-4H3FGT,Conrad Corfu,Corfu,Greece,GR,pre_opening,CN 619288,CN CFU705,CN J1412,CN CFUMO,https://www.hilton.com/en/hotels/cfumoci-conrad-corfu/
+AI-4J470J,Párisi Udvar Hotel Budapest,Budapest,Hungary,HU,operating,HY 323661,HY BUDUBB,HY E8984,HY BUDUB,https://www.hyatt.com/unbound-collection/en-US/budub-parisi-udvar-hotel
 AI-4JPWXA,Fairmont Chateau Whistler,Whistler,Canada,CA,operating,FA 001609,FA YWSCWR,FA 17761,FA WHIPC,https://www.fairmont.com/en/hotels/whistler/fairmont-chateau-whistler.html
 AI-4KHZDJ,InterContinental Lijiang Ancient Town Resort,Lijiang,China,CN,operating,IC 084863,IC LJGA18,IC 78790,IC 6680,
 AI-4KJT87,Mont Rochelle,Franschhoek,South Africa,ZA,operating,VL 317108,VL CPTMON,VL E1287,VL CPTMO,https://www.virginlimitededition.com/mont-rochelle/
@@ -399,6 +416,7 @@ AI-57PXWX,Canouan Estates,Canouan,Saint Vincent and the Grenadines,VC,operating,
 AI-59MATZ,Fairmont Monte Carlo,Monte Carlo,Monaco,MC,operating,FA 012123,FA MCMMCG,FA 47905,FA 1007,https://www.fairmont.com/en/hotels/monte-carlo/fairmont-monte-carlo.html
 AI-59T8T0,Althoff Seehotel Überfahrt,Rottach-Egern,Germany,DE,operating,LW 057436,LW MUC729,LW 34781,,https://www.althoffcollection.com/
 AI-5A39PZ,Cheval Blanc Courchevel,Courchevel,France,FR,operating,NV 167300,,,YX LOCBC,https://www.chevalblanc.com/en/maison/courchevel/
+AI-5ASZZ1,Rosewood Calistoga,Calistoga,United States,US,pre_opening,RW 626456,,,,https://www.rosewoodhotels.com/en/calistoga
 AI-5B0KGV,Capella Taipei,Taipei,"Taiwan, China",TW,operating,CJ 613373,YX TPECAP,YX DH447,CJ 07026,https://capellahotels.com/en/capella-taipei
 AI-5BM7HN,Emerald Maldives Resort & Spa,Male,Maldives,MV,operating,LW 318490,LW MLE860,LW E4489,LW 2860,https://www.emerald-maldives.com/
 AI-5C8P5Q,Six Senses Fort Barwara,Chauth Ka Barwara,India,IN,operating,IG 392845,IG JAI39B,IG G6445,IG 5019,
@@ -415,6 +433,7 @@ AI-5G10FK,BLESS Ibiza Cala Nova,Balearic Islands,Spain,ES,operating,LW 014340,LW
 AI-5GM4TF,"The Ritz-Carlton New York, NoMad",New York,United States,US,operating,RZ 394794,RZ NYCROZ,RZ G8727,RZ NYCRO,https://www.marriott.com/en-us/hotels/nycro/overview/
 AI-5HARG9,Fairmont Vancouver Airport,Vancouver,Canada,CA,operating,FA 001695,FA YVRFVA,FA 17800,FA VANPA,https://www.fairmont.com/en/hotels/vancouver/fairmont-vancouver-airport.html
 AI-5HDP6D,Jumeirah Mina Al Salam,Dubai,United Arab Emirates,AE,operating,JT 003727,,,,https://www.jumeirah.com/en/stay/dubai/jumeirah-mina-al-salam
+AI-5HS8C9,"Roomers ParkView, a Luxury Collection Hotel, Frankfurt",Frankfurt,Germany,DE,operating,LC 622297,LC FRARPK,,,https://www.roomers-hotels.com/en/frankfurt-parkview/
 AI-5J9NAV,"Shangri-La Mactan, Cebu",Cebu,Philippines,PH,operating,SG 036029,,,,https://www.shangri-la.com/en/cebu/mactanresort/
 AI-5J9RPH,Conrad Altay Hemu,Altay,China,CN,operating,CN 619298,CN AAT579,,,https://www.hilton.com/en/hotels/aatcici-conrad-altay-hemu/
 AI-5JBQ93,Kimpton Era Midtown New York,New York,United States,US,operating,KC 617296,KC NYC306,KC I9987,KC 0774,
@@ -443,6 +462,7 @@ AI-5VGEJD,"Shangri-La Yuanqu, Suzhou",Suzhou,China,CN,operating,SG 324830,SG SZV
 AI-5VHB8W,Hotel Indigo Karuizawa,Karuizawa,Japan,JP,operating,IN 393998,IN MMJ627,IN G7278,IN 9767,
 AI-5VQJAS,Shangri-La Changchun,Changchun,China,CN,operating,SG 016103,SG CGQSCC,SG 75099,SG CGQSC,https://www.shangri-la.com/en/changchun/shangrila/
 AI-5WF5TR,Kimpton Naluria Kuala Lumpur,Kuala Lumpur,Malaysia,MY,operating,KC 615329,KC KULFC8,KC I8499,KC 8136,
+AI-5WMY6B,Mumian Shanghai Expo,Shanghai,China,CN,operating,HY 615325,HY SHAMUJ,HY I9114,HY SHAUM,https://www.hyatt.com/unbound-collection/en-US/shaum-mumian-shanghai-expo
 AI-5WMYXC,The Maybourne Riviera,Roquebrune-Cap-Martin,France,FR,operating,MI 392895,MI NCEMBR,MI G6321,MI NCEMB,https://www.maybourneriviera.com/
 AI-5WRTEA,Mwiba Plains,Southern Serengeti,Tanzania,TZ,operating,,,,,https://auberge.com/safari/camp/mwiba-plains/
 AI-5XCRET,Four Seasons Hotel Dubai International Financial Centre,Dubai,United Arab Emirates,AE,operating,FS 284732,,,,https://www.fourseasons.com/dubaidifc/
@@ -482,11 +502,13 @@ AI-6E839X,InterContinental Table Bay Cape Town,Cape Town,South Africa,ZA,operati
 AI-6GKG0K,One&Only Aesthesis,Glyfada,Greece,GR,operating,OO 601309,OO ATHAES,OO H6251,OO ATHAE,https://www.oneandonlyresorts.com/aesthesis
 AI-6GQXWZ,Hôtel Barriere Le Grand Hôtel Dinard,Dinard,France,FR,operating,LW 057292,LW DNR611,LW 22827,LW 0611,https://www.hotelsbarriere.com/en/dinard/le-grand-hotel-dinard
 AI-6GR1SY,Etéreo,Riviera Maya,Mexico,MX,operating,AU 393196,,,,https://auberge.com/etereo/
+AI-6HBRBM,Mumian Beijing Daxing International Airport,Beijing,China,CN,operating,HY 388163,,,,https://www.hyatt.com/unbound-collection/en-US/pkxub-mumian-beijing-daxing-international-airport
 AI-6HEXBZ,Terre Blanche Hotel Spa Golf Resort,Tourrettes,France,FR,operating,LW 037986,LW NCE638,LW 52979,LW 0638,https://www.terre-blanche.com/
 AI-6HP1VE,Six Senses Ibiza,Ibiza,Spain,ES,operating,IG 393028,IG IBZ118,IG G6464,IG 4376,
 AI-6HXCSB,Smiths Beach Resort,"Yallingup, Western Australia",Australia,AU,operating,LX 036867,LX BQBSMI,LX 20510,LX BQBSM,https://smithsbeachresort.com.au/
 AI-6JH0W1,Conrad Singapore Orchard,Singapore,Singapore,SG,operating,CN 001149,CN SIN711,CN 16711,CN SINOD,https://www.hilton.com/en/hotels/sinodci-conrad-singapore-orchard/
 AI-6JTN01,Conrad Koh Samui,Koh Samui,Thailand,TH,operating,CN 113220,CN USM888,CN 79753,CN 11322,https://www.hilton.com/en/hotels/usmksci-conrad-koh-samui/
+AI-6K05WP,Hotel Flüela Davos,Davos,Switzerland,CH,operating,HY 603787,HY ZDV304,HY 02233,HY DAVUB,https://www.hyatt.com/unbound-collection/en-US/davub-hotel-fluela-davos
 AI-6KJ0ZK,CUVEE J2 HOTEL OSAKA by Onko Chishin,Osaka,Japan,JP,operating,LX 607126,LX ITMCJO,LX DI043,LX A0102,https://j2.by-onko-chishin.com/en/
 AI-6MA0Y7,"THE AMNIS, a Luxury Collection Hotel, Kaohsiung",Kaohsiung,"Taiwan, China",TW,operating,LC 387285,LC KHHLCK,LC G8959,LC KHHLC,https://www.marriott.com/en-us/hotels/khhlc/overview/
 AI-6MJ6G3,Sowaka,Kyoto,Japan,JP,operating,LX 388166,LX UKYSOW,LX G0817,LX ITMSO,https://sowaka.com/eng/
@@ -528,6 +550,7 @@ AI-777W46,Ritz Paris,Paris,France,FR,operating,LW 004713,LW PAR008,LW 08441,LW 0
 AI-78WVMK,"Phoenician Residences, a Luxury Collection Residence Club, Scottsdale",Scottsdale,United States,US,operating,LC 101081,LC PHX652,LC 90265,LC 5652,https://www.marriott.com/en-us/hotels/phxpr/overview/
 AI-79A8GP,The Ranch at Rock Creek,Philipsburg,United States,US,operating,LW 164877,LW DRUTRR,LW 64127,WB TXLTR,https://theranchatrockcreek.com/
 AI-79K1V1,Fairmont Royal York,Toronto,Canada,CA,operating,FA 008828,FA YYZRYH,FA 17791,FA TORPR,https://www.fairmont.com/en/hotels/toronto/fairmont-royal-york.html
+AI-79Q9H9,Kimpton Tres Ríos,Playa del Carmen,Mexico,MX,operating,KC 624650,KC PCM94C,KC J5142,KC 6476,https://www.ihg.com/kimptonhotels/hotels/us/en/tres-rios-riviera-maya/pcmht/hoteldetail
 AI-79YB08,Andara Resort & Villas,Phuket,Thailand,TH,operating,PH 111936,PH HKTARV,PH 72813,PH HKTAR,https://www.andaraphuket.com/
 AI-7AFT5V,The Westin Rusutsu Resort,Rusutsu,Japan,JP,operating,WI 304797,WI SPK369,WI B7855,WI 4369,https://rusutsu.com/en/the-westin-rusutsu-resort/room/
 AI-7AJ0CN,The Rome EDITION,Rome,Italy,IT,operating,EB 600873,EB ROMEBE,EB H5255,EB ROMEB,https://www.marriott.com/en-us/hotels/romeb/overview/
@@ -547,6 +570,7 @@ AI-7G3KM8,Amanbagh,Ajabgarh,India,IN,operating,AM 024923,AM JAIAMA,AM 37945,AM A
 AI-7GEQGP,"Mandarin Oriental, Desaru Coast",Desaru Coast,Malaysia,MY,operating,MO 327646,MO JHBODC,MO F5088,MO JHBOC,
 AI-7GKKWC,Four Seasons Hotel Kyoto,Kyoto,Japan,JP,operating,FS 292823,FS UKY640,FS B7640,FS 29282,https://www.fourseasons.com/kyoto/
 AI-7HBFAK,InterContinental Pattaya Resort,Pattaya,Thailand,TH,operating,IC 039232,IC UTP3AE,IC C3290,IC 9134,
+AI-7HNV95,Kissel Uptown Oakland,Oakland,United States,US,operating,HY 394599,HY OAKUB7,HY G8437,HY OAKUB,https://www.hyatt.com/unbound-collection/en-US/oakub-kissel-uptown-oakland
 AI-7J5R5A,Hotel Indigo London Clerkenwell,London,United Kingdom,GB,operating,IN 615114,IN LON195,IN I8297,IN 9195,
 AI-7J8TD2,Miralago Luxury Apartments,Cernobbio,Italy,IT,operating,LW 620774,LW MILMLA,LW DK644,,https://www.miralagoluxuryapartments.com/
 AI-7JTA40,Alila Ventana Big Sur,Big Sur,United States,US,operating,HY 056312,HY MRY001,HY 33198,HY 0009,https://www.hyatt.com/alila-hotels-and-resorts/en-US/sjcal-ventana-big-sur
@@ -577,6 +601,7 @@ AI-80EESP,Birkenhead House,Hermanus,South Africa,ZA,operating,LW 601171,LW CPTBR
 AI-810TNB,Hostal de la Gavina,Girona,Spain,ES,operating,LW 013848,LW GRO106,LW 08568,LW 1406,https://www.lagavina.com/
 AI-814ZP4,Stanly Ranch,Napa,United States,US,operating,AU 392631,YX APCSTA,AU G6122,AU SFOST,https://auberge.com/stanly-ranch/
 AI-829Q6W,"Santa Marina, a Luxury Collection Resort, Mykonos",Mykonos,Greece,GR,operating,LC 032355,LC JMKXCW,LC 16984,LC 1194,https://www.marriott.com/en-us/hotels/jmklc/overview/
+AI-82VAK5,Hôtel Palais de la Méditerranée,Nice,France,FR,operating,HY 057000,HY NCEHRN,HY 63982,HY NCEHR,https://www.hyatt.com/unbound-collection/en-US/ncehr-hotel-palais-de-la-mediterranee
 AI-832274,Shangri-La Wenzhou,Wenzhou,China,CN,operating,SG 041786,SG WNZSLW,SG 96835,SG WNZSL,https://www.shangri-la.com/en/wenzhou/shangrila/
 AI-83R5J9,The Peninsula Beverly Hills,Beverly Hills,United States,US,operating,PN 045860,PN LAX795,PN 57806,PN 1795,
 AI-845ZS6,Raffles Jakarta,Jakarta,Indonesia,ID,operating,YR 225649,YR JKTRJK,YR A7583,YR YRRJK,https://www.raffles.com/jakarta/
@@ -593,6 +618,7 @@ AI-88XYFD,Hotel Shigira Mirage,"Miyakojima, Okinawa",Japan,JP,operating,LX 28637
 AI-8A55ZZ,Andaz Mexico City Condesa,Mexico City,Mexico,MX,operating,HY 397872,HY MEXAZA,HY H2300,HY MEXAZ,https://www.hyatt.com/andaz/en-US/mexaz-andaz-mexico-city-condesa
 AI-8A9RSM,Cala Beach Resort,Punta Ala,Italy,IT,operating,LW 042391,LW PSA190,LW 54991,,https://www.calabeachresort.com/
 AI-8B705S,The Windsor Court,New Orleans,United States,US,operating,PH 004762,PH MSYWCH,PH 08551,PH MSYWC,https://thewindsorcourt.com/
+AI-8B9HQZ,Miraval Austin Resort and Spa,Austin,United States,US,operating,YX 070165,YX AUSTCR,YX E8701,YX AUSMA,https://www.hyatt.com/miraval/en-US/ausob-miraval-austin-resort-and-spa
 AI-8CQGCH,"Fairmont Baku, Flame Towers",Baku,Azerbaijan,AZ,operating,FA 147074,FA BAKAZE,FA 00212,FA FAAZE,https://www.fairmont.com/en/hotels/baku/fairmont-baku-flame-towers.html
 AI-8CYCGS,The Brazilian Court Hotel,Palm Beach,United States,US,operating,LW 025659,LW PBI723,LW 95119,LW 1723,https://www.thebraziliancourt.com/
 AI-8DBBHY,Six Senses Bhutan,Thimphu,Bhutan,BT,operating,IG 321941,IG PBHSSB,IG E8805,IG PBHSB,
@@ -603,6 +629,7 @@ AI-8FB194,Brenners Park-Hotel & Spa,Baden-Baden,Germany,DE,operating,OT 004722,O
 AI-8FMGRY,"Mandarin Oriental Palace, Luzern",Lucerne,Switzerland,CH,operating,MO 397065,MO QLJMOP,MO H1159,MO ZRHMO,
 AI-8G3PWM,InterContinental Dongguan,Dongguan,China,CN,operating,IC 388890,IC XHOE42,IC G1567,IC 7746,
 AI-8G6HNH,Grand Hotel Excelsior Vittoria,Sorrento,Italy,IT,operating,LW 012298,LW RRO126,LW 17796,LW 2126,https://excelsiorvittoria.com/
+AI-8GA6BG,The NANU Changsha,Changsha,China,CN,pre_opening,HY 626211,,,,https://www.hyatt.com/unbound-collection/en-US/cnaal-the-nanu-changsha
 AI-8GC7Y6,Cheval Blanc Randheli,Noonu Atoll,Maldives,MV,operating,,,NV A1506,NV LOCBR,https://www.chevalblanc.com/en/maison/randheli/
 AI-8J4CVH,Amangani,Jackson Hole,United States,US,temporarily_closed,,,,,https://www.aman.com/resorts/amangani
 AI-8JGYGA,The Danai,Nikiti,Greece,GR,operating,LW 050565,LW SKG807,LW 18490,LW 0807,https://thedanai.com/
@@ -611,7 +638,7 @@ AI-8JYBJM,The Fifth Avenue Hotel,New York,United States,US,operating,LW 392391,L
 AI-8KAA6T,One&Only Moonlight Basin,Big Sky,United States,US,operating,OO 612879,,,,https://www.oneandonlyresorts.com/moonlight-basin
 AI-8KCA2W,Hôtel Barrière Le Majestic Cannes,Cannes,France,FR,operating,LW 013077,LW CEQ614,LW 91789,LW 0614,https://www.hotelsbarriere.com/en/cannes/le-majestic
 AI-8KDJGT,"ITC Sonar, a Luxury Collection Hotel, Kolkata",Kolkata,India,IN,operating,LC 054718,LC CCU463,LC 60363,LC 1463,https://www.marriott.com/en-us/hotels/cculc/overview/
-AI-8KG582,Honor Resort Yun Shu Dali,Dali,China,CN,operating,LX 321550,LX DLUHRY,LX E6823,LX DLUHR,https://slh.com/hotels/honor-resort-yun-shu-dali
+AI-8KG582,Honor Resort Yun Shu Dali,Dali,China,CN,operating,LX 321550,LX DLUHRY,LX E6823,LX DLUHR,
 AI-8KXP76,"Marbella Club Hotel, Golf Resort & Spa",Marbella,Spain,ES,operating,LW 004759,LW QRL109,LW 08397,LW 1409,https://www.marbellaclub.com/
 AI-8MTPK9,The Red Sea EDITION,Red Sea,Saudi Arabia,SA,operating,EB 613855,EB RSIEBE,EB I9399,EB EJHEB,https://www.marriott.com/en-us/hotels/ejheb/overview/
 AI-8N2CSB,Hotel Indigo Melbourne Little Collins,Melbourne,Australia,AU,operating,IN 613837,,,,https://www.ihg.com/hotelindigo/hotels/us/en/melbourne/melgo/hoteldetail
@@ -631,7 +658,9 @@ AI-8XAA33,Shangri-La Baotou,Baotou,China,CN,operating,SG 053127,SG BAVLBT,SG 683
 AI-8XFD8E,InterContinental Doha Beach & Spa,Doha,Qatar,QA,operating,IC 056063,IC DOHICA,IC 31215,IC DOHHA,
 AI-8YHS2C,"The Ritz-Carlton, Shenzhen",Shenzhen,China,CN,operating,RZ 026376,RZ SZXRZZ,RZ 99082,RZ SZXRZ,https://www.marriott.com/en-us/hotels/szxrz/overview/
 AI-8YP2B1,Kimpton Seafire Resort + Spa,Grand Cayman,Cayman Islands,KY,operating,KC 307933,KC GCMKSR,KC C3190,KC GCMKS,
+AI-8YV2FH,Orient Express La Minerva,Rome,Italy,IT,operating,OF 002660,OF ROMORI,OF 21681,OF FCOHM,https://www.orient-express.com/en/hotel/europe/italy/rome/la-minerva/orient-express-la-minerva
 AI-8Z12YS,"Hotel New Otani Tokyo ""EXECUTIVE HOUSE ZEN""",Tokyo,Japan,JP,operating,NO 281432,BC TYOZEN,NO B3921,BC TYOZE,https://www.newotani.co.jp/en/tokyo/stay/exe/
+AI-8ZF3F4,Carmel Valley Ranch,Carmel,United States,US,operating,HY 038300,HY MRYCVR,HY 95499,HY MRYCV,https://www.hyatt.com/unbound-collection/en-US/sjcjc-carmel-valley-ranch
 AI-8ZV1P5,Aman Rosa Alpina,San Cassiano,Italy,IT,operating,AM 049732,AM BZO194,AM 24011,AM 2194,https://www.aman.com/resorts/aman-rosa-alpina
 AI-900VRB,Hotel Monte Mulini,Rovinj,Croatia,HR,operating,LW 002375,LW PUY150,LW 06510,LW 3150,https://www.maistra.com/
 AI-90B1B2,The St. Regis Astana,Astana,Kazakhstan,KZ,operating,XR 312389,XR NQZ180,XR D1270,XR 4180,https://www.marriott.com/en-us/hotels/tsexr/overview/
@@ -654,7 +683,9 @@ AI-95YAC4,Forest Chem Chem,Tarangire,Tanzania,TZ,operating,,,,,https://auberge.c
 AI-9621YZ,InterContinental Citystars Cairo,Cairo,Egypt,EG,operating,IC 028731,IC CAIICC,IC 69721,IC CROHC,
 AI-96AVEH,Villa la Massa,Florence,Italy,IT,operating,LW 064389,LW FLR131,LW 22011,LW 2131,https://www.villalamassa.com/
 AI-96QMY7,Shangri-La Toronto,Toronto,Canada,CA,operating,SG 162456,SG YYZTOR,SG 75849,SG YYZSG,https://www.shangri-la.com/en/toronto/shangrila/
-AI-97R3HG,Fairmont Breakers Long Beach,Long Beach,United States,US,operating,FA 608435,FA LGBFAI,FA I3648,,https://www.fairmont.com/en/hotels/long-beach/fairmont-breakers-long-beach.html
+AI-974CTE,Fordson Hotel,Oklahoma City,United States,US,operating,HY 305606,HY OKCMGA,HY F6103,HY OKCUB,https://www.hyatt.com/unbound-collection/en-US/okcub-fordson-hotel
+AI-97FDAN,Yada Xishan Hotel Yixing,Yixing,China,CN,operating,HY 606317,HY WUXUBY,HY I1943,HY WUXUB,https://www.hyatt.com/unbound-collection/en-US/wuxub-yada-xishan-hotel-yixing
+AI-97R3HG,Fairmont Breakers Long Beach,Long Beach,United States,US,operating,FA 608435,FA LGBFAI,FA I3648,FA FALGB,https://www.fairmont.com/en/hotels/long-beach/fairmont-breakers-long-beach.html
 AI-980P4J,Amanzoe,Porto Heli,Greece,GR,operating,AM 166469,AM ATHAAZ,AM 75767,AM AAZO,https://www.aman.com/resorts/amanzoe
 AI-993QSG,The Chedi Katara Hotel & Resort,Katara Cultural Village,Qatar,QA,operating,LW 602974,LW DOHKAT,LW H7570,LW DOHKA,https://www.chedihotels.com/katara/
 AI-99443W,Amanwella,Tangalle,Sri Lanka,LK,operating,AM 027377,AM DIWAAW,AM 37210,AM AAWE,https://www.aman.com/resorts/amanwella
@@ -675,20 +706,23 @@ AI-9FAWVN,"Shangri-La Nanshan, Shenzhen",Shenzhen,China,CN,operating,SG 604547,S
 AI-9GQM45,Blanket Bay,Glenorchy,New Zealand,NZ,operating,WB 028797,WB ZQNBBY,WB 10604,WB ZQNBB,https://blanketbay.com/
 AI-9GTYTK,Bulgari Hotel Roma,Rome,Italy,IT,operating,BG 602173,BG ROMBGB,BG H6724,BG ROMBG,https://www.bulgarihotels.com/en_US/rome
 AI-9HV2CR,Nishimuraya Honkan,Toyooka,Japan,JP,operating,WB 311804,WB TJHNHK,WB C9418,WB TJHNH,https://www.nishimuraya.ne.jp/honkan/
+AI-9HZZV2,"Old Cataract, Aswan",Aswan,Egypt,EG,operating,MO 018874,MO ASWOLD,MO 56898,MO SFSAW,https://www.mandarinoriental.com/en/aswan/old-cataract
 AI-9J390W,Borgo Santo Pietro,Chiusdino,Italy,IT,operating,LW 185770,LW SAYRBS,LW 38642,LW FLRRB,https://borgosantopietro.com/
 AI-9JJDRS,Regent Phu Quoc,Phu Quoc,Vietnam,VN,operating,RE 390433,RE PQCA39,RE G1742,RE 6713,
 AI-9K4WP5,Four Seasons Hotel Tokyo at Marunouchi,Tokyo,Japan,JP,operating,FS 061110,FS TYO957,FS 39957,FS 61110,https://www.fourseasons.com/tokyo/
 AI-9MCVFK,The Branson Beach Estate,Virgin Gorda,British Virgin Islands,VG,operating,VL 606117,,,,https://www.virginlimitededition.com/the-branson-beach-estate/
 AI-9MF3E2,InterContinental Danang Sun Peninsula Resort,Da Nang,Vietnam,VN,operating,IC 143881,IC DADICA,IC 54416,IC DADHA,
-AI-9MGVX6,Fairmont La Marina Rabat-Salé,Rabat,Morocco,MA,operating,FA 286448,,,,https://www.fairmont.com/en/hotels/rabat/fairmont-la-marina-rabat-sale.html
+AI-9MGVX6,Fairmont La Marina Rabat-Salé,Rabat,Morocco,MA,operating,FA 286448,FA RBAFLM,FA H3527,FA FLRBA,https://www.fairmont.com/en/hotels/rabat/fairmont-la-marina-rabat-sale.html
 AI-9MTWPS,Grand Resort Lagonissi,Attica,Greece,GR,operating,LW 036687,LW ATH804,LW 39038,LW 0804,https://www.lagonissiresort.gr/
 AI-9MW1GW,One&Only Palmilla,Los Cabos,Mexico,MX,operating,OO 039584,OO SJD459,OO 52642,OO 7883,https://www.oneandonlyresorts.com/palmilla
 AI-9N24DM,Hotel Splendide Royal Roma,Rome,Italy,IT,operating,LW 057101,LW ROMSPL,LW 34199,LW 42153,https://www.splendideroyal.com/
 AI-9NJ5RV,Fairmont Grand Del Mar,San Diego,United States,US,operating,FA 074351,FA SANGMH,FA 19918,FA SANGM,https://www.fairmont.com/en/hotels/san-diego/fairmont-grand-del-mar.html
+AI-9NPTK8,Brunfels Hotel,Mainz,Germany,DE,operating,HY 608074,HY QMZ324,HY 47981,HY FRAUM,https://www.hyatt.com/unbound-collection/en-US/fraum-brunfels-hotel
 AI-9P381Y,Royal Hotel Sanremo,Sanremo,Italy,IT,operating,LW 004724,LW NCE210,LW 08379,LW 2110,https://www.royalhotelsanremo.com/
 AI-9PH666,Palazzo Gattini,Matera,Italy,IT,operating,LW 108438,LW BRIPGL,LW D2811,LW 09626,https://www.vretreats.com/palazzo-gattini/
 AI-9PMZ5R,Kimpton Mirador Pacific Grove Monterey,Pacific Grove,United States,US,operating,KC 617660,KC MRYEDG,KC J0272,KC 237,
 AI-9PR8A1,Savoy Palace,Madeira Island,Portugal,PT,operating,LW 321955,LW FNCSAV,LW E7635,LW 1319,https://www.savoysignature.com/
+AI-9Q5H03,"La Résidence Phou Vao, a Luxury Collection Resort & Spa, Luang Prabang",Luang Prabang,Laos,LA,operating,LC 016057,,,,https://laresidencehotels.com/phou-vao
 AI-9QVM83,Four Seasons Resort and Residences Jackson Hole,Teton Village,United States,US,operating,FS 037523,FS JAC980,FS 52980,FS 37523,https://www.fourseasons.com/jacksonhole/
 AI-9R5278,Hotel Sacher Wien,Vienna,Austria,AT,operating,LW 030068,LW VIE108,LW 60331,LW 0108,https://www.sacher.com/
 AI-9RDW9E,Rosewood São Paulo,São Paulo,Brazil,BR,operating,RW 393692,RW GRURSP,RW G7266,RW GRURS,https://www.rosewoodhotels.com/en/sao-paulo
@@ -699,10 +733,11 @@ AI-9V008F,Relais d’Amboise,Amboise,France,FR,operating,LW 623562,LW TUFRDA,LW 
 AI-9V3VNA,Regent Shanghai on the Bund,Shanghai,China,CN,operating,RE 604387,RE SHAFA6,RE H9123,RE 4006,
 AI-9VHQAT,InterContinental Osaka,Osaka,Japan,JP,operating,IC 177549,IC OSA433,IC 44198,IC 1075,
 AI-9VNVZN,"Hotel Savoy, A Rocco Forte Hotel",Florence,Italy,IT,operating,FC 050493,FC FLR109,FC 25483,FC 2109,https://www.roccofortehotels.com/hotels-and-resorts/hotel-savoy/
-AI-9VNZGD,"Buahan, A Banyan Tree Escape",Bali,Indonesia,ID,operating,BY 394951,,,,https://www.banyantree.com/escape/indonesia/buahan-a-banyan-tree-escape
-AI-9WHBQJ,Fairmont Bangkok Sukhumvit,Bangkok,Thailand,TH,operating,FA 617494,FA BKKFAI,,,https://www.fairmont.com/en/hotels/bangkok/fairmont-bangkok-sukhumvit.html
+AI-9VNZGD,"Buahan, A Banyan Tree Escape",Bali,Indonesia,ID,operating,BY 394951,BY DPSESC,BY G9259,,https://www.banyantree.com/escape/indonesia/buahan-a-banyan-tree-escape
+AI-9WHBQJ,Fairmont Bangkok Sukhumvit,Bangkok,Thailand,TH,operating,FA 617494,FA BKKFAI,FA J0390,FA FABKK,https://www.fairmont.com/en/hotels/bangkok/fairmont-bangkok-sukhumvit.html
 AI-9WT06K,"Masseria Torre Maizza, A Rocco Forte Hotel",Savelletri di Fasano,Italy,IT,operating,FC 087660,FC BDSMTM,FC B0623,FC BRIMT,https://www.roccofortehotels.com/hotels-and-resorts/masseria-torre-maizza/
 AI-9X6FFA,"The Surrey, A Corinthia Hotel, New York",New York,United States,US,operating,IA 605721,IA NYCTSC,IA I0819,IA JFKTS,https://www.corinthia.com/en-gb/new-york/
+AI-9XGCBG,The Driskill,Austin,United States,US,operating,HY 023001,HY AUSTDH,HY 18821,HY AUSHD,https://www.hyatt.com/unbound-collection/en-US/aushd-the-driskill
 AI-9Y1VP7,"The Ritz-Carlton Maui, Kapalua",Kapalua,United States,US,operating,RZ 027448,RZ JHMKAP,RZ 23478,RZ JHMRZ,https://www.marriott.com/en-us/hotels/jhmrz/overview/
 AI-9Y3J9W,"The Ritz-Carlton, Philadelphia",Philadelphia,United States,US,operating,RZ 051672,RZ PHLRTZ,RZ 26088,RZ PHLRT,https://www.marriott.com/en-us/hotels/phlrt/overview/
 AI-9ZGFKD,"Paraiso de la Bonita, a Luxury Collection Resort, Riviera Maya, Adult All-Inclusive",Puerto Morelos,Mexico,MX,operating,IM 614480,,,,https://www.marriott.com/en-us/hotels/cunpb/overview/
@@ -725,7 +760,7 @@ AI-A6M2DX,Sleeping Indian Lodge,Ridgway,United States,US,operating,,,,,https://a
 AI-A6X44D,Pestana Palace Lisboa - Hotel & National Monument,Lisbon,Portugal,PT,operating,LW 055712,LW LIS310,LW 31236,,https://www.pestana.com/en/hotel/pestana-palace
 AI-A77WYM,Banyan Tree Mayakoba,Riviera Maya,Mexico,MX,operating,BY 383336,BY PCMMAY,BY F8556,BY YAPCM,https://www.banyantree.com/mexico/mayakoba
 AI-A82QFG,InterContinental The Red Sea Resort,Red Sea,Saudi Arabia,SA,operating,IC 615049,IC RSI256,IC I8461,IC 8790,
-AI-A8GYKT,"The Joseph, a Luxury Collection Hotel, Nashville",Nashville,United States,US,operating,LC 385409,LC BNALJL,LC F8810,LC BNALJ,https://www.marriott.com/en-us/hotels/bnalj/overview/
+AI-A8GYKT,"The Joseph, a Luxury Collection Hotel, Nashville",Nashville,United States,US,operating,LC 385409,LC BNALJL,LC F8810,LC BNALJ,https://www.thejosephnashville.com/
 AI-A8SXTY,Fairmont Royal Pavilion,St. James,Barbados,BB,operating,FA 029639,FA BGIRPV,FA 17790,FA BARPR,https://www.fairmont.com/en/hotels/barbados/fairmont-royal-pavilion.html
 AI-A93F1B,Kimpton Shorebreak Resort,Huntington Beach,United States,US,operating,KC 104185,KC SNA456,KC 98295,KC 15456,
 AI-A95A4V,Villars Palace,Villars-sur-Ollon,Switzerland,CH,operating,LW 396738,LW ZLAPAL,LW H0732,,https://www.villarspalace.ch/
@@ -736,6 +771,7 @@ AI-ABFGZV,The Kahala Hotel & Resort,Honolulu,United States,US,operating,LW 02183
 AI-ABP37P,Four Seasons Hotel Beijing,Beijing,China,CN,operating,FS 024736,FS BJS199,FS 32199,FS 24736,https://www.fourseasons.com/beijing/
 AI-ABP3RT,The Nai Harn,Phuket,Thailand,TH,operating,LW 015294,LW HKT831,LW 58262,LW 1821,https://www.thenaiharn.com/
 AI-AC6FFM,Hotel Indigo Verona – Grand Hotel Des Arts,Verona,Italy,IT,operating,IN 020329,IN VRNF2C,IN F9515,IN 7980,
+AI-AC9F55,"Canary Riverside Plaza London, Vignette Collection",London,United Kingdom,GB,operating,VT 045083,VT LON492,VT 97492,VT 45083,https://www.ihg.com/vignettecollection/hotels/us/en/london/loncp/hoteldetail
 AI-AD1370,Sirru Fen Fushi Private Lagoon,Shaviyani Atoll,Maldives,MV,operating,LW 607959,LW MLESFF,LW I3177,,https://sirrufenfushi.com/
 AI-AD4YD4,Conrad Chia Laguna Sardinia,Domus de Maria,Italy,IT,operating,CN 394872,CN CAG533,CN G8573,CN OLBCL,https://www.hilton.com/en/hotels/olbclci-conrad-chia-laguna-sardinia/
 AI-ADE1ED,One&Only Kéa Island,Kéa Island,Greece,GR,operating,OO 601312,OO ATHKEA,OO H6274,OO ATHKE,https://www.oneandonlyresorts.com/kea-island
@@ -743,28 +779,30 @@ AI-ADZ2BT,Salamander Middleburg,Middleburg,United States,US,operating,PH 184580,
 AI-AE90FY,Four Seasons Resort Lanai,Lanai City,United States,US,operating,FS 028383,FS LNY317,FS 05317,FS 28383,https://www.fourseasons.com/lanai/
 AI-AEA9V5,"Villa Sant'Andrea, A Belmond Hotel, Taormina Mare",Taormina,Italy,IT,operating,OE 003796,OE TFCVSA,OE 06962,OE CTASA,
 AI-AEBT4C,Amathus Beach Hotel Limassol,Limassol,Cyprus,CY,operating,LW 010845,LW QLI085,LW 08569,LW 0850,https://www.amathuslimassol.com/
-AI-AG9ETN,HUANG YAN 36 Hotel,Xiamen,China,CN,operating,LX 612025,LX XMNH36,LX DH015,LX A0022,https://slh.com/hotels/huang-yan-36-hotel
+AI-AG9ETN,HUANG YAN 36 Hotel,Xiamen,China,CN,operating,LX 612025,LX XMNH36,LX DH015,LX A0022,
 AI-AGK8DE,"Excelsior Hotel Gallia, a Luxury Collection Hotel, Milan",Milan,Italy,IT,operating,LC 225419,LC MIL107,LC A6932,LC 4107,https://www.marriott.com/en-us/hotels/millc/overview/
 AI-AGMYHD,ME Ibiza,Ibiza,Spain,ES,operating,LW 006240,LW IBZ440,LW 27220,LW 1440,https://www.melia.com/en/hotels/spain/ibiza/me-ibiza
 AI-AGQVE5,The St. Regis Abu Dhabi,Abu Dhabi,United Arab Emirates,AE,operating,XR 148090,XR AUH561,XR 16097,XR 3561,https://www.marriott.com/en-us/hotels/auhrx/overview/
 AI-AGV98K,Airelles Val d'Isère,Val d'Isère,France,FR,operating,YX 381204,YX VAZAVI,YX F7643,YX CMFAV,https://airelles.com/en/destination/val-d-isere-hotel
+AI-AGYWCW,The Cape Town EDITION,Cape Town,South Africa,ZA,operating,EB 622844,EB CPTEBE,EB J4960,EB CPTEB,https://www.marriott.com/en-us/hotels/cpteb/overview/
 AI-AGZ6D4,Helvetia & Bristol Firenze - Starhotels Collezione,Florence,Italy,IT,operating,LW 022397,LW FLR168,LW 43296,,https://collezione.starhotels.com/en/our-hotels/helvetia-and-bristol-florence/
 AI-AHT8M7,"Castello di Casole, A Belmond Hotel",Casole d'Elsa,Italy,IT,operating,OE 154788,OE FLRCDC,OE 65731,OE FLRCC,
 AI-AJEW9H,Andronis Arcadia,Oia,Greece,GR,operating,PH 325602,PH JTRAAH,PH G4712,PH JTRAA,https://www.andronis.com/hotels/andronis-arcadia
 AI-AJM5V4,"The Ritz-Carlton, Marina del Rey",Marina del Rey,United States,US,operating,RZ 023538,RZ LAXMDR,RZ 08898,RZ LAXMD,https://www.marriott.com/en-us/hotels/laxmd/overview/
+AI-AMY0Y9,Chicago Athletic Association,Chicago,United States,US,operating,HY 281533,HY CHICHA,HY B2744,HY ORDCH,https://www.hyatt.com/unbound-collection/en-US/chiub-chicago-athletic-association-hotel
 AI-ANTRMV,InterContinental Al Ahsa,Al Ahsa,Saudi Arabia,SA,operating,IC 014702,IC HOFICA,IC 47872,IC HOFHA,
 AI-AP0YQK,"The St. Regis Dubai, The Palm",Dubai,United Arab Emirates,AE,operating,XR 391890,XR DXBPXG,XR G5134,XR DXBPX,https://www.marriott.com/en-us/hotels/dxbpx/overview/
 AI-APPVY5,Andaz London Liverpool Street,London,United Kingdom,GB,operating,HY 049574,HY LONGRE,HY 86205,HY LONGE,https://www.hyatt.com/andaz/en-US/longe-andaz-london-liverpool-street
 AI-APXW9X,"Brown's Hotel, A Rocco Forte Hotel",London,United Kingdom,GB,operating,FC 011247,FC LON427,FC 63952,FC 0427,https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/
 AI-AQ3JHF,Hotel Indigo Lijiang Ancient Town,Lijiang,China,CN,operating,IN 177445,IN LJG4AE,IN 32862,IN 5294,
 AI-AQ4DB6,Royal Malewane,Hoedspruit,South Africa,ZA,operating,LW 618329,LW HDSROY,LW DJ592,LW 09596,https://www.theroyalportfolio.com/royal-malewane/
-AI-AQ9FF7,"Perry Lane Hotel, a Luxury Collection Hotel, Savannah",Savannah,United States,US,operating,LC 317565,LC SAV376,LC E1763,LC 4376,https://www.marriott.com/en-us/hotels/savlc/overview/
+AI-AQ9FF7,"Perry Lane Hotel, a Luxury Collection Hotel, Savannah",Savannah,United States,US,operating,LC 317565,LC SAV376,LC E1763,LC 4376,https://www.perrylanehotel.com/
 AI-AR01RN,"The Ritz-Carlton, Washington, D.C.",Washington,United States,US,operating,RZ 052413,RZ WASRTZ,RZ 27417,RZ WASRT,https://www.marriott.com/en-us/hotels/wasrt/overview/
 AI-AS24VN,Raffles Makati,Manila,Philippines,PH,operating,YR 163206,YR MNLRMN,YR 02063,YR YRRMN,https://www.raffles.com/makati/
 AI-AS2WYQ,Vignette Collection Dinso Resort & Villas Ko Chang,Koh Chang,Thailand,TH,operating,VT 611687,VT TDXB75,VT I5861,VT 2933,
 AI-ASGQBM,Emerald Faarufushi Resort & Spa,Raa Atoll,Maldives,MV,operating,LW 395545,LW MLEEFR,LW G9380,,https://www.emerald-faarufushi.com/
 AI-ASRYJV,Hotel des Trois Couronnes,Vevey,Switzerland,CH,operating,LW 005094,LW GVA635,LW 41701,LW 1635,https://www.troiscouronnes.ch/
-AI-ATS9Y2,Banyan Tree Zhuhai Phoenix Bay,Zhuhai,China,CN,operating,BY 619088,,,,https://www.banyantree.com/china/zhuhai-phoenix-bay
+AI-ATS9Y2,Banyan Tree Zhuhai Phoenix Bay,Zhuhai,China,CN,operating,BY 619088,BY ZUHBAN,BY J2102,BY BAZUH,https://www.banyantree.com/china/zhuhai-phoenix-bay
 AI-AVTY22,Six Senses Shaharut,Shaharut,Israel,IL,operating,IG 387254,,IG F9653,IG 1965,
 AI-AX7TY8,Fairmont Ambassador Seoul,Seoul,South Korea,KR,operating,FA 389986,FA SELDOR,FA G3115,FA NTICN,https://www.fairmont.com/en/hotels/seoul/fairmont-ambassador-seoul.html
 AI-AY8HEW,Jumby Bay Island,Jumby Bay,Antigua and Barbuda,AG,operating,OT 041136,OT ANU243,OT 59009,OT 41136,https://www.oetkerhotels.com/hotels/jumby-bay-island/
@@ -804,8 +842,9 @@ AI-BEPMHH,"The Ritz-Carlton, Kuala Lumpur",Kuala Lumpur,Malaysia,MY,operating,RZ
 AI-BFC540,Villa Nai 3.3,Žman,Croatia,HR,operating,LW 391970,LW ZADNAI,LW G5582,LW ZADVN,https://villanai.com/
 AI-BFDHK3,"Corinthia Palace, Malta",Balzan,Malta,MT,operating,IA 052881,IA MLACOR,IA 11634,IA ICPH,https://www.corinthia.com/en-gb/palace/
 AI-BFV45H,Kimpton Journeyman Hotel,Milwaukee,United States,US,operating,KC 307934,KC MKEKJN,KC C3192,KC MKEKJ,
-AI-BFZCER,Raffles Jeddah,Jeddah,Saudi Arabia,SA,operating,YR 617003,,,,https://www.raffles.com/jeddah/
+AI-BFZCER,Raffles Jeddah,Jeddah,Saudi Arabia,SA,operating,YR 617003,YR JEDRAF,YR I9758,YR RAJED,https://www.raffles.com/jeddah/
 AI-BGD7GZ,Hotel Indigo Venice – Sant’Elena,Venice,Italy,IT,operating,IN 324936,,,,
+AI-BH2M42,Waldorf Astoria Kuala Lumpur,Kuala Lumpur,Malaysia,MY,operating,WA 620957,WA KUL302,WA J2685,WA KULWA,https://www.hilton.com/en/hotels/kulwawa-waldorf-astoria-kuala-lumpur/
 AI-BHGZBY,Lily of the Valley,La Croix-Valmer,France,FR,operating,LW 323567,LW LTT655,LW F1254,LW 0655,https://www.lilyofthevalley.com/
 AI-BKK97N,InterContinental Paris – Le Grand,Paris,France,FR,operating,IC 001189,IC PARICB,IC 19232,IC PARHB,
 AI-BKPCF6,Coworth Park,Ascot,United Kingdom,GB,operating,DC 043223,DC LONCPK,DC 32353,DC LONCP,https://www.dorchestercollection.com/ascot/coworth-park
@@ -822,10 +861,12 @@ AI-BQ38PC,The Dunlin,Kiawah River,United States,US,operating,AU 606594,,,,https:
 AI-BQB8JY,Conrad Shenzhen,Shenzhen,China,CN,operating,CN 601582,CN SZX592,CN H6065,CN SZXCI,https://www.hilton.com/en/hotels/szxcici-conrad-shenzhen/
 AI-BQWN6X,Hotel Splendide Royal,Lugano,Switzerland,CH,operating,LW 004766,LW LUG611,LW 08467,LW 1611,https://www.splendide.ch/
 AI-BQZY44,Hotel Indigo Tokyo Shibuya,Tokyo,Japan,JP,operating,IN 600830,IN TYOEDA,IN H5293,IN 3802,
+AI-BRTZFN,"The Hari London, Vignette Collection",London,United Kingdom,GB,operating,VT 000841,VT LONHLB,VT 76896,VT LONHL,https://www.thehari.com/london/
 AI-BRXFZG,De L’Europe Amsterdam,Amsterdam,Netherlands,NL,operating,LW 004784,LW AMS093,LW 08389,LW 0903,https://www.deleurope.com/
 AI-BS8ZSQ,Kimpton Hotel Monaco Philadelphia,Philadelphia,United States,US,operating,KC 153461,KC PHLMPA,KC 54226,KC PHLMP,
 AI-BSM2WV,Aman Venice,Venice,Italy,IT,operating,AM 216547,AM VCECGV,AM A2238,AM AACG,https://www.aman.com/hotels/aman-venice
 AI-BSTTWS,Alila Villas Uluwatu,Bali,Indonesia,ID,operating,HY 087599,HY DPSAVU,HY 95699,,https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsav-alila-villas-uluwatu
+AI-BV69YJ,InterContinental Brisbane,Brisbane,Australia,AU,operating,IC 012017,IC BNE216,IC 04703,IC 05896,https://www.ihg.com/intercontinental/hotels/us/en/brisbane/bnehb/hoteldetail
 AI-BV7N7B,"Mandarin Oriental, Macau",Macau,China (Macau SAR),MO,operating,MO 023268,MO MFMMOM,MO 31165,MO 44667,
 AI-BVGSG6,InterContinental Fiji Golf Resort & Spa,Natadola,Fiji,FJ,operating,IC 085416,IC NTAICA,IC 70428,IC NANHA,
 AI-BVXJFT,Four Seasons Hotel Cairo at The First Residence,Cairo,Egypt,EG,operating,FS 040660,FS CAI627,FS 86627,FS 40660,https://www.fourseasons.com/cairofr/
@@ -839,6 +880,7 @@ AI-BZ1AZG,Andaz Amsterdam Prinsengracht,Amsterdam,Netherlands,NL,operating,HY 16
 AI-BZXHMF,"Park Hyatt Aviara Resort, Golf Club & Spa",Carlsbad,United States,US,operating,HY 017641,HY SANAVI,HY 75535,HY SANPA,https://www.hyatt.com/park-hyatt/en-US/sanpa-park-hyatt-aviara-resort
 AI-C08C6Y,Conrad Dubai,Dubai,United Arab Emirates,AE,operating,CN 159281,CN DXB182,CN 67759,CN 15928,https://www.hilton.com/en/hotels/dxbcdci-conrad-dubai/
 AI-C0SPAD,Alexander,Mexico City,Mexico,MX,operating,LW 606199,LW MEXADR,LW I1240,LW MEXAD,
+AI-C0ZMD0,The St. Regis London,London,United Kingdom,GB,pre_opening,XR 011004,XR LONXRG,XR J4216,XR LONXR,https://www.marriott.com/en-us/hotels/lonxr/overview/
 AI-C2690N,"The Ritz-Carlton, Haikou",Haikou,China,CN,operating,RZ 312241,RZ HAKRZZ,RZ C9927,RZ HAKRZ,https://www.marriott.com/en-us/hotels/hakrz/overview/
 AI-C2J053,The Capitol Hotel Tokyu,Tokyo,Japan,JP,operating,PH 010518,PH TYOCHT,PH 04919,PH TYOCH,https://www.tokyuhotels.co.jp/capitol-h/index.html
 AI-C2JRXS,Park Hyatt Vienna,Vienna,Austria,AT,operating,HY 218037,HY VIEPHV,HY A2468,HY VIEPH,https://www.hyatt.com/park-hyatt/en-US/vieph-park-hyatt-vienna
@@ -894,6 +936,7 @@ AI-CS2T2A,InterContinental Crete,Agios Nikolaos,Greece,GR,operating,IC 605816,IC
 AI-CS5DA0,"Palace Elisabeth, hvar heritage hotel",Hvar,Croatia,HR,operating,LW 326431,LW SPUAGZ,LW F3091,LW 3158,https://www.suncanihvar.com/palace-elisabeth
 AI-CSETAF,Hotel Indigo Dubai Downtown,Dubai,United Arab Emirates,AE,operating,IN 325180,IN DXB15A,IN F1261,IN 8538,
 AI-CSRHSF,"The Ritz-Carlton, Berlin",Berlin,Germany,DE,operating,RZ 061236,RZ BERZTZ,RZ 63099,RZ BERZT,https://www.marriott.com/en-us/hotels/berzt/overview/
+AI-CST857,Impression Isla Mujeres,Isla Mujeres,Mexico,MX,operating,OK 285235,OK ISJSII,OK H2735,OK 24957,https://www.hyatt.com/impression/en-US/seiim-impression-isla-mujeres
 AI-CT5E7C,Hotel Bardo Savannah,Savannah,United States,US,operating,LW 603770,LW SAVADA,LW H8706,LW SAVBA,https://www.staybardo.com/
 AI-CTPP3H,The Ritz London,London,United Kingdom,GB,operating,LW 010629,LW LON999,LW 55523,LW LONTR,https://www.theritzlondon.com/
 AI-CTQ7CP,The Nora Hotel,West Palm Beach,United States,US,operating,LW 621445,,LW DL215,LW 09618,https://norawpb.com/nora-hotel/
@@ -911,7 +954,8 @@ AI-D0P88S,The St. Regis Mexico City,Mexico City,Mexico,MX,operating,XR 081702,XR
 AI-D1R65T,"The Palace, a Luxury Collection Hotel, Madrid",Madrid,Spain,ES,operating,LC 050601,LC MADCLK,LC 26244,LC MADCL,https://www.marriott.com/en-us/hotels/madcl/overview/
 AI-D2015Y,Banyan Tree Kuala Lumpur,Kuala Lumpur,Malaysia,MY,operating,BY 322193,BY KULBAN,BY E7248,BY BYKUL,https://www.banyantree.com/malaysia/kuala-lumpur
 AI-D39VGW,Four Seasons Hotel New York Downtown,New York,United States,US,operating,FS 284417,FS NYC009,FS B7009,FS 28441,https://www.fourseasons.com/newyorkdowntown/
-AI-D4M9G8,Banyan Tree Jiuzhaigou,Jiuzhaigou,China,CN,operating,BY 319808,BY JZHBAN,,,https://www.banyantree.com/china/jiuzhaigou
+AI-D4M9G8,Banyan Tree Jiuzhaigou,Jiuzhaigou,China,CN,operating,BY 319808,BY JZHBAN,BY E4880,BY ANJZH,https://www.banyantree.com/china/jiuzhaigou
+AI-D4ZHF2,InterContinental Grenada Resort & Spa,St. David's,Grenada,GD,pre_opening,IC 622395,,,,https://www.ihg.com/intercontinental/hotels/us/en/la-sagesse/skblg/hoteldetail
 AI-D521HH,"ITC Kakatiya, a Luxury Collection Hotel, Hyderabad",Hyderabad,India,IN,operating,LC 023969,LC HYD119,LC 16401,LC 1119,https://www.marriott.com/en-us/hotels/hydlc/overview/
 AI-D5VJJM,Four Seasons Hotel Dalian,Dalian,China,CN,operating,FS 603563,FS DLC598,FS H8598,FS 60356,https://www.fourseasons.com/dalian/
 AI-D6ARAS,La Réserve Eden au Lac Zurich,Zurich,Switzerland,CH,operating,LW 010579,LW ZRHEAL,LW 78594,LW ZRHEL,https://www.lareserve-zurich.com/
@@ -923,6 +967,7 @@ AI-DAAY2N,The St. Regis Singapore,Singapore,Singapore,SG,operating,XR 081121,XR 
 AI-DAT076,Shangri-La Harbin,Harbin,China,CN,operating,SG 046075,SG HRBHAR,SG 07653,SG SGSHA,https://www.shangri-la.com/en/harbin/shangrila/
 AI-DBEDRP,Hotel El Roblar,Ojai,United States,US,operating,LW 615453,LW SBAROB,LW I8552,LW 09614,https://theroblar.com/
 AI-DBGNTN,"Parklane, a Luxury Collection Resort & Spa, Limassol",Limassol,Cyprus,CY,operating,LC 020710,LC QLI853,LC 07255,LC 1853,https://www.marriott.com/en-us/hotels/pfomd/overview/
+AI-DCQM43,Hotel Toranomon Hills,Tokyo,Japan,JP,operating,HY 602725,HY TYOUBT,HY H7442,HY TYOUB,https://www.hyatt.com/unbound-collection/en-US/tyoub-hotel-toranomon-hills
 AI-DE2B26,Four Seasons Hotel and Residences Cartagena,Cartagena,Colombia,CO,operating,FS 607730,FS CTG906,FS I2906,FS 60773,https://www.fourseasons.com/cartagena/
 AI-DE7S6G,Andaz Bali,Bali,Indonesia,ID,operating,HY 387411,HY DPSAZB,HY F9965,HY DPSAZ,https://www.hyatt.com/andaz/en-US/dpsaz-andaz-bali
 AI-DE834W,InterContinental Dubai Festival City,Dubai,United Arab Emirates,AE,operating,IC 079114,IC DXB759,IC 67445,IC DXBHB,
@@ -966,7 +1011,7 @@ AI-DZBQ10,One&Only Portonovi,Portonovi,Montenegro,ME,operating,OO 327982,OO TIVO
 AI-DZDP4X,Carlton Hotel St. Moritz,St. Moritz,Switzerland,CH,operating,LW 025045,LW SMV641,LW 39292,LW 1641,https://www.kulm.com/
 AI-DZE9JA,InterContinental Los Angeles Downtown,Los Angeles,United States,US,operating,IC 312215,IC LAX0BF,IC C9902,IC 8383,
 AI-DZECBK,"Rissai Valley, a Ritz-Carlton Reserve",Jiuzhaigou,China,CN,operating,RZ 602517,RZ JZHRZZ,RZ H7084,RZ JZHRZ,https://www.marriott.com/en-us/hotels/jzhrz/overview/
-AI-DZHFRC,"The Plaza, A Fairmont Hotel",New York,United States,US,operating,FA 078747,,,,https://www.fairmont.com/en/hotels/new-york-city/the-plaza.html
+AI-DZHFRC,"The Plaza, A Fairmont Hotel",New York,United States,US,operating,FA 078747,FA NYC100,FA 66538,FA NYC,https://www.fairmont.com/en/hotels/new-york-city/the-plaza.html
 AI-DZKHBM,Park Hyatt Busan,Busan,South Korea,KR,operating,HY 174694,HY PUSPHB,HY 92117,HY BUSPH,https://www.hyatt.com/park-hyatt/en-US/busph-park-hyatt-busan
 AI-E0DX9C,Royal Mansour Marrakech,Marrakech,Morocco,MA,operating,LW 038212,LW RAK009,LW 35915,LW 6009,
 AI-E0F63S,Fairmont Chateau Lake Louise,Lake Louise,Canada,CA,operating,FA 001827,FA YBACLL,FA 17755,FA LAKPL,https://www.fairmont.com/en/hotels/lake-louise/fairmont-chateau-lake-louise.html
@@ -992,6 +1037,8 @@ AI-E9M3T0,InterContinental Singapore Robertson Quay,Singapore,Singapore,SG,opera
 AI-E9QK7Y,Fairmont Copley Plaza,Boston,United States,US,operating,FA 010487,FA BOS100,FA 77077,FA FABOS,https://www.fairmont.com/en/hotels/boston/fairmont-copley-plaza.html
 AI-E9VASK,Sun Gardens Dubrovnik,Dubrovnik,Croatia,HR,operating,LW 101910,LW DBV151,LW 67750,LW 3151,https://www.dubrovniksungardens.com/
 AI-EA34PH,Andaz One Bangkok,Bangkok,Thailand,TH,operating,HY 617306,HY BKKAZB,HY J0678,HY BKKAZ,https://www.hyatt.com/andaz/en-US/bkkaz-andaz-one-bangkok
+AI-EAFKVS,InterContinental Taipei,Taipei,"Taiwan, China",TW,operating,IC 623215,,,,https://www.ihg.com/intercontinental/hotels/us/en/taipei/tpepi/hoteldetail
+AI-EAGWRV,Soneva Fushi,Baa Atoll,Maldives,MV,operating,YX 022048,YX MLEFUS,YX 74090,YX MLEFU,https://soneva.com/resorts/soneva-fushi/
 AI-EAJRCG,ANA InterContinental Tokyo,Tokyo,Japan,JP,operating,IC 027819,IC TYOICC,IC 59943,IC TYOHC,
 AI-EB843K,Aman Le Mélézin,Courchevel,France,FR,operating,AM 066839,AM CVFAAL,AM 74282,AM AALE,https://www.aman.com/resorts/aman-le-melezin
 AI-EC8K44,The St. Regis Aspen Resort,Aspen,United States,US,operating,XR 027455,XR ASE244,XR 23475,XR 244,https://www.marriott.com/en-us/hotels/asexr/overview/
@@ -1013,11 +1060,12 @@ AI-EK1WR8,Four Seasons Resort and Residences Puerto Rico,Río Grande,Puerto Rico
 AI-EK5YFC,"Villa Igiea, A Rocco Forte Hotel",Palermo,Italy,IT,operating,FC 282803,FC PMORFH,FC B4599,FC 00736,https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/
 AI-EKNB4C,Hotel Granduca Houston,Houston,United States,US,operating,LW 013673,LW IAH721,LW 11091,LW 2721,https://www.granducahouston.com/
 AI-EKRA8P,Alila Mayakoba,Playa del Carmen,Mexico,MX,operating,HY 310588,HY CUNAZM,HY C7395,HY CUNAM,https://www.hyatt.com/alila-hotels-and-resorts/en-US/cunam-alila-mayakoba
+AI-EKT3CP,Grayson Hotel,New York,United States,US,operating,HY 396968,HY NYCGUB,HY H1080,HY NYCUB,https://www.hyatt.com/unbound-collection/en-US/nycub-grayson-hotel
 AI-EM01FK,InterContinental Jeddah,Jeddah,Saudi Arabia,SA,operating,IC 035022,IC JEDICA,IC 20362,IC JEDHA,
 AI-EM9FQA,"Hotel Eden Roc, Ascona",Ascona,Switzerland,CH,operating,LW 050206,LW ZJI619,LW 25000,LW 1619,https://tschuggencollection.ch/en/hotel/hotel-eden-roc
 AI-EMSB7Q,Tivoli Avenida Liberdade,Lisbon,Portugal,PT,operating,LW 013055,LW LIS318,LW 21520,LW 1318,https://www.tivolihotels.com/
 AI-EP95WW,Four Seasons Hotel Baku,Baku,Azerbaijan,AZ,operating,FS 143109,FS BAK060,FS 90060,FS 14310,https://www.fourseasons.com/baku/
-AI-EPMAPZ,Hangzhou Muh Shoou Xixi Hotel,Hangzhou,China,CN,operating,LX 328866,,,,https://www.muhshoouxixi.cn/
+AI-EPMAPZ,Hangzhou Muh Shoou Xixi Hotel,Hangzhou,China,CN,operating,LX 328866,,,,
 AI-EQ0VF2,Capella Hanoi,Hanoi,Vietnam,VN,operating,CJ 391903,YX HANCAP,YX G5251,CJ 07023,https://capellahotels.com/en/capella-hanoi
 AI-EQ9CNN,"The Langley, a Luxury Collection Hotel, Buckinghamshire",Iver,United Kingdom,GB,operating,LC 319744,LC LON820,LC E4291,LC 4820,https://www.marriott.com/en-us/hotels/loniv/overview/
 AI-EQHWZR,"The Setai, Miami Beach",Miami Beach,United States,US,operating,LW 054271,LW MIA701,LW 13460,LW 2701,https://www.thesetaihotel.com/
@@ -1030,15 +1078,17 @@ AI-ESJM2D,"The Ritz-Carlton, Half Moon Bay",Half Moon Bay,United States,US,opera
 AI-ETB0HR,Hotel Indigo Kuala Lumpur On The Park,Kuala Lumpur,Malaysia,MY,operating,IN 603028,IN KULDC0,IN H7700,IN 7616,
 AI-ETPQ13,Hotel Adlon Kempinski,Berlin,Germany,DE,operating,KI 030510,KI BERKE1,KI 76844,KI BER02,https://www.kempinski.com/en/hotel-adlon
 AI-ETXMB1,Waldorf Astoria Las Vegas,Las Vegas,United States,US,operating,WA 114822,WA LASMVE,WA 24176,WA LASMV,https://www.hilton.com/en/hotels/laswdwa-waldorf-astoria-las-vegas/
+AI-ETYKJX,Hôtel Martinez,Cannes,France,FR,operating,HY 011936,HY CEQGHC,HY 08529,HY JCAGH,https://www.hyatt.com/unbound-collection/en-US/jcagh-hotel-martinez
 AI-EV7XZV,Shangri-La Qufu,Qufu,China,CN,operating,SG 178253,SG JNGQUF,SG 64377,SG JNGQU,https://www.shangri-la.com/en/qufu/shangrila/
 AI-EXKGQF,Aman New York,New York,United States,US,operating,AM 392700,AM NYCANY,AM G6269,AM EWRNY,https://www.aman.com/hotels/aman-new-york
 AI-EY8JAR,The Fullerton Hotel Singapore,Singapore,Singapore,SG,operating,PH 055979,PH SINFUS,PH 31587,PH 80379,https://www.fullertonhotels.com/fullerton-hotel-singapore
 AI-EY8JB2,The Greenwich Hotel,New York,United States,US,operating,LW 005475,LW NYC730,LW 51536,LW 2730,https://www.thegreenwichhotel.com/
+AI-EYBVKR,Maison Métier,New Orleans,United States,US,operating,HY 323561,HY MSYMDL,HY I5628,HY MSYUM,https://www.hyatt.com/unbound-collection/en-US/msyum-maison-metier
 AI-EZB1NF,Grand Resort Zürserhof,Zürs am Arlberg,Austria,AT,operating,LW 617489,LW ZRSZUE,LW DJ313,,https://www.zuerserhof.at/
 AI-EZJGH7,Grand Velas Riviera Maya,Playa del Carmen,Mexico,MX,operating,PH 020017,PH CUNGVR,PH 98751,PH CUNGV,https://rivieramaya.grandvelas.com/
 AI-EZMJZV,"Six Senses Southern Dunes, The Red Sea",Red Sea,Saudi Arabia,SA,operating,IG 602843,IG RSI4A0,IG H7428,IG 0074,
 AI-F0BQ1F,Sensira Resort & Spa Riviera Maya Mexico,Puerto Morelos,Mexico,MX,operating,WV 620618,,,,https://sensiraresorts.com/
-AI-F0C1Y0,Fairmont Chengdu,Chengdu,China,CN,temporarily_closed,,,,,https://www.fairmont.com/en/hotels/chengdu/fairmont-chengdu.html
+AI-F0C1Y0,"Palm Springs Hotel Chengdu, Vignette Collection",Chengdu,China,CN,operating,VT 309122,VT CTUCHG,VT C5421,VT FACHG,https://www.ihg.com/vignettecollection/hotels/us/en/chengdu/ctups/hoteldetail
 AI-F0P541,Four Seasons Hotel Houston,Houston,United States,US,operating,FS 012014,FS HOU513,FS 09513,FS 12014,https://www.fourseasons.com/houston/
 AI-F0ZRG0,Conrad Los Angeles,Los Angeles,United States,US,operating,CN 395078,CN LAX046,CN G8912,CN LAXAV,https://www.hilton.com/en/hotels/laxavci-conrad-los-angeles/
 AI-F15BQP,The St. Regis Venice,Venice,Italy,IT,operating,XR 326746,XR VCEXRG,XR F3940,XR VCEXR,https://www.marriott.com/en-us/hotels/vcexr/overview/
@@ -1055,6 +1105,7 @@ AI-F61WDF,One&Only Mandarina,Riviera Nayarit,Mexico,MX,operating,OO 328103,OO PV
 AI-F6TD2A,"Shangri-La Qaryat Al Beri, Abu Dhabi",Abu Dhabi,United Arab Emirates,AE,operating,SG 048448,,,,https://www.shangri-la.com/en/abudhabi/shangrila/
 AI-F7597F,Jumeirah Olhahali Island,North Malé Atoll,Maldives,MV,operating,JT 393884,,,,https://www.jumeirah.com/en/stay/maldives/jumeirah-olhahali-island
 AI-F7PJK7,Seven Villas,Hangzhou,China,CN,operating,WB 312981,WB HGHSVH,WB D0795,WB HGHSV,http://www.sevenvillas.cn/
+AI-F7VTQX,The Lost Stone Villas & Spa,Tengchong,China,CN,operating,HY 327417,,,,https://www.hyatt.com/unbound-collection/en-US/tczub-the-lost-stone-villas-and-spa
 AI-F8CB5J,J.K. Place Capri,Capri,Italy,IT,operating,LW 075554,LW NAP197,LW 36873,LW 2197,https://www.jkplaces.com/jkcapri/
 AI-F8P7T1,Kimpton Miralina Resort & Villas,Scottsdale,United States,US,operating,KC 024694,KC PHXSPR,KC 85652,KC PHXSP,
 AI-F93SN0,Constance Prince Maurice,Poste de Flacq,Mauritius,MU,operating,LW 050752,LW MRU026,LW 33214,,https://www.constancehotels.com/en/hotels-resorts/prince-maurice/
@@ -1101,10 +1152,12 @@ AI-FPZD8X,"Hotel Goldener Hirsch, a Luxury Collection Hotel, Salzburg",Salzburg,
 AI-FQCDYB,La Casa de la Playa,Playa del Carmen,Mexico,MX,operating,LW 395935,LW PCMLCR,LW G9852,LW PCMLC,https://www.lacasadelaplaya.com/
 AI-FQESPD,Shangri-La Huhhot,Hohhot,China,CN,operating,SG 030421,,,,https://www.shangri-la.com/en/huhhot/shangrila/
 AI-FQQCFE,Hotel Weisses Rössl Kitzbühel,Kitzbühel,Austria,AT,operating,LW 317658,LW SZG110,LW E2559,,https://www.roesslkitz.at/
+AI-FR2RWZ,IL Tornabuoni Hotel,Florence,Italy,IT,operating,HY 021910,HY FLR163,HY 76392,HY FLRUB,https://www.hyatt.com/unbound-collection/en-US/flrub-il-tornabuoni
 AI-FRDDQW,Shangri-La Manzhouli,Manzhouli,China,CN,operating,SG 138163,SG NZHSHM,SG 88404,SG NZHSM,https://www.shangri-la.com/en/manzhouli/shangrila/
 AI-FRNP01,Hotel Jerome,Aspen,United States,US,operating,AU 024799,YX ASE374,AU 93915,AU 8374,https://auberge.com/hotel-jerome/
 AI-FRWJBV,Hotel Indigo Phuket Patong,Phuket,Thailand,TH,operating,IN 323447,IN HKT378,IN E8706,IN 9080,
 AI-FS125D,Palazzo Venart Luxury Hotel,Venice,Italy,IT,operating,LW 311635,LW VCE195,LW C8929,LW 2195,https://www.ldchotelsitaly.com/
+AI-FS6WFT,Park Hyatt Riviera Maya,Riviera Maya,Mexico,MX,pre_opening,HY 623443,,,,https://www.hyatt.com/park-hyatt/en-US/canph-park-hyatt-riviera-maya
 AI-FS7251,Falkensteiner Family Hotel Montafon,Tschagguns,Austria,AT,operating,LW 397208,LW ANT484,LW H1321,,https://www.falkensteiner.com/en/hotel-montafon
 AI-FSYM7Z,Rosewood Doha,Lusail,Qatar,QA,operating,RW 607841,,,,https://www.rosewoodhotels.com/en/doha
 AI-FT7XPK,Four Seasons Hotel Milano,Milan,Italy,IT,operating,FS 035441,FS MIL740,FS 06740,FS 33228,https://www.fourseasons.com/milan/
@@ -1148,6 +1201,8 @@ AI-G8ZRNF,InterContinental Perth City Centre,Perth,Australia,AU,operating,IC 315
 AI-G96KNM,The Dominick,New York,United States,US,operating,PH 048128,PH NYCSSH,PH 39063,PH NYCSS,https://www.thedominickhotel.com/
 AI-G9DTDN,La Badira,Hammamet,Tunisia,TN,operating,LW 003868,LW NBE072,LW B2172,LW 6072,https://www.labadira.com/
 AI-GA2333,The St. Regis Zhuhai,Zhuhai,China,CN,operating,XR 319870,XR ZUH598,XR E4644,XR 3598,https://www.marriott.com/en-us/hotels/zuhxr/overview/
+AI-GA9GKZ,Kimpton Ashbel New York - Park Avenue,New York,United States,US,operating,KC 043597,KC NYCSPA,KC 68795,KC SPA,https://www.ihg.com/kimptonhotels/hotels/us/en/new-york/nycpk/hoteldetail
+AI-GASE7K,Mumian Chengdu Dong'an Lake Resort,Chengdu,China,CN,operating,HY 611621,,,,https://www.hyatt.com/unbound-collection/en-US/ctdub-mumian-chengdu-dongan-lake
 AI-GB88Z7,Amankora,Paro,Bhutan,BT,operating,AM 065108,AM PBHAMA,AM G4038,AM PBHMA,https://www.aman.com/resorts/amankora
 AI-GBXKAA,"Mandarin Oriental, Guangzhou",Guangzhou,China,CN,operating,MO 154220,MO CANMOG,MO 61674,MO CANMO,
 AI-GCK0Z6,Terme di Saturnia Natural SPA & Golf Resort,Saturnia,Italy,IT,operating,LW 029753,LW ROMHTE,LW 72013,,https://www.termedisaturnia.it/
@@ -1201,6 +1256,8 @@ AI-GXSHK7,Four Seasons Hotel Shenzhen,Shenzhen,China,CN,operating,FS 171398,FS S
 AI-GY07SA,Myconian Villa Collection,Mykonos,Greece,GR,operating,PH 313991,PH JMKMVR,PH D6140,PH JMKMV,https://www.myconianvillas.gr/
 AI-GYS36W,Fairmont Empress,Victoria,Canada,CA,operating,FA 001450,FA YYJEMP,FA 17770,FA VICPT,https://www.fairmont.com/en/hotels/victoria/fairmont-empress.html
 AI-GZBDTA,Fairmont The Norfolk,Nairobi,Kenya,KE,operating,FA 004701,FA NBO602,FA 08511,FA 60027,https://www.fairmont.com/en/hotels/nairobi/fairmont-the-norfolk.html
+AI-GZJZ4E,Andaz Gold Coast,Gold Coast,Australia,AU,operating,HY 623029,,,,https://www.hyatt.com/andaz/en-US/oolaz-andaz-gold-coast
+AI-GZKNV9,La Zambra Resort,Mijas,Spain,ES,operating,HY 395953,HY AGPUBA,HY G9879,HY AGPUB,https://www.hyatt.com/unbound-collection/en-US/agpub-la-zambra-resort
 AI-H0ZQHR,Villa d'Este,Cernobbio,Italy,IT,operating,LW 004778,LW MXP212,LW 08537,LW 2112,
 AI-H12579,"Four Seasons Hotel George V, Paris",Paris,France,FR,operating,FS 004065,FS PAR837,FS 05837,FS 4065,https://www.fourseasons.com/paris/
 AI-H17JZF,Hotel Principe di Savoia,Milan,Italy,IT,operating,DC 040047,DC MIL145,DC 58598,DC 2145,https://www.dorchestercollection.com/milan/hotel-principe-di-savoia
@@ -1210,6 +1267,7 @@ AI-H2JCBN,"Mandarin Oriental, Marrakech",Marrakech,Morocco,MA,operating,MO 22743
 AI-H2JVEV,"Casa J.K. Place, Roma",Rome,Italy,IT,operating,LW 619373,LW ROMJKR,LW DK032,,https://www.jkplaces.com/casa-jkroma/
 AI-H30EH3,ESPACIO The Hakone Geihinkan Rin Poh Ki Ryu,Ashigarashimo-gun,Japan,JP,operating,LW 607987,LW HNDETH,LW I3198,,https://houoh.jp/
 AI-H3F1KB,The St. Regis Longboat Key Resort,Longboat Key,United States,US,operating,XR 607285,XR SRQLSG,XR I2408,XR SRQLS,https://www.marriott.com/en-us/hotels/srqls/overview/
+AI-H3YWPD,Commune By The Great Wall,Beijing,China,CN,operating,HY 392309,HY PEKUBC,HY G5875,HY PEKUB,https://www.hyatt.com/unbound-collection/en-US/pekub-commune-by-the-great-wall
 AI-H43W4W,Nayara Gardens,La Fortuna,Costa Rica,CR,operating,LW 007506,LW LIRANH,LW 71216,WB SJOAN,https://nayaragardens.com/
 AI-H4HN5D,"The Ritz-Carlton, Astana",Astana,Kazakhstan,KZ,operating,RZ 313066,RZ NQZRZZ,RZ D0878,RZ TSERZ,https://www.marriott.com/en-us/hotels/tserz/overview/
 AI-H5HJE4,The Bodrum EDITION,Bodrum,Turkiye,TR,operating,EB 321499,EB BJVEBE,EB E6775,EB BJVEB,https://www.marriott.com/en-us/hotels/bjveb/overview/
@@ -1238,6 +1296,7 @@ AI-HEMX0R,Park Hyatt Shenzhen,Shenzhen,China,CN,operating,HY 324723,HY SZXPHS,HY
 AI-HFBV7J,Château de La Chèvre d’Or,Eze-Village,France,FR,operating,WB 032478,WB NCECDL,WB 14396,WB CD31,https://www.chevredor.com/
 AI-HG3QYW,InterContinental Phu Quoc Long Beach Resort,Phu Quoc,Vietnam,VN,operating,IC 319250,IC PQC9A8,IC E3598,IC 6568,
 AI-HG9MXH,Conrad Bengaluru,Bengaluru,India,IN,operating,CN 315402,CN BLR705,CN D9348,CN BLRKR,https://www.hilton.com/en/hotels/blrkrci-conrad-bengaluru/
+AI-HGTNNC,Hotel Seville NoMad,New York,United States,US,operating,HY 313866,HY NYCTJN,HY D5894,HY NYCUD,https://www.hyatt.com/unbound-collection/en-US/nycud-hotel-seville-nomad
 AI-HH72Q7,Conrad London St. James,London,United Kingdom,GB,operating,CN 143076,CN LON944,CN 74275,CN 14307,https://www.hilton.com/en/hotels/loncoci-conrad-london-st-james/
 AI-HH8YVZ,The Terrace Club Wellness Thalasso at Busena,"Nago, Okinawa",Japan,JP,operating,LX 252061,LX OKAAAV,LX C4295,LX OKATC,https://clubatbusena.terrace.co.jp/en
 AI-HHHR2H,The Peninsula New York,New York,United States,US,operating,PN 046333,PN NYC772,PN 57831,PN 1772,
@@ -1270,6 +1329,7 @@ AI-J0M86G,"The Ritz-Carlton, Dove Mountain",Marana,United States,US,operating,RZ
 AI-J0NZRG,Inn at Perry Cabin,St. Michaels,United States,US,operating,PH 027058,PH BWIPCI,PH 15775,PH BWIPC,https://innatperrycabin.com/
 AI-J194CE,"The St. Regis Kanai Resort, Riviera Maya",Riviera Maya,Mexico,MX,operating,XR 287731,XR CUNXRG,XR H4171,XR CUNXR,https://www.marriott.com/en-us/hotels/cunxr/overview/
 AI-J19501,InterContinental Sapporo,Sapporo,Japan,JP,operating,IC 614192,IC SPK640,IC I7818,IC 640,
+AI-J1MN6B,Hôtel Reisen,Stockholm,Sweden,SE,operating,HY 032382,HY STORUB,HY 43931,HY ARNUB,https://www.hyatt.com/unbound-collection/en-US/arnub-hotel-reisen
 AI-J3S3C9,Rosewood Bangkok,Bangkok,Thailand,TH,operating,RW 324225,RW BKKRWB,RW E9956,RW DMKRW,https://www.rosewoodhotels.com/en/bangkok
 AI-J3VGR6,Marquis Los Cabos All Inclusive Resort & Spa,San José del Cabo,Mexico,MX,operating,LW 044772,LW SJD524,LW 55448,LW 7524,https://www.marquisloscabos.com/
 AI-J42Z4N,InterContinental Chengdu Global Center,Chengdu,China,CN,operating,IC 186540,IC CTU31E,IC 66140,IC 0798,
@@ -1290,8 +1350,10 @@ AI-JBWT61,"Four Seasons Maldives Private Island at Voavah, Baa Atoll",Baa Atoll,
 AI-JC0QZE,Waldorf Astoria Atlanta Buckhead,Atlanta,United States,US,operating,WA 080388,WA ATLMPT,WA 71929,WA ATLMP,https://www.hilton.com/en/hotels/atlwawa-waldorf-astoria-atlanta-buckhead/
 AI-JC3SWJ,Bulgari Resort Bali,Bali,Indonesia,ID,operating,BG 034876,BG DPSBGB,BG 78132,BG DPSBG,https://www.bulgarihotels.com/en_US/bali
 AI-JCB22S,Kimpton Main Frankfurt,Frankfurt,Germany,DE,operating,KC 612234,KC FRA42B,KC I6227,KC 5163,
+AI-JD1XDR,"Mandarin Oriental Makati, Manila",Makati City,Philippines,PH,pre_opening,MO 624062,MO MNLMKT,MO DL916,MO 06696,https://www.mandarinoriental.com/en/manila/makati
 AI-JD8B58,Jumeirah Burj Al Arab,Dubai,United Arab Emirates,AE,operating,JT 049282,JT DXB208,JT 21235,JT 6208,https://www.jumeirah.com/en/stay/dubai/jumeirah-burj-al-arab-a-jumeirah-icon
 AI-JDQG9A,Torfhús Retreat,Bláskógabyggð,Iceland,IS,operating,LX 606797,,,,https://www.torfhus.is/
+AI-JDS7KA,THE BARAI HUA HIN,Hua Hin,Thailand,TH,operating,HY 621466,HY HHQUBH,,,https://www.hyatt.com/unbound-collection/en-US/hhqub-the-barai-hua-hin
 AI-JDT2AK,Hotel Indigo Taipei North,Taipei,"Taiwan, China",TW,operating,IN 380920,IN TPE5FD,IN F7220,IN 9725,
 AI-JEVCP6,"The Roosevelt New Orleans, A Waldorf Astoria Hotel",New Orleans,United States,US,operating,WA 109431,WA MSY701,WA 39878,WA 10943,https://www.hilton.com/en/hotels/msyrhwa-the-roosevelt-new-orleans/
 AI-JFB9FX,Waldorf Astoria Doha Lusail,Doha,Qatar,QA,operating,WA 397218,WA DOH015,WA H1331,WA DOHQT,https://www.hilton.com/en/hotels/dohqtwa-waldorf-astoria-doha-lusail/
@@ -1302,6 +1364,7 @@ AI-JGXEGX,Fairmont Scottsdale Princess,Scottsdale,United States,US,operating,FA 
 AI-JH406V,L'Andana Resort,Castiglione della Pescaia,Italy,IT,operating,LW 026776,LW GRS143,LW 16935,,https://www.andana.it/
 AI-JHFKJ2,Fairmont St Andrews,St Andrews,United Kingdom,GB,operating,FA 057682,FA EDISAB,FA 35081,FA EDISA,https://www.fairmont.com/en/hotels/st-andrews/fairmont-st-andrews.html
 AI-JHN1CT,"The Ritz-Carlton, Langkawi",Langkawi,Malaysia,MY,operating,RZ 314976,RZ LGKRZZ,RZ D8889,RZ LGKRZ,https://www.marriott.com/en-us/hotels/lgkrz/overview/
+AI-JHRJZE,The Digby,Savannah,United States,US,pre_opening,,,,,https://www.hyatt.com/unbound-collection/en-US/savub-the-digby
 AI-JJH8GE,Four Seasons Hotel Bogotá,Bogotá,Colombia,CO,operating,FS 282125,FS BOG923,FS B2923,FS 28212,https://www.fourseasons.com/bogota/
 AI-JK0JRX,"Mandarin Oriental, Lago di Como",Lake Como,Italy,IT,operating,MO 014447,MO QCM233,MO 64172,MO 46233,
 AI-JKARC5,Hotel Rangá,Sudurlandsvegur,Iceland,IS,operating,LX 084791,LX REK007,LX 77857,LX 17007,https://hotelranga.is/
@@ -1310,13 +1373,14 @@ AI-JM0V4D,"The Carlyle, A Rosewood Hotel",New York,United States,US,operating,RW
 AI-JMDGN4,The Post Oak Hotel at Uptown Houston,Houston,United States,US,operating,PH 318949,PH HOUTPH,PH E3544,PH HOUTP,https://www.thepostoakhotel.com/
 AI-JMNKB6,Wildflower Farms,Hudson Valley,United States,US,operating,AU 397037,,,,https://auberge.com/wildflower-farms/
 AI-JMR8QS,One&Only The Palm,Dubai,United Arab Emirates,AE,operating,OO 132595,OO DXBOOP,OO 30190,OO DXBOO,https://www.oneandonlyresorts.com/the-palm
-AI-JMTXDE,Mahali Mzuri,Olare Motorogi Conservancy,Kenya,KE,operating,,,,,https://www.virginlimitededition.com/mahali-mzuri/
+AI-JMTXDE,Mahali Mzuri,Olare Motorogi Conservancy,Kenya,KE,operating,VL 317442,,,,https://www.virginlimitededition.com/mahali-mzuri/
 AI-JPATQF,Hotel Royal - Evian Resort,Evian,France,FR,operating,LW 004796,LW GVA609,LW 08436,LW 0609,https://hotel-royal.evianresort.com:443/
 AI-JQ1TV8,Jumeirah Mallorca,Mallorca,Spain,ES,operating,JT 146476,JT PMIJPS,JT 89576,JT PMIJP,https://www.jumeirah.com/en/stay/mallorca/jumeirah-mallorca
 AI-JQ2DJJ,"The Ritz-Carlton, Bali",Bali,Indonesia,ID,operating,RZ 226439,RZ DPSSWZ,RZ A8132,RZ DPSSW,https://www.marriott.com/en-us/hotels/dpssw/overview/
 AI-JQXH74,"Shangri-La Resort, Shangri-La",Shangri-La,China,CN,operating,SG 284376,SG DIGASH,SG B6346,SG LJGAB,https://www.shangri-la.com/en/yunnan/shangrila/
 AI-JR85CX,Anantara Koh Yao Yai Resort & Villas,Phang Nga,Thailand,TH,operating,LW 601836,LW HKTAKY,LW H6493,NT 10015,https://www.anantara.com/en/koh-yao-yai-phuket
 AI-JS3WBK,"The Gritti Palace, a Luxury Collection Hotel, Venice",Venice,Italy,IT,operating,LC 040073,LC VCE073,LC 58612,LC 073,https://www.marriott.com/en-us/hotels/vcegl/overview/
+AI-JSRCBM,Waldorf Astoria London - Admiralty Arch,London,United Kingdom,GB,pre_opening,WA 623846,,,,https://www.hilton.com/en/hotels/lonenwa-waldorf-astoria-london-admiralty-arch/
 AI-JV6JC3,Princes' Palace Resort,Istanbul,Turkiye,TR,operating,LW 607149,LW ISTPPR,LW I2424,LW ISTPR,
 AI-JW4A6E,Fairmont Le Château Montebello,Montebello,Canada,CA,operating,FA 009465,FA YOWLCM,FA 17781,FA MTBPC,https://www.fairmont.com/en/hotels/montebello/fairmont-le-chateau-montebello.html
 AI-JW7V01,"Hotel Paracas, a Luxury Collection Resort, Paracas",Paracas,Peru,PE,operating,LC 115267,LC PIO513,LC 52449,LC 3513,https://www.marriott.com/en-us/hotels/piolc/overview/
@@ -1342,7 +1406,7 @@ AI-K4K917,Kimpton Maa-Lai Bangkok,Bangkok,Thailand,TH,operating,KC 328984,KC BKK
 AI-K59K2D,"Monasterio, A Belmond Hotel, Cusco",Cusco,Peru,PE,operating,OE 027513,OE CUZ018,OE 16499,OE 7018,
 AI-K5P2YJ,Hotel Sacher Salzburg,Salzburg,Austria,AT,operating,LW 004720,LW SZG103,LW 41688,LW 0103,https://www.sacher.com/en/salzburg/
 AI-K69K9X,Banyan Tree Sanya,Sanya,China,CN,operating,BY 079610,BY SYXBTT,BY 81509,BY SYXBT,https://www.banyantree.com/china/sanya
-AI-K72JCA,Thanda Safari,KwaZulu Natal,South Africa,ZA,operating,LW 051401,LW DUR058,LW 77475,,https://thanda.com/thanda-properties/thanda-safari/
+AI-K72JCA,Jumeirah Thanda Safari,KwaZulu Natal,South Africa,ZA,operating,LW 051401,LW DUR058,LW 77475,,https://www.jumeirah.com/en/stay/south-africa/jumeirah-thanda-safari
 AI-K791SC,"Mandarin Oriental Ritz, Madrid",Madrid,Spain,ES,operating,MO 013158,MO MAD404,MO 77984,MO 1404,
 AI-K7RDYJ,Wequassett Resort and Golf Club,Harwich,United States,US,operating,PH 008271,PH HYA185,PH 21774,PH 6711,https://wequassett.com/
 AI-K91WHX,"Fairmont Orchid, Hawaii",Kohala Coast,United States,US,operating,FA 023624,FA KOAORC,FA 72454,FA ORCFA,https://www.fairmont.com/en/hotels/hawaii-big-island/fairmont-orchid.html
@@ -1374,6 +1438,7 @@ AI-KK0R8K,Hotel Indigo Bangkok Wireless Road,Bangkok,Thailand,TH,operating,IN 22
 AI-KKJEE9,Conrad Jiuzhaigou,Jiuzhaigou,China,CN,operating,CN 393256,CN JZH579,CN G6639,CN JZHCI,https://www.hilton.com/en/hotels/jzhcici-conrad-jiuzhaigou/
 AI-KKKRAH,"Mandarin Oriental, Canouan",Canouan,Saint Vincent and the Grenadines,VC,operating,MO 317685,MO CIWCAN,MO E1910,MO CIWCA,
 AI-KM8GEQ,San Clemente Palace Venice,Venice,Italy,IT,operating,PH 005337,PH VCEPVH,PH 53687,PH VCEPV,https://www.sanclementepalace.it/
+AI-KMQAD8,Mumian Shaoxing,Shaoxing,China,CN,operating,HY 614791,,,,https://www.hyatt.com/unbound-collection/en-US/saxub-mumian-shaoxing
 AI-KN5K66,Pensione America,Forte dei Marmi,Italy,IT,operating,LW 614099,LW PSAPEN,LW DH727,LW 09574,https://www.pensioneamerica.com/
 AI-KNJYD5,Conrad Hangzhou Tonglu,Hangzhou,China,CN,operating,CN 324856,CN HGH579,CN F1012,CN HGHYF,https://www.hilton.com/en/hotels/hghyfci-conrad-hangzhou-tonglu/
 AI-KNN139,"The Cadogan, A Belmond Hotel, London",London,United Kingdom,GB,operating,OE 310113,OE LONCAD,OE C6555,OE CADHO,
@@ -1389,6 +1454,7 @@ AI-KSKX1M,Amantaka,Luang Prabang,Laos,LA,operating,AM 106590,AM LPQAAT,AM 87063,
 AI-KT8PRJ,Park Hyatt Chennai,Chennai,India,IN,operating,HY 159346,HY MAAPHC,HY 81906,HY CHEPH,https://www.hyatt.com/park-hyatt/en-US/cheph-park-hyatt-chennai
 AI-KTNB56,"Sheraton Grande Sukhumvit, a Luxury Collection Hotel, Bangkok",Bangkok,Thailand,TH,operating,LC 020815,,,,https://www.marriott.com/en-us/hotels/bkklc/overview/
 AI-KVFPMW,The Lana,Dubai,United Arab Emirates,AE,operating,DC 602868,DC DXBTLA,DC H7453,DC DXBTL,https://www.dorchestercollection.com/dubai/the-lana
+AI-KVPA9V,The Clayfield,Niagara-on-the-Lake,Canada,CA,operating,HY 618007,,,,https://www.hyatt.com/unbound-collection/en-US/iagub-the-clayfield
 AI-KVZ06V,"Solaz, a Luxury Collection Resort, Los Cabos",San José del Cabo,Mexico,MX,operating,LC 318014,,,,https://www.marriott.com/en-us/hotels/sjdlc/overview/
 AI-KWG12V,Four Seasons Hotel des Bergues Geneva,Geneva,Switzerland,CH,operating,FS 011289,FS GVA525,FS 76525,FS 11289,https://www.fourseasons.com/geneva/
 AI-KWG1PG,Banyan Tree Suzhou Shishan,Suzhou,China,CN,operating,BY 608289,BY SZVBAN,BY I3503,BY BASZV,https://www.banyantree.com/china/suzhou-shishan
@@ -1410,7 +1476,7 @@ AI-M28G9N,The St. Regis Rome,Rome,Italy,IT,operating,XR 040071,XR ROM071,XR 5861
 AI-M30GTE,The St. Regis Hong Kong,Hong Kong,China (Hong Kong SAR),HK,operating,XR 326155,XR HKGXRX,XR F2485,XR HKGXR,https://www.marriott.com/en-us/hotels/hkgxr/overview/
 AI-M3CB6M,"Al Messila, a Luxury Collection Resort & Spa, Doha",Doha,Qatar,QA,operating,LC 327100,LC DOHLAK,LC F3911,LC DOHLA,https://www.marriott.com/en-us/hotels/dohla/overview/
 AI-M3HG4F,Amandayan,Lijiang,China,CN,operating,AM 280464,AM LJGAMA,AM B1677,AM LJGAM,https://www.aman.com/resorts/amandayan
-AI-M3RESY,"Ubuyu, A Banyan Tree Escape",Ruaha National Park,Tanzania,TZ,operating,BY 619028,,,,https://www.banyantree.com/escape/tanzania/ubuyu-a-banyan-tree-escape
+AI-M3RESY,"Ubuyu, A Banyan Tree Escape",Ruaha National Park,Tanzania,TZ,operating,BY 619028,BY IRIUBU,BY J1401,BY UBIRI,https://www.banyantree.com/escape/tanzania/ubuyu-a-banyan-tree-escape
 AI-M4EPVT,The Dylan Amsterdam,Amsterdam,Netherlands,NL,operating,LW 044268,LW AMSBLK,LW 96172,LW AMSBL,https://www.dylanamsterdam.com/
 AI-M4Z2YX,Masseria Donna Menga,Nardò,Italy,IT,operating,LW 606308,LW BDSMDM,LW I1338,LW BDSMD,https://www.masseriadonnamenga.com/
 AI-M5G5C9,"The Ritz-Carlton, Melbourne",Melbourne,Australia,AU,operating,RZ 600327,RZ MELRZZ,RZ H4781,RZ MELRZ,https://www.marriott.com/en-us/hotels/melrz/overview/
@@ -1428,7 +1494,7 @@ AI-M9HXPK,Fonteverde Thermal Spa Resort | Tuscany,Tuscany,Italy,IT,operating,LW 
 AI-M9NV7T,Il Salviatino,Florence,Italy,IT,operating,PH 076093,PH FLRISH,PH 75770,PH FLRIS,https://salviatino.com/
 AI-MB53NX,Shangri-La Qingdao,Qingdao,China,CN,operating,SG 039493,SG TAOSHQ,SG 84867,SG SGSLQ,https://www.shangri-la.com/en/qingdao/shangrila/
 AI-MB9JBH,InterContinental Amman (Jordan),Amman,Jordan,JO,operating,IC 001142,IC AMMICA,IC 19262,IC AMMHA,
-AI-MBPXZX,Fairmont Tazi Palace Tangier,Tangier,Morocco,MA,operating,FA 286399,FA TNGFTP,FA H3504,,https://www.fairmont.com/en/hotels/tangier/fairmont-tazi-palace-tangier.html
+AI-MBPXZX,Fairmont Tazi Palace Tangier,Tangier,Morocco,MA,operating,FA 286399,FA TNGFTP,FA H3504,FA FTTNG,https://www.fairmont.com/en/hotels/tangier/fairmont-tazi-palace-tangier.html
 AI-MEHYEV,Peter Island Resort,Peter Island,British Virgin Islands,VG,operating,PH 008256,PH TOVPIR,PH 21688,PH BRIPI,https://www.peterisland.com/
 AI-MEZ3XB,The Dupont Circle Hotel,Washington,United States,US,operating,PH 011676,PH WASDCH,PH 97603,PH WASDC,https://www.doylecollection.com/hotels/the-dupont-circle-hotel
 AI-MFHNDX,"The Excelsior, a Luxury Collection Hotel, Florence",Florence,Italy,IT,operating,LC 050593,LC FLRHEK,LC 26239,WI 043,https://www.marriott.com/en-us/hotels/flrhe/overview/
@@ -1436,6 +1502,7 @@ AI-MFHVAB,Raffles Europejski Warsaw,Warsaw,Poland,PL,operating,YR 319204,YR WAWR
 AI-MFM57V,"Suiran, a Luxury Collection Hotel, Kyoto",Kyoto,Japan,JP,operating,LC 271298,LC UKY239,LC B1816,LC 4239,https://www.marriott.com/en-us/hotels/ukylc/overview/
 AI-MFTQ1B,Shangri-La Chiang Mai,Chiang Mai,Thailand,TH,operating,SG 033849,SG CNXLCM,SG 45652,SG SLCM,https://www.shangri-la.com/en/chiangmai/shangrila/
 AI-MFXW3X,Rosewood Mandarina,Riviera Nayarit,Mexico,MX,operating,RW 610578,RW PVRRWM,RW I4985,RW PVRRM,https://www.rosewoodhotels.com/en/mandarina
+AI-MGH3CY,Keraton at The Plaza,Jakarta,Indonesia,ID,operating,HY 611773,HY JKTUBK,HY I5921,HY CGKUB,https://www.hyatt.com/unbound-collection/en-US/cgkub-keraton-at-the-plaza
 AI-MGNJN8,"Splendido, A Belmond Hotel",Portofino,Italy,IT,operating,OE 035682,OE GOA147,OE 62448,OE 2147,
 AI-MGR24V,Arakur Ushuaia Resort & Spa,Ushuaia,Argentina,AR,operating,LW 006462,LW USH042,LW A2407,LW 7042,https://arakur.com/
 AI-MH0C6S,The Jeddah EDITION,Jeddah,Saudi Arabia,SA,operating,EB 606864,EB JEDEBE,EB I1940,EB JEDEB,https://www.marriott.com/en-us/hotels/jedeb/overview/
@@ -1472,10 +1539,13 @@ AI-N1JD2R,Banyan Tree Hangzhou,Hangzhou,China,CN,operating,BY 059881,BY HGHBTH,B
 AI-N20S5K,Rosewood AMAALA,AMAALA,Saudi Arabia,SA,operating,,,,,https://www.rosewoodhotels.com/en/amaala
 AI-N2DPGN,The Joule,Dallas,United States,US,operating,LW 085992,LW DALJDH,LW 82711,LW DALJD,https://www.thejouledallas.com/
 AI-N2SJCX,The Global Ambassador,Phoenix,United States,US,operating,PH 604266,PH PHXGAH,PH H9037,PH PHXGA,https://www.globalambassadorhotel.com/
+AI-N3CN8P,Miraval The Red Sea,Red Sea,Saudi Arabia,SA,operating,HY 615063,,,,https://www.hyatt.com/miraval/en-US/rsiob-miraval-the-red-sea
+AI-N3TP2B,Great Scotland Yard Hotel,London,United Kingdom,GB,operating,HY 326577,HY LONUBL,HY F3356,HY LHRUB,https://www.hyatt.com/unbound-collection/en-US/lhrub-great-scotland-yard
 AI-N3X283,The St. Regis Maldives Vommuli Resort,Dhaalu Atoll,Maldives,MV,operating,XR 307673,XR MLE315,XR C4119,XR 4315,https://www.marriott.com/en-us/hotels/mlexr/overview/
 AI-N429GZ,Four Seasons Resort Mauritius at Anahita,Beau Champ,Mauritius,MU,operating,FS 024945,FS MRU183,FS 32183,FS 24945,https://www.fourseasons.com/mauritius/
 AI-N4427X,"Mandarin Oriental Downtown, Dubai",Dubai,United Arab Emirates,AE,operating,MO 611103,MO DXBMOD,MO DG827,MO 06689,
 AI-N4M1ZC,Waldorf Astoria Los Cabos Pedregal,Cabo San Lucas,Mexico,MX,operating,WA 103429,WA SJD424,WA 96023,WA 15424,https://www.hilton.com/en/hotels/sjdwawa-waldorf-astoria-los-cabos-pedregal/
+AI-N5SA80,Grand WUJI Hotel,Nanjing,China,CN,operating,HY 387853,HY NKGGWH,HY G1128,HY NKGUB,https://www.hyatt.com/unbound-collection/en-US/nkgub-grand-wuji-hotel
 AI-N5WAYB,The Place Firenze,Florence,Italy,IT,operating,LW 040303,LW FLR196,LW 58138,LW 2196,https://www.theplacefirenze.com/
 AI-N68VWD,Alila Kothaifaru Maldives,Raa Atoll,Maldives,MV,operating,HY 395585,HY MLEALM,HY G9845,HY MLDAL,https://www.hyatt.com/alila-hotels-and-resorts/en-US/mldal-alila-kothaifaru-maldives
 AI-N74E1A,"The Ritz-Carlton, Fort Lauderdale",Fort Lauderdale,United States,US,operating,RZ 041581,RZ FLLRZZ,RZ 38191,RZ FLLRZ,https://www.marriott.com/en-us/hotels/fllrz/overview/
@@ -1543,6 +1613,7 @@ AI-NXPYAW,"Corinthia St George's Bay, Malta",St. Julian's,Malta,MT,operating,IA 
 AI-NY0AEH,The St. Regis Langkawi,Langkawi,Malaysia,MY,operating,XR 284339,XR LGK194,XR B6210,XR 4194,https://www.marriott.com/en-us/hotels/lgkxr/overview/
 AI-NZ9KN2,Kimpton Gray Hotel,Chicago,United States,US,operating,KC 306242,KC CHITGA,KC C0498,KC MDWTG,
 AI-NZS7WY,Kimpton Atlântico Algarve,Albufeira,Portugal,PT,operating,KC 612532,KC FAO46D,KC I6372,KC 1133,
+AI-P03GP6,Fuji Speedway Hotel,Oyama,Japan,JP,operating,HY 397662,HY FSZFUJ,HY H2179,HY FSWUB,https://www.hyatt.com/unbound-collection/en-US/fswub-fuji-speedway-hotel
 AI-P0JMSB,"Saxon Hotel, Villas & Spa",Johannesburg,South Africa,ZA,operating,LW 048106,LW JNB062,LW 42139,,https://www.saxon.co.za/
 AI-P164PQ,"The Ritz-Carlton, Guangzhou",Guangzhou,China,CN,operating,RZ 060344,RZ CANRZZ,RZ 13949,RZ CANRZ,https://www.marriott.com/en-us/hotels/canrz/overview/
 AI-P1E3M6,Park Hyatt Guangzhou,Guangzhou,China,CN,operating,HY 284637,HY CANPHG,HY B6592,HY GUAPH,https://www.hyatt.com/park-hyatt/en-US/guaph-park-hyatt-guangzhou
@@ -1556,10 +1627,12 @@ AI-P6CZ4R,"The Ritz-Carlton, Sarasota",Sarasota,United States,US,operating,RZ 06
 AI-P6J0SZ,Shangri-La Guangzhou,Guangzhou,China,CN,operating,SG 010513,SG CANLPG,SG 37324,SG SLPG,https://www.shangri-la.com/en/guangzhou/shangrila/
 AI-P6K1JN,"Grand Hotel River Park, a Luxury Collection Hotel, Bratislava",Bratislava,Slovakia,SK,operating,LC 067010,,,,https://www.marriott.com/en-us/hotels/btslc/overview/
 AI-P6R1KK,"Rome Cavalieri, A Waldorf Astoria Hotel",Rome,Italy,IT,operating,WA 009362,WA ROM278,WA 04992,WA 05820,https://www.hilton.com/en/hotels/romhiwa-rome-cavalieri/
+AI-P73V3Z,Royal Palms Resort and Spa,Phoenix,United States,US,operating,HY 023776,HY PHXRPR,HY 93889,HY PHXUB,https://www.hyatt.com/unbound-collection/en-US/phxub-royal-palms-resort-and-spa
 AI-P8P3H0,"Sensei Lanai, A Four Seasons Resort",Lanai City,United States,US,operating,FS 028385,FS LNY260,FS 05260,FS 28385,https://www.fourseasons.com/sensei/
 AI-P8ZFTP,Amanoi,Vinh Hy,Vietnam,VN,operating,AM 217617,AM NHAAOI,AM A2235,AM AAOI,https://www.aman.com/resorts/amanoi
 AI-P92G3Z,"The Ritz-Carlton, Baku",Baku,Azerbaijan,AZ,operating,RZ 286192,RZ GYDRZL,RZ H3375,RZ GYDRZ,https://www.marriott.com/en-us/hotels/gydrz/overview/
 AI-P98BJ6,Four Seasons Hotel Miami,Miami,United States,US,operating,FS 037423,FS MIA953,FS 52953,FS 37423,https://www.fourseasons.com/miami/
+AI-P9ZJQQ,The Bellevue Hotel,Philadelphia,United States,US,operating,HY 022442,HY PHLPHB,HY 78643,HY PHLPH,https://www.hyatt.com/unbound-collection/en-US/phlph-the-bellevue-hotel
 AI-PA5G3M,Grand Velas Los Cabos,Los Cabos,Mexico,MX,operating,PH 312805,PH SJDGVR,PH D1003,PH SJDGV,https://loscabos.grandvelas.com/
 AI-PAN45M,Kimpton La Peer Hotel,West Hollywood,United States,US,operating,KC 313733,KC LAXKLP,KC D8414,KC LAXKL,
 AI-PBDRMS,Rosewood London,London,United Kingdom,GB,operating,RW 052399,RW LONRWL,RW 27412,RW LONRW,https://www.rosewoodhotels.com/en/london
@@ -1613,10 +1686,11 @@ AI-Q1WNXJ,Fairmont Dallas,Dallas,United States,US,operating,FA 012953,FA DAL100,
 AI-Q23WAY,L'Apogée Courchevel,Courchevel,France,FR,operating,OT 184749,OT CVFLAC,OT 91058,OT CMFLA,https://www.oetkerhotels.com/hotels/lapogee-courchevel/
 AI-Q2D3JC,Four Seasons Resort Seychelles,Mahé,Seychelles,SC,operating,FS 007305,FS SEZ885,FS 81885,FS 7305,https://www.fourseasons.com/seychelles/
 AI-Q2TCZY,The St. Regis Mardavall Mallorca Resort,Palma de Mallorca,Spain,ES,operating,XR 019986,XR PMI403,XR 43488,XR 1403,https://www.marriott.com/en-us/hotels/pmixr/overview/
+AI-Q43BM3,Kimpton Quinta da Marinha,Cascais,Portugal,PT,operating,KC 040877,KC LISQUI,KC 38117,KC LISQU,https://www.kimptoncascais.com/en/
 AI-Q45T7B,The Maybourne Beverly Hills,Beverly Hills,United States,US,operating,MI 085827,MI LAXMBH,MI 81876,MI LAXMB,https://www.maybournebeverlyhills.com/
 AI-Q4DN8J,Park Hyatt Saigon,Ho Chi Minh City,Vietnam,VN,operating,HY 065068,HY SGNSGN,HY 24952,HY SAIPH,https://www.hyatt.com/park-hyatt/en-US/saiph-park-hyatt-saigon
 AI-Q54837,Principe Forte dei Marmi,Forte dei Marmi,Italy,IT,operating,LW 008463,LW PSA172,LW 20971,LW 2172,https://www.principefortedeimarmi.com/
-AI-Q58P4E,Banyan Tree Puebla,Puebla,Mexico,MX,operating,BY 396957,,RT D0604,BY PBCAT,https://www.banyantree.com/mexico/puebla
+AI-Q58P4E,Banyan Tree Puebla,Puebla,Mexico,MX,operating,BY 396957,BY PBCPUE,RT D0604,BY PBCAT,https://www.banyantree.com/mexico/puebla
 AI-Q5V72R,Raffles Bali,Bali,Indonesia,ID,operating,YR 385495,YR DPSALI,YR F9645,YR ESDPS,https://www.raffles.com/bali/
 AI-Q687CT,Banyan Tree Guangzhou Jiulong Lake,Guangzhou,China,CN,operating,BY 623893,,,,https://www.banyantree.com/china/banyan-tree-guangzhou-jiulong-lake
 AI-Q79YND,Enowa Yufuin,Oita,Japan,JP,operating,WB 618326,WB OITEYH,,,https://enowa-yufuin.jp/
@@ -1630,7 +1704,8 @@ AI-QBRHXN,"Rio Sagrado, A Belmond Hotel, Sacred Valley",Sacred Valley,Peru,PE,op
 AI-QC0QBS,Four Seasons Hotel Bangkok at Chao Phraya River,Bangkok,Thailand,TH,operating,FS 320464,FS BKK357,FS E5357,FS 32046,https://www.fourseasons.com/bangkok/
 AI-QCGNS6,"San Domenico Palace, Taormina, A Four Seasons Hotel",Taormina,Italy,IT,operating,FS 391231,FS CTA391,FS G4391,FS 39123,https://www.fourseasons.com/taormina/
 AI-QDT0BD,Islamabad Serena Hotel,Islamabad,Pakistan,PK,operating,LW 065087,LW ISB878,LW 53157,LW 1878,https://www.serenahotels.com/islamabad/
-AI-QDWHRH,"The Laurus, a Luxury Collection Resort, Singapore",Singapore,Singapore,SG,operating,LC 143658,LC SINSLK,LC 50990,LC SINSL,https://www.marriott.com/en-us/hotels/sinsl/overview/
+AI-QDWHRH,"The Laurus, a Luxury Collection Resort, Singapore",Singapore,Singapore,SG,operating,LC 143658,LC SINSLK,LC 50990,LC SINSL,https://www.rwsentosa.com/en/the-laurus-singapore
+AI-QFBG10,"Cambridge House, Auberge Collection",London,United Kingdom,GB,pre_opening,AU 619794,YX LONCHA,AU DK151,AU 08377,https://auberge.com/cambridge-house/
 AI-QFHR58,Acqualina Resort & Residences on the Beach,Miami,United States,US,operating,LW 033816,LW MIA710,LW 10793,,https://acqualinasunnyisles.com/
 AI-QFK3KR,"Eagle Island Lodge, A Belmond Safari",Okavango Delta,Botswana,BW,operating,,,,,
 AI-QFPWNE,"Hotel Bristol, a Luxury Collection Hotel, Warsaw",Warsaw,Poland,PL,operating,LC 031798,LC WAW863,LC 00740,LC 1863,https://www.marriott.com/en-us/hotels/wawlc/overview/
@@ -1648,6 +1723,7 @@ AI-QMQBJ8,Alila Fort Bishangarh,Jaipur,India,IN,operating,HY 313293,HY JAIAFB,HY
 AI-QN4AYC,Capella Singapore,Singapore,Singapore,SG,operating,LW 015279,LW SIN818,LW 12805,LW 2818,
 AI-QN5DWH,Shigira Bayside Suite Allamanda,Okinawa,Japan,JP,operating,LX 286437,LX MMYSBS,LX H3531,LX MMYSB,https://shigira.com/en/hotel/allamanda
 AI-QNZHVB,Atlantis Sanya,Sanya,China,CN,operating,AO 318183,AO SYXATL,AO E2807,AO SYXAL,https://www.atlantissanya.com/
+AI-QP2T7P,Hotel Figueroa,Los Angeles,United States,US,operating,HY 226645,HY LAX757,HY A8936,HY LAXUF,https://www.hyatt.com/unbound-collection/en-US/laxuf-hotel-figueroa
 AI-QPCKKG,Rosewood Abu Dhabi,Abu Dhabi,United Arab Emirates,AE,operating,RW 168121,RW AUHABU,RW 36297,RW AUHAB,https://www.rosewoodhotels.com/en/abu-dhabi
 AI-QPKWKP,Aleenta Phuket-Phang Nga Resort & Spa,Phang Nga,Thailand,TH,operating,LW 027358,LW HKTALE,LW 73877,,https://www.aleenta.com/en/aleenta-phuket-phang-nga/
 AI-QQ04X1,Rosewood Vienna,Vienna,Austria,AT,operating,RW 396295,RW VIEROW,RW H0410,RW VIERW,https://www.rosewoodhotels.com/en/vienna
@@ -1656,7 +1732,7 @@ AI-QQJ7A4,InterContinental Malta,St. Julian's,Malta,MT,operating,IC 017829,IC ML
 AI-QQKKHT,Riffelalp Resort 2222m,Zermatt,Switzerland,CH,operating,LW 055290,LW QZB620,LW 30153,,https://www.riffelalp.com/
 AI-QQNRHK,Royal Palm Beachcomber Luxury,Grand Baie,Mauritius,MU,operating,LW 023885,LW MRU020,LW 08496,,https://www.beachcomber-hotels.com/en/hotel/royal-palm-beachcomber-luxury
 AI-QQRGVK,"Villa Margherita, A Belmond Hotel, Amalfi Coast",Ravello,Italy,IT,operating,OE 396811,OE NAPVMA,OE H1055,OE NAPVM,
-AI-QQYM4Q,Thanda Island,Mafia Island,Tanzania,TZ,operating,LW 312305,LW DAR077,LW C9968,,https://thanda.com/thanda-properties/thanda-island/
+AI-QQYM4Q,Jumeirah Thanda Island,Mafia Island,Tanzania,TZ,operating,LW 312305,LW DAR077,LW C9968,,https://www.jumeirah.com/en/stay/tanzania/jumeirah-thanda-island
 AI-QSAWZD,ANA InterContinental Manza Beach Resort,Onna,Japan,JP,operating,IC 027847,IC OKAMAN,IC 70605,IC 16375,
 AI-QV788P,"The Ritz-Carlton, Turks & Caicos",Providenciales,Turks and Caicos Islands,TC,operating,RZ 391590,RZ PLSRTZ,RZ G5038,RZ PLSRT,https://www.marriott.com/en-us/hotels/plsrt/overview/
 AI-QV8BN1,Es Princep,Palma de Mallorca,Spain,ES,operating,LW 319397,LW PMI446,LW E4370,LW 1446,https://www.esprincep.com/
@@ -1675,6 +1751,7 @@ AI-QYF7WW,Four Seasons Resort and Residences Red Sea at Shura Island,Red Sea,Sau
 AI-QZBRQ8,"Villa Agrippina, a Gran Meliá Hotel",Rome,Italy,IT,operating,LW 139496,LW ROM187,LW 12114,LW 2187,https://www.melia.com/en/hotels/italy/rome/villa-agrippina-gran-melia
 AI-R0E1XT,Banyan Tree Vabbinfaru,North Malé Atoll,Maldives,MV,operating,BY 039760,BY MLE896,BY 12644,BY 1896,https://www.banyantree.com/maldives/vabbinfaru
 AI-R12ZMY,Baglioni Hotel Luna,Venice,Italy,IT,operating,LW 015295,LW VCE148,LW 92633,LW 2148,https://venice.baglionihotels.com/
+AI-R1S4M0,"Six Senses The Palm, Dubai",Dubai,United Arab Emirates,AE,operating,IG 622407,IG DXB533,IG J3556,IG 1331,https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/united-arab-emirates/the-palm-dubai/
 AI-R1YM4M,"The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert",Ras Al Khaimah,United Arab Emirates,AE,operating,RZ 059603,RZ RKTRWZ,RZ 78602,RZ RKTRW,https://www.marriott.com/en-us/hotels/rktrw/overview/
 AI-R1ZWHP,Four Seasons Resort Maldives at Landaa Giraavaru,Baa Atoll,Maldives,MV,operating,FS 029675,FS MLE313,FS 74313,FS 29675,https://www.fourseasons.com/maldiveslg/
 AI-R22GMZ,"The Ritz-Carlton Bacara, Santa Barbara",Santa Barbara,United States,US,operating,RZ 052100,RZ SBARZZ,RZ 26980,RZ SBARZ,https://www.marriott.com/en-us/hotels/sbarz/overview/
@@ -1719,9 +1796,11 @@ AI-RP6M27,Al Husn Hotel Muscat,Muscat,Oman,OM,operating,WA 314122,,,,https://www
 AI-RP8ZCW,"Shangri-La Le Touessrok, Mauritius",Trou d'Eau Douce,Mauritius,MU,operating,SG 284533,,,,https://www.shangri-la.com/en/mauritius/shangrila/
 AI-RPE3NW,Shangri-La Wuhan,Wuhan,China,CN,operating,SG 046076,SG WUHLWU,SG 07681,SG SGSLW,https://www.shangri-la.com/en/wuhan/shangrila/
 AI-RPFQ1N,"Shangri-La Hongqiao Airport, Shanghai",Shanghai,China,CN,operating,SG 611759,,,,https://www.shangri-la.com/en/shanghai/shangrilahongqiaoairport/
-AI-RPW3C2,POKKEI Hotel Shaoxing,Shaoxing,China,CN,operating,LX 601662,,,,https://www.pokkeihotel.cn/en
+AI-RPW3C2,POKKEI Hotel Shaoxing,Shaoxing,China,CN,operating,LX 601662,,,,
+AI-RQ2YWH,Park Hyatt Mexico City,Mexico City,Mexico,MX,pre_opening,HY 620223,,,,https://www.hyatt.com/park-hyatt/en-US/mexph-park-hyatt-mexico-city-polanco
 AI-RQ8MNT,Shangri-La Tangshan,Tangshan,China,CN,operating,SG 284123,SG TVSSHL,SG B6697,SG TVSSH,https://www.shangri-la.com/en/tangshan/shangrila/
 AI-RQMH1C,"Grand Hotel Timeo, A Belmond Hotel, Taormina",Taormina,Italy,IT,operating,OE 003781,OE TFCTIM,OE 06960,OE CTAHT,
+AI-RQNS99,"THE ONE Shanghai Downtown, Vignette Collection",Shanghai,China,CN,operating,VT 136484,VT PVGONE,VT 66202,VT SHA4,https://www.ihg.com/vignettecollection/hotels/us/en/shanghai/shaos/hoteldetail
 AI-RQT98P,Katikies Garden Santorini,Santorini,Greece,GR,operating,LW 325060,LW JTR824,LW F0937,,https://www.katikies.com/katikiesgardensantorini/
 AI-RR7RX4,Hotel La Palma,Capri,Italy,IT,operating,OT 394249,OT PRJLAP,OT G7879,OT NAPLP,https://www.oetkerhotels.com/hotels/hotel-la-palma/
 AI-RR9FET,Ayan Zalaat Hotel & Spa,Ulaanbaatar,Mongolia,MN,operating,LW 611610,LW ULNAYA,LW DG952,LW 09524,https://ayanhotelsmongolia.com/
@@ -1779,6 +1858,7 @@ AI-SD8WBW,Alila Jabal Akhdar,Jabal Akhdar,Oman,OM,operating,HY 220148,HY MCTAJA,
 AI-SEGF51,"The Prince Gallery Tokyo Kioicho, a Luxury Collection Hotel",Tokyo,Japan,JP,operating,LC 306431,LC TYO443,LC C0605,LC 4443,https://www.marriott.com/en-us/hotels/tyolc/overview/
 AI-SF7KG1,Hotel Indigo Auckland,Auckland,New Zealand,NZ,operating,IN 610456,IN AKLC9E,IN I5095,IN 3230,
 AI-SFE90X,Four Seasons Hotel Mykonos,Mykonos,Greece,GR,operating,FS 613314,,,,https://www.fourseasons.com/mykonos/
+AI-SFK5MF,Miraval Berkshires Resort and Spa,Lenox,United States,US,operating,HY 387110,HY ALBMVL,HY F9686,HY ALBOB,https://www.hyatt.com/miraval/en-US/albob-miraval-berkshires-resort-and-spa
 AI-SG7KN8,Hassler Roma,Rome,Italy,IT,operating,LW 011338,LW ROM203,LW 08377,LW 2103,https://www.hotelhasslerroma.com/
 AI-SGANQ7,"Four Seasons Hotel One Dalton Street, Boston",Boston,United States,US,operating,FS 324450,FS BOS670,FS F0670,FS 32445,https://www.fourseasons.com/onedalton/
 AI-SGCZNF,Hotel Unique,São Paulo,Brazil,BR,operating,PH 046990,PH SAOHUH,PH 55778,PH SAOHU,https://www.hotelunique.com/en
@@ -1797,6 +1877,7 @@ AI-SPSHY6,The Berkeley,London,United Kingdom,GB,operating,MI 048742,MI LONBER,MI
 AI-SQ6DY5,InterContinental Washington D.C. – The Wharf,Washington,United States,US,operating,IC 314450,IC WAS10D,IC D6139,IC 0269,
 AI-SQ9ZWE,Atlantis Bay,Taormina,Italy,IT,operating,LW 325257,LW CTAATL,LW F1501,LW 09602,https://www.vretreats.com/
 AI-SQWCW4,Suvretta House,St. Moritz,Switzerland,CH,operating,LW 027281,LW SMV616,LW 92541,LW 1616,https://suvrettahouse.ch/
+AI-SQZ752,Andaz Turks & Caicos at Grace Bay,Providenciales,Turks and Caicos Islands,TC,pre_opening,HY 618767,,,,https://www.hyatt.com/andaz/en-US/plsaz-andaz-turks-and-caicos-at-grace-bay
 AI-SR8E44,Park Hyatt Chicago,Chicago,United States,US,operating,HY 000935,HY CHIHPK,HY 00935,HY CHIPH,https://www.hyatt.com/park-hyatt/en-US/chiph-park-hyatt-chicago
 AI-SRDCXV,InterContinental Residences Abu Dhabi,Abu Dhabi,United Arab Emirates,AE,operating,IC 600951,IC AUH06B,IC H5381,IC 8299,
 AI-SRFNWA,Le Mas Bellevue Saint-Tropez,Saint-Tropez,France,FR,temporarily_closed,,,,,https://www.oetkerhotels.com/hotels/le-mas-bellevue-saint-tropez/
@@ -1845,11 +1926,13 @@ AI-T82078,Gôra Kadan Fuji,Shizuoka,Japan,JP,operating,WB 617700,,,,https://www.
 AI-T8THJ1,Paradisus Los Cabos All Inclusive Adults Only,San José del Cabo,Mexico,MX,operating,LW 309896,LW SJD540,LW C8902,,https://www.melia.com/en/hotels/mexico/los-cabos/paradisus-los-cabos
 AI-T8WR4K,Baccarat Hotel New York,New York,United States,US,operating,BI 271195,BI NYCBHN,BI B1113,BI LGABH,https://www.baccarathotels.com/new-york
 AI-T9C4S8,Grosvenor House Suites,London,United Kingdom,GB,operating,PH 148682,PH LONGHA,PH G7200,PH LONGH,https://grosvenorhousesuites.com/
+AI-T9N7KX,Taoxichuan Hotel,Jingdezhen,China,CN,operating,HY 394384,HY JDZUBJ,HY G8235,HY JDZUB,https://www.hyatt.com/unbound-collection/en-US/jdzub-taoxichuan-hotel
 AI-TA2QH4,Argos in Cappadocia,Cappadocia,Turkiye,TR,operating,LW 132435,LW NAV0LA,LW H8731,LW 09587,https://www.argosincappadocia.com/
 AI-TAHS2C,Royal Mansour Tamuda Bay,M’diq,Morocco,MA,operating,LW 608796,LW TTUROY,LW I4095,LW TTURO,https://www.royalmansour.com/en/tamuda-bay/
 AI-TBB4Y5,Palazzo Shedir,Rome,Italy,IT,operating,LW 608398,LW ROMPZS,LW I3649,LW FCOPS,https://palazzoshedir.com/
 AI-TBTN17,Waldorf Astoria Bangkok,Bangkok,Thailand,TH,operating,WA 205709,WA BKK456,WA A0863,WA 25709,https://www.hilton.com/en/hotels/bkkwawa-waldorf-astoria-bangkok/
 AI-TCQ1S5,Vignette Collection Onyria Marinha Cascais,Cascais,Portugal,PT,operating,VT 136513,VT CATD8D,VT I8570,VT 3469,
+AI-TDXSX3,"The Hari Hong Kong, Vignette Collection",Hong Kong,China (Hong Kong SAR),HK,operating,VT 389120,VT HKGSOF,VT G2007,VT HKGTH,https://www.thehari.com/hong-kong/
 AI-TE6QPA,The Lodhi,New Delhi,India,IN,operating,LW 100964,LW DEL856,LW 90085,LW 2856,https://www.thelodhi.com/
 AI-TEDXY1,"Maroma, A Belmond Hotel, Riviera Maya",Riviera Maya,Mexico,MX,operating,OE 024114,,,,
 AI-TEG2WP,Fairmont Hotel Macdonald,Edmonton,Canada,CA,operating,FA 001736,FA YEGMAC,FA 17786,FA EDMPH,https://www.fairmont.com/en/hotels/edmonton/fairmont-hotel-macdonald.html
@@ -1895,6 +1978,7 @@ AI-TXZ7KV,Conrad Riyadh Laysen Valley,Riyadh,Saudi Arabia,SA,operating,CN 624414
 AI-TZ1RS8,Banyan Tree Bangkok,Bangkok,Thailand,TH,operating,BY 029728,BY BKK800,BY 12675,BY 1800,https://www.banyantree.com/thailand/bangkok
 AI-TZ2NQ4,Vignette Collection SOUMA Hotel,Lima,Peru,PE,operating,VT 394816,VT LIMISM,VT G8751,VT LIMIS,
 AI-V06P9R,La Posta Vecchia Hotel,Palo Laziale,Italy,IT,operating,LW 007842,LW ROM182,LW 14895,LW 2182,https://www.pellicanohotels.com/en/hotels/la-posta-vecchia-hotel/
+AI-V09W4F,Holston House Nashville,Nashville,United States,US,operating,HY 317686,HY BNAHHN,HY E1911,HY BNAUB,https://www.hyatt.com/unbound-collection/en-US/bnaub-holston-house-nashville
 AI-V0RJY8,"Cosme, a Luxury Collection Resort, Paros",Paros,Greece,GR,operating,LC 396971,LC PASLCK,LC H1467,LC PASLC,https://www.marriott.com/en-us/hotels/paslc/overview/
 AI-V11RVV,Shangri-La Bangkok,Bangkok,Thailand,TH,operating,SG 011762,SG BKKSHA,SG 22702,SG 9236,https://www.shangri-la.com/en/bangkok/shangrila/
 AI-V28Q5Z,Royal-Riviera,Saint-Jean-Cap-Ferrat,France,FR,operating,LW 028279,LW NCE024,LW 23917,LW 0624,https://www.royal-riviera.com/
@@ -1903,13 +1987,16 @@ AI-V2RP3N,Passalacqua,Moltrasio,Italy,IT,operating,PH 395294,PH MXPPAH,PH G9168,
 AI-V44M18,Amankila,Manggis,Indonesia,ID,operating,AM 033852,AM DPSAKA,AM 39850,AM AAAM,https://www.aman.com/resorts/amankila
 AI-V470FT,The Rittenhouse,Philadelphia,United States,US,operating,LW 005114,LW PHL776,LW 21771,LW 1776,https://www.rittenhousehotel.com/
 AI-V59SK3,"The Ritz-Carlton, Portland",Portland,United States,US,operating,RZ 600793,RZ PDXRZZ,RZ H5095,RZ PDXRZ,https://www.marriott.com/en-us/hotels/pdxrz/overview/
+AI-V7HAX0,Kennedy 89 Hotel Frankfurt,Frankfurt,Germany,DE,operating,HY 605054,HY FRAUUB,HY H9982,HY FRAUB,https://www.hyatt.com/unbound-collection/en-US/fraub-kennedy-89
 AI-V7PQCF,The Georgian,Santa Monica,United States,US,operating,HY 016683,HY SMOGEO,HY 82884,HY UCAAB,https://www.thegeorgian.com/
 AI-V91E0Q,Hotel Fermata,Santa Teresa,Costa Rica,CR,operating,LW 622805,LW TMUFER,LW DL623,,https://hotelfermata.com/
 AI-V9M1T0,Bodrum Loft,Bodrum,Turkiye,TR,operating,YX 392585,YX BJVBOD,YX G6072,YX ADBBO,https://bodrumloft.com.tr/
 AI-V9WVGA,Grand Hotel Principe di Piemonte,Viareggio,Italy,IT,operating,LW 016802,LW PSAGHP,LW 47700,LW PSAGH,https://www.principedipiemonte.com/
+AI-VA2849,Fairmont New Orleans,New Orleans,United States,US,operating,FA 622300,,FA I9766,FA FAMSY,https://www.fairmont.com/en/hotels/new-orleans/fairmont-new-orleans.html
 AI-VA3S6H,"ITC Maratha, a Luxury Collection Hotel, Mumbai",Mumbai,India,IN,operating,LC 056648,LC BOM349,LC 33788,LC 1349,https://www.marriott.com/en-us/hotels/bomlc/overview/
 AI-VAY12Z,"The Ritz-Carlton, Kyoto",Kyoto,Japan,JP,operating,RZ 218659,RZ UKYRZZ,RZ A2952,RZ UKYRZ,https://www.marriott.com/en-us/hotels/ukyrz/overview/
 AI-VB3GHR,Four Seasons Hotel New York,New York,United States,US,operating,FS 034526,FS NYC633,FS 12633,FS 34526,https://www.fourseasons.com/newyork/
+AI-VB3WTP,Hotel La Compañía del Valle,El Valle de Antón,Panama,PA,operating,HY 611154,,,,https://www.hyatt.com/unbound-collection/en-US/ptyuv-unbound-hotel-la-compania-del-valle
 AI-VD7GAZ,The Jaffa Hotel,Tel Aviv,Israel,IL,operating,PH 615665,PH TLVJHH,PH DI474,PH TLVJH,https://www.thejaffahotel.com/
 AI-VDF5EG,Hotel Indigo Milan – Corso Monforte,Milan,Italy,IT,operating,IN 317026,IN MIL53A,IN E1143,IN 9530,
 AI-VDWHYY,Lido Palace,Riva del Garda,Italy,IT,operating,LW 005800,LW VRNLPA,LW G4900,LW VRNLP,https://www.lido-palace.it/
@@ -1917,6 +2004,7 @@ AI-VE20PD,"Josun Palace, a Luxury Collection Hotel, Seoul Gangnam",Seoul,South K
 AI-VF3F01,"Shangri-La Far Eastern, Tainan",Tainan,"Taiwan, China",TW,operating,SG 015643,,,,https://www.shangri-la.com/en/tainan/fareasternplazashangrila/
 AI-VF43QX,"Prince de Galles, a Luxury Collection Hotel, Paris",Paris,France,FR,operating,LC 001211,LC PAR250,LC 06502,LC 250,https://www.marriott.com/en-us/hotels/parlc/overview/
 AI-VF66E6,Kimpton Hotel Fontenot,New Orleans,United States,US,operating,KC 040023,KC MSY23F,KC 65431,KC 4671,
+AI-VFC1RE,Spirit Ridge,Osoyoos,Canada,CA,operating,HY 309419,HY YYFSRC,HY C6194,HY YLWUB,https://www.hyatt.com/unbound-collection/en-US/ylwub-spirit-ridge
 AI-VFKWG5,"La Samanna, A Belmond Hotel, St. Martin",Baie Longue,Saint Martin,MF,operating,OE 001661,,,,
 AI-VGFJHK,The Chedi El Gouna,Red Sea,Egypt,EG,operating,LW 601442,LW HRGTCG,LW H6085,LW HRGTC,https://www.thechedielgouna.com/
 AI-VHCCR7,Waldorf Astoria Shanghai Qiantan,Shanghai,China,CN,operating,WA 617293,WA SHA949,WA I9971,WA SHAQT,https://www.hilton.com/en/hotels/shaqtwa-waldorf-astoria-shanghai-qiantan/
@@ -1924,6 +2012,7 @@ AI-VHEHNX,InterContinental Bordeaux – Le Grand Hotel,Bordeaux,France,FR,operat
 AI-VHN4YD,Abesq Doha Hotel & Residences,Doha,Qatar,QA,operating,SP 601768,,,,
 AI-VJ17QY,Conrad Pune,Pune,India,IN,operating,CN 283792,CN PNQ639,CN B6381,CN 87738,https://www.hilton.com/en/hotels/pnqcici-conrad-pune/
 AI-VK1A8M,Barracuda Hotel & Villas,"Itacaré, Bahia",Brazil,BR,operating,LX 285652,LX IOSBHV,LX H3615,LX IOSBH,https://www.thebarracuda.com.br/en
+AI-VKD0D2,Hotel Kansas City,Kansas City,United States,US,operating,HY 388687,HY MKCHKC,HY G1488,HY MCIJD,https://www.hyatt.com/unbound-collection/en-US/mcijd-hotel-kansas-city
 AI-VMVM14,Andaz Seoul Gangnam,Seoul,South Korea,KR,operating,HY 327421,HY SELAZS,HY F4263,HY SELAZ,https://www.hyatt.com/andaz/en-US/selaz-andaz-seoul-gangnam
 AI-VNA1WC,Kimpton Hotel Palomar Philadelphia,Philadelphia,United States,US,operating,KC 059970,KC PHL006,KC 83497,KC 5006,
 AI-VNTS3S,Fairmont Austin,Austin,United States,US,operating,FA 310443,FA AUSAUS,FA C8276,FA FAAUS,https://www.fairmont.com/en/hotels/austin/fairmont-austin.html
@@ -1949,7 +2038,7 @@ AI-VTJBAH,Chablé Maroma,Playa del Carmen,Mexico,MX,operating,LW 321945,LW PCM53
 AI-VTP1D4,"The Imperial, New Delhi",New Delhi,India,IN,operating,LW 050047,LW DELTIH,LW 24536,LW DELTI,https://www.theimperialindia.com/
 AI-VWV1FF,"Park Tower, a Luxury Collection Hotel, Buenos Aires",Buenos Aires,Argentina,AR,operating,LC 023153,LC BUE233,LC 75760,LC 233,https://www.marriott.com/en-us/hotels/buepl/overview/
 AI-VWVPRY,Xitan Beijing,Beijing,China,CN,operating,WB 397001,,,,http://www.xitanhotel.com/
-AI-VWY222,KASARA NISEKO VILLAGE,Niseko Village,Japan,JP,operating,LX 307502,,,,https://g-loves.co.jp/kasara/?property_name=kasara-niseko-village-townhouse
+AI-VWY222,KASARA NISEKO VILLAGE,Niseko Village,Japan,JP,operating,LX 307502,,,,
 AI-VXHMRR,Waldorf Astoria Panama,Panama City,Panama,PA,operating,WA 144339,WA PTY130,WA 62249,WA 14433,https://www.hilton.com/en/hotels/ptytpwa-waldorf-astoria-panama/
 AI-VXRJWH,"Shangri-La Shougang Park, Beijing",Beijing,China,CN,operating,SG 394044,,,,https://www.shangri-la.com/en/beijing/shangrilashougangpark/
 AI-VY361P,Rosewood Schloss Fuschl,Salzburg,Austria,AT,operating,RW 606217,RW SZGRSF,RW I1266,RW SZGSF,https://www.rosewoodhotels.com/en/schloss-fuschl-salzburg
@@ -1972,7 +2061,9 @@ AI-W489ZD,Grand Palace Hotel,Riga,Latvia,LV,operating,LX 054086,LX RIX650,LX 285
 AI-W4GNS9,Cap Vermell Grand Hotel,Palma de Mallorca,Spain,ES,operating,GD 307265,GD PMIPHM,GD C1282,GD MALPH,https://capvermellgrandhotel.com/
 AI-W50FNX,"Mandarin Oriental, Barcelona",Barcelona,Spain,ES,operating,MO 114819,MO BCNMB1,MO 99989,MO BCNMB,
 AI-W5184H,Kimpton KAFD Riyadh,Riyadh,Saudi Arabia,SA,operating,KC 615236,KC RUH1A6,KC I8375,KC 8614,
+AI-W57GRK,Numu Boutique Hotel San Miguel de Allende,San Miguel de Allende,Mexico,MX,operating,HY 396308,HY QRONBH,HY H0350,HY BJXUB,https://www.hyatt.com/unbound-collection/en-US/bjxub-numu
 AI-W70FDY,Four Seasons Hotel Las Vegas,Las Vegas,United States,US,operating,FS 029931,FS LAS669,FS 86669,FS 29931,https://www.fourseasons.com/lasvegas/
+AI-W7BCEM,The Lixury Hotel,Chongqing,China,CN,operating,HY 383829,HY CKGCHO,HY F8361,HY CKGUB,https://www.hyatt.com/unbound-collection/en-US/ckgub-the-lixury-hotel
 AI-W7E6EX,Hotel Indigo Chengdu Financial City,Chengdu,China,CN,operating,IN 616227,IN CTUD27,IN I9506,IN 3367,
 AI-W7JMM5,Four Seasons Hotel Osaka,Osaka,Japan,JP,operating,FS 606747,FS KIX701,FS I1701,FS 60674,https://www.fourseasons.com/osaka/
 AI-W8N275,Fairmont Century Plaza,Los Angeles,United States,US,operating,FA 387141,FA LAXURY,FA F9108,FA ZALAX,https://www.fairmont.com/en/hotels/los-angeles/fairmont-century-plaza.html
@@ -1983,6 +2074,7 @@ AI-W90W1X,Serras Barcelona,Barcelona,Spain,ES,operating,PH 246685,PH BCNTSS,PH A
 AI-W9MKV0,Palazzo Venezia,Como,Italy,IT,operating,LW 327011,LW MILVPL,LW F4795,,
 AI-WA4C06,InterContinental Presidente Cancun Resort Spa,Cancun,Mexico,MX,operating,IC 015652,IC CUNICA,IC 49817,IC CUNHC,
 AI-WAJ4CY,The Connaught,London,United Kingdom,GB,operating,MI 048740,MI LONCON,MI 18898,MI CON,https://www.the-connaught.co.uk/
+AI-WB719M,Hôtel du Palais Biarritz,Biarritz,France,FR,operating,HY 011940,HY BIQHUB,HY 23909,HY BIQUB,https://www.hyatt.com/unbound-collection/en-US/biqub-hotel-du-palais-biarritz
 AI-WCAQJH,InterContinental Beijing Beichen,Beijing,China,CN,operating,IC 087348,IC BJSICC,IC 87449,IC PEGHC,
 AI-WCB1N5,Four Seasons Resort Chiang Mai,Chiang Mai,Thailand,TH,operating,FS 009300,FS CNX245,FS 57245,FS 9300,https://www.fourseasons.com/chiangmai/
 AI-WCY8FX,InterContinental Bahrain,Manama,Bahrain,BH,operating,IC 001182,IC BAHICA,IC 19275,IC BAHHA,
@@ -1991,6 +2083,7 @@ AI-WDEV3B,Few & Far Luvhondo,Soutpansberg Mountains,South Africa,ZA,operating,WB
 AI-WDRVS4,Park Hyatt Zurich,Zurich,Switzerland,CH,operating,HY 056846,HY ZRHZRH,HY 71913,HY ZURPH,https://www.hyatt.com/park-hyatt/en-US/zurph-park-hyatt-zurich
 AI-WFCBYQ,Savoy 1918,Oslo,Norway,NO,operating,LX 620170,LX OSLSVY,LX DK301,LX A0253,https://www.savoy1918.no/
 AI-WFX9TZ,Park Hyatt Sanya Sunny Bay Resort,Sanya,China,CN,operating,HY 225709,HY SYXPHS,HY A8282,HY SANPH,https://www.hyatt.com/park-hyatt/en-US/sanph-park-hyatt-sanya
+AI-WG75QA,Mar Monte Hotel,Santa Barbara,United States,US,operating,HY 000259,HY SBAHSB,HY 42261,HY SBARS,https://www.hyatt.com/unbound-collection/en-US/sbars-mar-monte-hotel
 AI-WGJ9VP,The Dubai EDITION,Dubai,United Arab Emirates,AE,operating,EB 394981,EB DXBEDE,EB G8876,EB DXBED,https://www.marriott.com/en-us/hotels/dxbed/overview/
 AI-WGK9PB,The Lodge at Primland,Meadows of Dan,United States,US,operating,AU 132424,YX ROAPRH,AU 16853,AU ROAPR,https://auberge.com/primland/
 AI-WH0D78,Dromoland Castle,Newmarket-on-Fergus,Ireland,IE,operating,PH 045426,PH SNNDCH,PH 15929,PH SNNDC,https://www.dromoland.ie/
@@ -2018,6 +2111,7 @@ AI-WT596B,InterContinental Paris – Champs-Elysées Etoile,Paris,France,FR,oper
 AI-WTADVH,InterContinental Chongqing Raffles City,Chongqing,China,CN,operating,IC 385025,IC CKG283,IC F8687,IC 0643,
 AI-WTF8G1,Kimpton EPIC Hotel,Miami,United States,US,operating,KC 052007,KC MIA226,KC 92665,KC 5226,
 AI-WW2C16,La Residence,Franschhoek,South Africa,ZA,operating,LW 285945,LW CPTRES,LW H3175,LW 09597,https://www.theroyalportfolio.com/la-residence/
+AI-WWPK27,The Langbo Chengdu,Chengdu,China,CN,operating,HY 390546,HY CTUUBC,HY G4134,HY CTUUB,https://www.hyatt.com/unbound-collection/en-US/ctuub-the-langbo-chengdu
 AI-WWS9F4,Fairmont Mumbai,Mumbai,India,IN,operating,FA 610354,FA BOMFAI,FA I5024,FA FABOM,https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html
 AI-WX2VN8,"Island Shangri-La, Hong Kong",Hong Kong,China (Hong Kong SAR),HK,operating,SG 026095,SG HKGISL,SG 22719,SG 14683,https://www.shangri-la.com/en/hongkong/islandshangrila/
 AI-WXCCEC,"Mandarin Oriental Mayfair, London",London,United Kingdom,GB,operating,MO 396892,MO LONMOM,MO H1453,MO LHRMY,
@@ -2025,7 +2119,9 @@ AI-WXKDFT,"H15 Palace, a Luxury Collection Hotel, Krakow",Krakow,Poland,PL,opera
 AI-WXZ54Y,"The Murray Hong Kong, a Niccolo Hotel",Hong Kong,China (Hong Kong SAR),HK,operating,LW 317907,LW HKGTHK,LW E2142,LW HKGMH,https://www.niccolohotels.com/en/the-murray-hong-kong
 AI-WY2DTN,Cheval Blanc St-Tropez,Saint-Tropez,France,FR,operating,NV 023288,NV LTT641,NV 14401,NV 0641,https://www.chevalblanc.com/en/maison/st-tropez/
 AI-WY8Q4F,Chem Chem Lodge,Lake Manyara,Tanzania,TZ,operating,,,,,https://auberge.com/safari/camp/chem-chem-lodge-burunge-lake-manyara/
+AI-WYM4QA,Fairmont The Red Sea,Red Sea,Saudi Arabia,SA,pre_opening,FA 619347,FA RSIFAI,FA J1666,FA FARSI,https://www.fairmont.com/en/hotels/shura-island/fairmont-the-red-sea.html
 AI-WYN2R4,Kimpton Las Mercedes,Santo Domingo,Dominican Republic,DO,operating,KC 607011,KC SDQ325,KC I2065,KC 0805,
+AI-WZA6CQ,InterContinental New Taipei Hot Spring,New Taipei City,"Taiwan, China",TW,operating,IC 617215,,,,https://www.ihg.com/intercontinental/hotels/us/en/new-taipei-city/tpehs/hoteldetail
 AI-WZFC3J,Grand Hotel Continental Siena - Starhotels Collezione,Tuscany,Italy,IT,operating,LW 060346,LW SAY153,LW 37966,,https://collezione.starhotels.com/en/our-hotels/grand-hotel-continental-siena/
 AI-WZQPRX,"Mandarin Oriental, Muscat",Muscat,Oman,OM,operating,MO 604109,MO MCTMOM,MO H8873,MO MCTMO,
 AI-X00DTE,"Ajman Saray, a Luxury Collection Resort, Ajman",Ajman,United Arab Emirates,AE,operating,LC 218056,LC DXB562,LC A2509,LC 3562,https://www.marriott.com/en-us/hotels/shjlc/overview/
@@ -2039,6 +2135,7 @@ AI-X3R6MN,Four Seasons Resort and Residences at The Pearl-Qatar,Doha,Qatar,QA,op
 AI-X4B7S9,Conrad Rabat Arzana,Rabat,Morocco,MA,operating,CN 397727,CN RBA705,CN H1967,CN RBACI,https://www.hilton.com/en/hotels/rbacici-conrad-rabat-arzana/
 AI-X55FTF,La Réserve Paris Hotel and Spa,Paris,France,FR,operating,LW 000542,LW PAR645,LW A7129,LW 0645,https://www.lareserve-paris.com/
 AI-X66BEP,FAUCHON L'Hotel Kyoto,Kyoto,Japan,JP,operating,LX 390630,LX UKYFAU,LX G4103,LW UKYFA,https://hotelfauchonkyoto.com/en/
+AI-X6CJTE,"The Knox Hotel & Residences, Auberge Collection",Dallas,United States,US,pre_opening,AU 623242,YX DFWKNX,AU DL527,AU 08378,https://auberge.com/the-knox/
 AI-X6RJ72,"Mandarin Oriental, Milan",Milan,Italy,IT,operating,MO 263862,MO MILMAN,MO B1710,MO LINMA,
 AI-X7Y6G6,Shangri-La Nanning,Nanning,China,CN,operating,SG 392304,SG NNGSLN,SG G7859,SG NNGSL,https://www.shangri-la.com/en/nanning/shangrila/
 AI-X89J0K,YiuTeung Mansion,Chengdu,China,CN,operating,LX 383058,LX CTUYTM,LX F8460,LX CTUYT,https://en.ytmansion.com/
@@ -2053,7 +2150,7 @@ AI-XG7JBG,"Shangri-La Eros, New Delhi",New Delhi,India,IN,operating,SG 064578,,,
 AI-XGCW2N,Hotel Biaclyn Hakodate,Hakodate-shi,Japan,JP,operating,WB 621190,WB HKDHBH,WB DK813,WB 09295,https://www.biaclyn.com/
 AI-XGJD1Z,The St. Regis Bali Resort,Bali,Indonesia,ID,operating,XR 086372,XR DPS708,XR 87789,XR 1708,https://www.marriott.com/en-us/hotels/dpsxr/overview/
 AI-XHK37A,Grand Velas Riviera Nayarit,Nuevo Vallarta,Mexico,MX,operating,PH 044770,PH PVRGVR,PH 68906,PH PVRGV,https://vallarta.grandvelas.com/
-AI-XHMK86,Younch Hotel Xi'an,Xi'an,China,CN,operating,LX 616334,,,,https://slh.com/hotels/younch-hotel-xian
+AI-XHMK86,Younch Hotel Xi'an,Xi'an,China,CN,operating,LX 616334,,,,
 AI-XJYGQH,Waldorf Astoria Amsterdam,Amsterdam,Netherlands,NL,operating,WA 175762,WA AMS183,WA 15177,WA 17576,https://www.hilton.com/en/hotels/amswawa-waldorf-astoria-amsterdam/
 AI-XKPA62,Kimpton Armory Hotel,Bozeman,United States,US,operating,KC 387134,KC BZNBDD,KC F9541,KC 7133,
 AI-XM8QZS,"Palacio De Los Duques, a Gran Meliá Hotel",Madrid,Spain,ES,operating,LW 023873,LW MAD439,LW 05280,LW 1439,
@@ -2064,6 +2161,7 @@ AI-XNRD6D,InterContinental Houston,Houston,United States,US,operating,IC 320984,
 AI-XNSD8X,Four Seasons Hotel St. Louis,St. Louis,United States,US,operating,FS 051094,FS STL967,FS 64967,FS 51094,https://www.fourseasons.com/stlouis/
 AI-XP798Q,"The Ritz-Carlton Jakarta, Mega Kuningan",Jakarta,Indonesia,ID,operating,RZ 064422,RZ JKTRZZ,RZ 25838,RZ JKTRZ,https://www.marriott.com/en-us/hotels/jktrz/overview/
 AI-XPZS39,Park Hyatt Auckland,Auckland,New Zealand,NZ,operating,HY 327076,HY AKLAUC,HY F4106,HY AKLPH,https://www.hyatt.com/park-hyatt/en-US/aklph-park-hyatt-auckland
+AI-XQ837W,Hotel La Compañía Casco Antiguo,Panama City,Panama,PA,operating,HY 394342,HY PTYUBA,HY G8183,HY PTYUB,https://www.hyatt.com/unbound-collection/en-US/ptyub-unbound-hotel-la-compania-casco-antiguo
 AI-XQCJWG,The St. Regis Shenzhen,Shenzhen,China,CN,operating,XR 142336,XR SZX651,XR 37468,XR 3651,https://www.marriott.com/en-us/hotels/szxxr/overview/
 AI-XQJKMP,Tivoli Mofarrej São Paulo,São Paulo,Brazil,BR,operating,LW 041662,LW SAO034,LW 60239,LW 7034,https://www.tivolihotels.com/en/tivoli-mofarrej-sao-paulo
 AI-XRF2B7,"The Ritz-Carlton, Herzliya",Herzliya,Israel,IL,operating,RZ 215674,RZ TLVRZZ,RZ A1525,RZ TLVRZ,https://www.marriott.com/en-us/hotels/tlvrz/overview/
@@ -2074,10 +2172,10 @@ AI-XT18MZ,Kimpton La Mer Crete,Chania,Greece,GR,operating,KC 616214,KC CHQ22B,KC
 AI-XT6BHM,Waldorf Astoria Seychelles Platte Island,Platte Island,Seychelles,SC,operating,WA 603533,WA SEZ302,WA H8222,WA SEZPI,https://www.hilton.com/en/hotels/sezpiwa-waldorf-astoria-seychelles-platte-island/
 AI-XTA266,"King George, a Luxury Collection Hotel, Athens",Athens,Greece,GR,operating,LC 020992,LC ATH929,LC 54114,LC 3929,https://www.marriott.com/en-us/hotels/athgl/overview/
 AI-XV8SVJ,Goldener Hirsch,Park City,United States,US,operating,AU 394705,YX SLCGHA,AU G8621,AU SLCGH,https://auberge.com/goldener-hirsch/
-AI-XVMC3W,"Matild Palace, a Luxury Collection Hotel, Budapest",Budapest,Hungary,HU,operating,LC 392803,LC BUDLCK,LC G6226,LC BUDLC,https://www.marriott.com/en-us/hotels/budlc/overview/
+AI-XVMC3W,"Matild Palace, a Luxury Collection Hotel, Budapest",Budapest,Hungary,HU,operating,LC 392803,LC BUDLCK,LC G6226,LC BUDLC,https://www.matildpalace.hu/
 AI-XVNT12,Hotel Kämp,Helsinki,Finland,FI,operating,LW 047038,LW HEL351,LW 09188,LW 0351,https://hotelkamp.com/
 AI-XVPGWV,Vignette Collection Th8 Palm Dubai Beach Resort,Dubai,United Arab Emirates,AE,operating,VT 388112,VT DXBNAL,VT G0705,VT SEDXB,
-AI-XW2JHQ,Elite Spring Villas,Anxi,China,CN,operating,LX 308358,LX XMNESV,LX C3991,LX XMNES,https://www.elitespringvillas.cn/
+AI-XW2JHQ,Elite Spring Villas,Anxi,China,CN,operating,LX 308358,LX XMNESV,LX C3991,LX XMNES,
 AI-XW9SZM,Camiral,Girona,Spain,ES,operating,LW 309426,LW GRO443,LW C5115,,https://www.camiral.com/
 AI-XXAA95,"The Nile Ritz-Carlton, Cairo",Cairo,Egypt,EG,operating,RZ 009386,RZ CAIRZZ,RZ 04948,RZ CAIRZ,https://www.marriott.com/en-us/hotels/cairz/overview/
 AI-XXD6WR,ARIA Retreat & SPA,Cima di Porlezza,Italy,IT,operating,LW 392664,LW MILARI,LW G6235,LW MXPAR,https://www.parco-san-marco.com/en/aria/
@@ -2127,6 +2225,7 @@ AI-YHH6JB,"Beau-Rivage, Geneve",Geneva,Switzerland,CH,operating,LW 013080,LW GVA
 AI-YHXA91,InterContinental Madrid,Madrid,Spain,ES,operating,IC 001097,IC MADICA,IC 19217,IC MADHA,
 AI-YJY7CK,The St. Regis Red Sea Resort,Red Sea,Saudi Arabia,SA,operating,XR 604743,XR EJHXRG,XR H9876,XR EJHXR,https://www.marriott.com/en-us/hotels/ejhxr/overview/
 AI-YKAQ67,VILA VITA Parc Resort & Spa,Porches,Portugal,PT,operating,LW 036274,LW FAO306,LW 65685,,https://vilavitaparc.com/
+AI-YM82H2,Miraval Arizona Resort and Spa,Tucson,United States,US,operating,YX 023796,,YX 54065,YX 1742,https://www.hyatt.com/miraval/en-US/tusob-miraval-arizona-resort-and-spa
 AI-YN4GVM,Waldorf Astoria Washington DC,Washington,United States,US,operating,WA 307632,WA WASTIH,WA C1936,WA DCATI,https://www.hilton.com/en/hotels/dcawawa-waldorf-astoria-washington-dc/
 AI-YN73B5,InterContinental Chantilly Chateau Mont Royal,La Chapelle-en-Serval,France,FR,operating,IC 033406,IC CDGROY,IC 09150,IC COROY,
 AI-YNSXBH,"SLS Hotel, a Luxury Collection Hotel, Beverly Hills",Los Angeles,United States,US,operating,LC 100782,LC LAX171,LC 88992,LC 3171,https://www.marriott.com/en-us/hotels/laxls/overview/
@@ -2157,7 +2256,7 @@ AI-Z12VWW,Alila Diwa Goa,Goa,India,IN,operating,HY 086091,HY GOIADG,HY 09368,HY 
 AI-Z17SA2,Baglioni Maldives Luxury All-Inclusive,Dhaalu Atoll,Maldives,MV,operating,LW 312995,LW MLE853,LW D1604,,https://maldives.baglionihotels.com/
 AI-Z19G3R,Pemako Punakha,Punakha,Bhutan,BT,operating,LW 626722,LW PBHPMK,LW DM929,,https://www.pemakohotels.com/punakha/
 AI-Z24TH4,"The Ritz-Carlton, Cleveland",Cleveland,United States,US,operating,RZ 024264,RZ CLECLE,RZ 08897,RZ CLERZ,https://www.marriott.com/en-us/hotels/clerz/overview/
-AI-Z3QM5T,Shanghai Muh Shoou Zhujing Hotel,Shanghai,China,CN,operating,LX 622174,,,,https://muhshoouzhujinghotel.cn/
+AI-Z3QM5T,Shanghai Muh Shoou Zhujing Hotel,Shanghai,China,CN,operating,LX 622174,,,,
 AI-Z4BS8P,Park Hyatt Istanbul - Macka Palas,Istanbul,Turkiye,TR,operating,HY 076147,HY ISTPHI,HY 82154,HY ISTPH,https://www.hyatt.com/park-hyatt/en-US/istph-park-hyatt-istanbul-macka-palas
 AI-Z4PMBV,Kimpton Schofield Hotel,Cleveland,United States,US,operating,KC 306219,KC CLESCH,KC B9802,KC CLESC,
 AI-Z52BBQ,Ancora Cortina,Cortina d'Ampezzo,Italy,IT,operating,LW 612360,LW BLXANC,LW DH257,LW 09534,https://www.ancoracortina.com/
@@ -2168,6 +2267,7 @@ AI-Z6GY7D,Botanic Sanctuary Antwerp,Antwerp,Belgium,BE,operating,LW 388421,LW AN
 AI-Z7YZFG,Lizard Island Resort,Cairns,Australia,AU,operating,WB 165655,WB LZRLIR,,,https://www.lizardisland.com.au/
 AI-Z8VAKJ,Jumeirah Jabal Omar Makkah,Makkah,Saudi Arabia,SA,operating,JT 600695,JT JEDJOJ,,,https://www.jumeirah.com/en/stay/saudi-arabia/jumeirah-jabal-omar-makkah
 AI-Z9VVYF,Van Oys Maastricht Retreat,Eijsden,Netherlands,NL,operating,LW 610459,LW MSTOMR,LW I4891,LW MSTVO,https://www.vanoys.com/
+AI-Z9Z7B4,Soneva Secret,Haa Dhaalu Atoll,Maldives,MV,operating,YX 603926,YX MLESEC,YX H8538,YX MLESE,https://soneva.com/resorts/soneva-secret/
 AI-ZAGBYX,The Spire Hotel,Queenstown,New Zealand,NZ,operating,LX 622131,LX ZQNTSH,LX DL167,LX A0220,https://thespirehotel.com/
 AI-ZBW39V,"Meixi Lake Hotel, a Luxury Collection Hotel, Changsha",Changsha,China,CN,operating,LC 310747,LC CSX307,LC C7908,LC 4307,https://www.marriott.com/en-us/hotels/csxlc/overview/
 AI-ZCAAV5,J.K. Place Paris,Paris,France,FR,operating,LW 325431,LW PAR204,LW F1844,LW 2204,https://www.jkplace.paris/
@@ -2175,7 +2275,8 @@ AI-ZCJ8GP,"The Balmoral, A Rocco Forte Hotel",Edinburgh,United Kingdom,GB,operat
 AI-ZCT91P,Shangri-La Kuala Lumpur,Kuala Lumpur,Malaysia,MY,operating,SG 011655,SG KULSHA,SG 22711,SG 8441,https://www.shangri-la.com/en/kualalumpur/shangrila/
 AI-ZDRD8T,The Kitano Hotel Tokyo,Tokyo,Japan,JP,operating,WB 324343,WB TYOTKH,WB H9198,WB HNDTK,https://www.kitanohotel.co.jp/tokyo/
 AI-ZDTT7W,Four Seasons Hotel Nashville,Nashville,United States,US,operating,FS 396280,FS BNA302,FS H0302,FS 39628,https://www.fourseasons.com/nashville/
-AI-ZE1BX8,"The Romanos, a Luxury Collection Resort, Costa Navarino",Costa Navarino,Greece,GR,operating,LC 117099,LC KLX290,LC 87418,LC 3290,https://www.marriott.com/en-us/hotels/klxlc/overview/
+AI-ZDYE6C,Soneva Jani,Noonu Atoll,Maldives,MV,operating,YX 308972,YX MLEJAN,YX C7199,YX MLEJA,https://soneva.com/resorts/soneva-jani/
+AI-ZE1BX8,"The Romanos, a Luxury Collection Resort, Costa Navarino",Costa Navarino,Greece,GR,operating,LC 117099,LC KLX290,LC 87418,LC 3290,https://www.costanavarino.com/romanos-resort/
 AI-ZF3MYX,The Chedi Muscat,Muscat,Oman,OM,operating,LW 051483,LW MCT260,LW 58695,LW 6260,https://www.chedihotels.com/muscat/
 AI-ZF8X5K,Conrad Punta de Mita,Punta Mita,Mexico,MX,operating,CN 327987,CN PVR705,CN F5156,,https://www.hilton.com/en/hotels/pvrpmci-conrad-punta-de-mita/
 AI-ZFAB8M,"Brickell Arch, a Luxury Collection Hotel, Miami",Miami,United States,US,operating,LC 062951,LC MIALDK,LC 63901,LC MIALD,https://www.marriott.com/en-us/hotels/miald/overview/
@@ -2211,6 +2312,7 @@ AI-ZXGRZ6,AZUR Legacy Collection Hotel,Vancouver,Canada,CA,operating,LW 602449,L
 AI-ZXPJ5M,Shangri-La Dubai,Dubai,United Arab Emirates,AE,operating,SG 005715,SG DXBLDB,SG 59657,SG SLDB,https://www.shangri-la.com/en/dubai/shangrila/
 AI-ZXW03Y,Raffles Makkah Palace,Makkah,Saudi Arabia,SA,operating,YR 111220,YR JEDRMH,YR 92332,YR YRRMH,https://www.raffles.com/makkah/
 AI-ZY8348,"Kimpton Mas Olas Resort and Spa, Todos Santos",Todos Santos,Mexico,MX,operating,KC 606657,KC SJD1CD,KC I1615,KC 8653,
+AI-ZZ16B5,Park Hyatt Phu Quoc,Phu Quoc,Vietnam,VN,pre_opening,HY 623650,,,,https://www.hyatt.com/park-hyatt/en-US/pqcph-park-hyatt-phu-quoc
 AI-ZZG8C8,"Mandarin Oriental Jumeira, Dubai",Dubai,United Arab Emirates,AE,operating,MO 314619,MO DXBMOJ,MO E5537,MO DXBMJ,
 AI-ZZYA6M,Malibu Beach Inn,Malibu,United States,US,operating,LW 041084,LW LAX758,LW 87251,LW 2758,https://www.malibubeachinn.com/
 AI-ZZYWBM,"The Ritz-Carlton Sanya, Yalong Bay",Sanya,China,CN,operating,RZ 014973,RZ SYXRZZ,RZ 78617,RZ SYXRZ,https://www.marriott.com/en-us/hotels/syxrz/overview/

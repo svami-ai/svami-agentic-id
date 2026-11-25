@@ -1,0 +1,3 @@
+aid,name,train_type,line,group,status,sabre,amadeus,galileo_apollo,worldspan,website
+AI-C9NDGD,La Dolce Vita Orient Express,luxury_sleeper_train,Orient Express,Accor,operating,,,,,https://www.orient-express.com/la-dolce-vita/
+AI-NDKY31,L'Orient Express,luxury_sleeper_train,Orient Express,Accor,pre_opening,,,,,https://www.orient-express.com/en/trains/the-orient-express

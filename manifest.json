@@ -1,22 +1,30 @@
 {
   "name": "svami-agentic-id",
-  "version": "2026.11.2",
-  "built": "2026-11-21",
+  "version": "2026.11.3",
+  "built": "2026-11-26",
   "licence": "CC BY 4.0",
   "scope": "all",
-  "rows": 2217,
-  "hotels": 2215,
-  "ships": 2,
+  "rows": 2329,
+  "hotels": 2317,
+  "ships": 10,
+  "trains": 2,
   "merged_aids": 2,
   "countries": 128,
   "non_empty": {
-    "sabre": 2179,
-    "amadeus": 1984,
-    "galileo_apollo": 1977,
-    "worldspan": 1837,
-    "website": 1842
+    "sabre": 2281,
+    "amadeus": 2068,
+    "galileo_apollo": 2062,
+    "worldspan": 1923,
+    "website": 1936
   },
   "ships_non_empty": {
+    "sabre": 0,
+    "amadeus": 0,
+    "galileo_apollo": 0,
+    "worldspan": 0,
+    "website": 10
+  },
+  "trains_non_empty": {
     "sabre": 0,
     "amadeus": 0,
     "galileo_apollo": 0,
@@ -24,13 +32,15 @@
     "website": 2
   },
   "files": {
-    "data/agentic-id-crosswalk.csv": "c86925aed88a433d3d16424d1a48de9b24f1841f1ae27e6f5caec9f97a041f2b",
-    "data/agentic-id-crosswalk.jsonl": "252b3576db5333d51f94d3b75bc11b2645af255a1d6af03d859a20dfa730e730",
-    "data/ships-crosswalk.csv": "f168780f480485544c419aba058ae4310253b1b6e2afaa137459da7ab3162944",
-    "data/ships-crosswalk.jsonl": "aff72423be928d7835d7aa7cbd9aa3fcfd3a744783d75203f640f382fa974703",
+    "data/agentic-id-crosswalk.csv": "56662e02b29f7c46e63dcd2e9c1b414038e6b5b0940d809c3e75f7256d0fd09e",
+    "data/agentic-id-crosswalk.jsonl": "e7e87060408349051eeed04b09ef1c09438ff0277c17e78da0625d5281411b1a",
+    "data/ships-crosswalk.csv": "a69e6e17ca88ad88f30ae3ab487ffa4587a63483171186a429841a96d7446c4b",
+    "data/ships-crosswalk.jsonl": "65b4277b2aed3cdb05de874ba126270711729601f9a348cf6e4b6b8518cf0af2",
+    "data/trains-crosswalk.csv": "8bb6e543cdcc02200047d37d35286d9f872bd7469e4549bb911bfdb96d5fec14",
+    "data/trains-crosswalk.jsonl": "593a5d7bb117cb16d3adf43ee8fe03b4ceca2341c4f6bead5d98a71e49d6210e",
     "data/merged-aids.csv": "dd18234a025de5b66650446beff06ac8534d52b1978bb8a11c2cc1d49ff00e15",
-    "README.md": "3e44ce8dcd116ed715ef0e2e9aca6e0130df1b6ef3e1fbdcd292ea371bb27c07",
+    "README.md": "63f3bfeefdd5abdb4fa138c67e192359bbf6f17a9c6f9c7e03b668347e5a078e",
     "LICENSE": "bd6cec2a7bbf46bfedb4cc9ff5045403261a20b5b1902c76062e4589e07642e1",
-    "CITATION.cff": "f25f0459efd5676d0d705b37ea760752b8d3f080bdab630c22548d9a82842392"
+    "CITATION.cff": "2e37f9654fe28915d68e5f40bf7bd3f3dcf92b6d43d9e1caef34c13e93380fe3"
   }
 }

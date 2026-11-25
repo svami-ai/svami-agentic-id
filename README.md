@@ -10,11 +10,13 @@ configs:
   data_files: data/agentic-id-crosswalk.csv
 - config_name: ships
   data_files: data/ships-crosswalk.csv
+- config_name: trains
+  data_files: data/trains-crosswalk.csv
 ---
 
 # SVAMI Agentic ID (AID) crosswalk
 
-Version 2026.11.2 · built 2026-11-21 · 2,215 hotels in 128 countries · 2 ships/yachts · licence CC BY 4.0
+Version 2026.11.3 · built 2026-11-26 · 2,317 hotels in 128 countries · 10 ships/yachts · 2 trains · licence CC BY 4.0
 
 **Agentic ID (AID)** is the supplier identifier used by SVAMI, a verified luxury travel knowledge hub for travel
 advisors and their AI agents. It is written **"Agentic ID (AID) AI-XXXXXX"**. This dataset maps every AID to the
@@ -32,9 +34,9 @@ code can be turned into an AID and back. It is not an industry standard; it is t
 
 ## Coverage
 
-This dataset covers luxury hotels and ships/yachts across the following hospitality groups, luxury brands, collections, and consortia, alongside independent luxury properties:
+This dataset covers luxury hotels, ships/yachts and luxury trains across the following hospitality groups, luxury brands, collections, and consortia, alongside independent luxury properties:
 
-Accor, Airelles, Alila, Aman, Andaz, Atlantis, Auberge Collection, Banyan Tree, Belmond, Bvlgari Hotels & Resorts, Capella Hotel Group, Capella Hotels and Resorts, Cheval Blanc, Conrad Hotels & Resorts, Corinthia Hotels, Dorchester Collection, EDITION Hotels, Fairmont Hotels & Resorts, Four Seasons Hotels and Resorts, Hilton, Hotel Indigo, Hyatt Hotels Corporation, IHG Hotels & Resorts, InterContinental Hotels & Resorts, Jumeirah, Kimpton Hotels & Restaurants, Mandarin Oriental Hotel Group, Marriott International, Maybourne Hotel Group, Montage International, Niseko Village, Oetker Collection, One&Only, Park Hyatt, Patina Hotels & Resorts, Preferred Hotels & Resorts, Raffles Hotels & Resorts, Red Sea Global, Regent Hotels & Resorts, Relais & Châteaux, Rocco Forte Hotels, Rosewood Hotel Group, Shangri-La Group, Six Senses, Small Luxury Hotels of the World (SLH), St. Regis Hotels & Resorts, The Leading Hotels of the World (LHW), The Luxury Collection, The Peninsula Hotels, The Ritz-Carlton, Upper House, Vignette Collection, Waldorf Astoria Hotels & Resorts.
+Accor, Airelles, Alila, Aman, Andaz, Atlantis, Auberge Collection, Banyan Tree, Belmond, Bvlgari Hotels & Resorts, Capella Hotel Group, Capella Hotels and Resorts, Cheval Blanc, Conrad Hotels & Resorts, Corinthia Hotels, Dorchester Collection, EDITION Hotels, Fairmont Hotels & Resorts, Four Seasons Hotels and Resorts, Hilton, Hotel Indigo, Hyatt Hotels Corporation, IHG Hotels & Resorts, InterContinental Hotels & Resorts, Jumeirah, Kimpton Hotels & Restaurants, Mandarin Oriental Hotel Group, Marriott International, Maybourne Hotel Group, Miraval, Montage International, Niseko Village, Oetker Collection, One&Only, Orient Express, Park Hyatt, Patina Hotels & Resorts, Preferred Hotels & Resorts, Raffles Hotels & Resorts, Red Sea Global, Regent Hotels & Resorts, Relais & Châteaux, Rocco Forte Hotels, Rosewood Hotel Group, Shangri-La Group, Six Senses, Small Luxury Hotels of the World (SLH), Soneva, St. Regis Hotels & Resorts, The Leading Hotels of the World (LHW), The Luxury Collection, The Peninsula Hotels, The Ritz-Carlton, The Unbound Collection by Hyatt, Upper House, Vignette Collection, Waldorf Astoria Hotels & Resorts.
 
 Group and brand names are listed solely for factual identification. All trademarks belong to their respective owners; inclusion does not imply affiliation or endorsement.
 
@@ -52,9 +54,15 @@ Ship / yacht (`data/ships-crosswalk.jsonl`):
 {"aid": "AI-FFDMMX", "name": "Amandira", "ship_type": "yacht", "line": "Aman", "group": "Aman", "status": "operating", "sabre": null, "amadeus": null, "galileo_apollo": null, "worldspan": null, "website": "https://www.aman.com/trade-professionals/amandira"}
 ```
 
+Train (`data/trains-crosswalk.jsonl`):
+
+```json
+{"aid": "AI-C9NDGD", "name": "La Dolce Vita Orient Express", "train_type": "luxury_sleeper_train", "line": "Orient Express", "group": "Accor", "status": "operating", "sabre": null, "amadeus": null, "galileo_apollo": null, "worldspan": null, "website": "https://www.orient-express.com/la-dolce-vita/"}
+```
+
 ## Files and columns
 
-### Hotels (`data/agentic-id-crosswalk.csv`, `.jsonl` · 2,215 rows)
+### Hotels (`data/agentic-id-crosswalk.csv`, `.jsonl` · 2,317 rows)
 
 | Column | Meaning |
 | --- | --- |
@@ -63,19 +71,32 @@ Ship / yacht (`data/ships-crosswalk.jsonl`):
 | `city`, `country` | English names |
 | `country_code` | ISO 3166-1 alpha-2 |
 | `status` | `operating`, `temporarily_closed`, or `pre_opening`. A closed hotel's GDS codes are left empty until it reopens and they are re-checked |
-| `sabre` | Sabre chain + property code, e.g. `LW 004778` (2,179 rows) |
-| `amadeus` | Amadeus chain + 6-character property code, e.g. `RZ USMRZR` (1,984 rows) |
-| `galileo_apollo` | Galileo / Apollo chain + property code (1,977 rows) |
-| `worldspan` | Worldspan chain + property code (1,837 rows) |
-| `website` | Official website (1,842 rows) |
+| `sabre` | Sabre chain + property code, e.g. `LW 004778` (2,281 rows) |
+| `amadeus` | Amadeus chain + 6-character property code, e.g. `RZ USMRZR` (2,068 rows) |
+| `galileo_apollo` | Galileo / Apollo chain + property code (2,062 rows) |
+| `worldspan` | Worldspan chain + property code (1,923 rows) |
+| `website` | Official website (1,936 rows) |
 
-### Ships and yachts (`data/ships-crosswalk.csv`, `.jsonl` · 2 rows)
+### Ships and yachts (`data/ships-crosswalk.csv`, `.jsonl` · 10 rows)
 
 | Column | Meaning |
 | --- | --- |
 | `aid` | Agentic ID, e.g. `AI-FFDMMX` |
 | `name` | Ship or yacht name (English) |
 | `ship_type` | Vessel category: `yacht`, `ocean`, `river`, `expedition`, or `unknown` |
+| `line` | Operating line or brand name (English) |
+| `group` | Parent supplier group name (English) |
+| `status` | `operating`, `pre_opening`, or `temporarily_closed` |
+| `sabre`, `amadeus`, `galileo_apollo`, `worldspan` | GDS codes when assigned |
+| `website` | Official website (10 rows) |
+
+### Luxury trains (`data/trains-crosswalk.csv`, `.jsonl` · 2 rows)
+
+| Column | Meaning |
+| --- | --- |
+| `aid` | Agentic ID, e.g. `AI-C9NDGD` |
+| `name` | Train name (English) |
+| `train_type` | Train category: `luxury_sleeper_train`, `day_train`, `scenic_train`, `charter_train`, or `unknown` |
 | `line` | Operating line or brand name (English) |
 | `group` | Parent supplier group name (English) |
 | `status` | `operating`, `pre_opening`, or `temporarily_closed` |
