@@ -16,7 +16,7 @@ configs:
 
 # SVAMI Agentic ID (AID) crosswalk
 
-Version 2026.11.4 · built 2026-11-27 · 2,360 hotels in 128 countries · 10 ships/yachts · 2 trains · licence CC BY 4.0
+Version 2026.11.5 · built 2026-11-27 · 2,360 hotels in 128 countries · 10 ships/yachts · 2 trains · licence CC BY 4.0
 
 **Agentic ID (AID)** is the supplier identifier used by SVAMI, a verified luxury travel knowledge hub for travel
 advisors and their AI agents. It is written **"Agentic ID (AID) AI-XXXXXX"**. This dataset maps every AID to the
@@ -71,10 +71,10 @@ Train (`data/trains-crosswalk.jsonl`):
 | `city`, `country` | English names |
 | `country_code` | ISO 3166-1 alpha-2 |
 | `status` | `operating`, `temporarily_closed`, or `pre_opening`. A closed hotel's GDS codes are left empty until it reopens and they are re-checked |
-| `sabre` | Sabre chain + property code, e.g. `LW 004778` (2,281 rows) |
-| `amadeus` | Amadeus chain + 6-character property code, e.g. `RZ USMRZR` (2,068 rows) |
-| `galileo_apollo` | Galileo / Apollo chain + property code (2,062 rows) |
-| `worldspan` | Worldspan chain + property code (1,923 rows) |
+| `sabre` | Sabre chain + property code, e.g. `LW 004778` (2,322 rows) |
+| `amadeus` | Amadeus chain + 6-character property code, e.g. `RZ USMRZR` (2,104 rows) |
+| `galileo_apollo` | Galileo / Apollo chain + property code (2,095 rows) |
+| `worldspan` | Worldspan chain + property code (1,958 rows) |
 | `website` | Official website (1,979 rows) |
 
 ### Ships and yachts (`data/ships-crosswalk.csv`, `.jsonl` · 10 rows)
