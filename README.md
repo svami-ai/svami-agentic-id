@@ -16,7 +16,7 @@ configs:
 
 # SVAMI Agentic ID (AID) crosswalk
 
-Version 2026.11.3 · built 2026-11-26 · 2,317 hotels in 128 countries · 10 ships/yachts · 2 trains · licence CC BY 4.0
+Version 2026.11.4 · built 2026-11-27 · 2,360 hotels in 128 countries · 10 ships/yachts · 2 trains · licence CC BY 4.0
 
 **Agentic ID (AID)** is the supplier identifier used by SVAMI, a verified luxury travel knowledge hub for travel
 advisors and their AI agents. It is written **"Agentic ID (AID) AI-XXXXXX"**. This dataset maps every AID to the
@@ -36,7 +36,7 @@ code can be turned into an AID and back. It is not an industry standard; it is t
 
 This dataset covers luxury hotels, ships/yachts and luxury trains across the following hospitality groups, luxury brands, collections, and consortia, alongside independent luxury properties:
 
-Accor, Airelles, Alila, Aman, Andaz, Atlantis, Auberge Collection, Banyan Tree, Belmond, Bvlgari Hotels & Resorts, Capella Hotel Group, Capella Hotels and Resorts, Cheval Blanc, Conrad Hotels & Resorts, Corinthia Hotels, Dorchester Collection, EDITION Hotels, Fairmont Hotels & Resorts, Four Seasons Hotels and Resorts, Hilton, Hotel Indigo, Hyatt Hotels Corporation, IHG Hotels & Resorts, InterContinental Hotels & Resorts, Jumeirah, Kimpton Hotels & Restaurants, Mandarin Oriental Hotel Group, Marriott International, Maybourne Hotel Group, Miraval, Montage International, Niseko Village, Oetker Collection, One&Only, Orient Express, Park Hyatt, Patina Hotels & Resorts, Preferred Hotels & Resorts, Raffles Hotels & Resorts, Red Sea Global, Regent Hotels & Resorts, Relais & Châteaux, Rocco Forte Hotels, Rosewood Hotel Group, Shangri-La Group, Six Senses, Small Luxury Hotels of the World (SLH), Soneva, St. Regis Hotels & Resorts, The Leading Hotels of the World (LHW), The Luxury Collection, The Peninsula Hotels, The Ritz-Carlton, The Unbound Collection by Hyatt, Upper House, Vignette Collection, Waldorf Astoria Hotels & Resorts.
+Accor, Airelles, Alila, Aman, Andaz, Atlantis, Auberge Collection, Banyan Tree, Beckons, Belmond, Bvlgari Hotels & Resorts, Capella Hotel Group, Capella Hotels and Resorts, Cheval Blanc, COMO Hotels and Resorts, Conrad Hotels & Resorts, Corinthia Hotels, Dorchester Collection, EDITION Hotels, Fairmont Hotels & Resorts, Four Seasons Hotels and Resorts, Hilton, Hoshino Resorts, HOSHINOYA, Hotel Indigo, Hyatt Hotels Corporation, IHG Hotels & Resorts, InterContinental Hotels & Resorts, Jumeirah, Kimpton Hotels & Restaurants, Mandarin Oriental Hotel Group, Marriott International, Maybourne Hotel Group, Miraval, Montage International, Niseko Village, Oberoi Hotels & Resorts, Oetker Collection, One&Only, Orient Express, Park Hyatt, Patina Hotels & Resorts, Preferred Hotels & Resorts, Raffles Hotels & Resorts, Red Sea Global, Regent Hotels & Resorts, Relais & Châteaux, Rocco Forte Hotels, Rosewood Hotel Group, Shangri-La Group, Six Senses, Small Luxury Hotels of the World (SLH), Soneva, St. Regis Hotels & Resorts, Taj Hotels, The Leading Hotels of the World (LHW), The Luxury Collection, The Peninsula Hotels, The Ritz-Carlton, The Unbound Collection by Hyatt, Upper House, Vignette Collection, Waldorf Astoria Hotels & Resorts.
 
 Group and brand names are listed solely for factual identification. All trademarks belong to their respective owners; inclusion does not imply affiliation or endorsement.
 
@@ -62,7 +62,7 @@ Train (`data/trains-crosswalk.jsonl`):
 
 ## Files and columns
 
-### Hotels (`data/agentic-id-crosswalk.csv`, `.jsonl` · 2,317 rows)
+### Hotels (`data/agentic-id-crosswalk.csv`, `.jsonl` · 2,360 rows)
 
 | Column | Meaning |
 | --- | --- |
@@ -75,7 +75,7 @@ Train (`data/trains-crosswalk.jsonl`):
 | `amadeus` | Amadeus chain + 6-character property code, e.g. `RZ USMRZR` (2,068 rows) |
 | `galileo_apollo` | Galileo / Apollo chain + property code (2,062 rows) |
 | `worldspan` | Worldspan chain + property code (1,923 rows) |
-| `website` | Official website (1,936 rows) |
+| `website` | Official website (1,979 rows) |
 
 ### Ships and yachts (`data/ships-crosswalk.csv`, `.jsonl` · 10 rows)
 

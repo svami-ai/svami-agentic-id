@@ -1,11 +1,11 @@
 {
   "name": "svami-agentic-id",
-  "version": "2026.11.3",
-  "built": "2026-11-26",
+  "version": "2026.11.4",
+  "built": "2026-11-27",
   "licence": "CC BY 4.0",
   "scope": "all",
-  "rows": 2329,
-  "hotels": 2317,
+  "rows": 2372,
+  "hotels": 2360,
   "ships": 10,
   "trains": 2,
   "merged_aids": 2,
@@ -15,7 +15,7 @@
     "amadeus": 2068,
     "galileo_apollo": 2062,
     "worldspan": 1923,
-    "website": 1936
+    "website": 1979
   },
   "ships_non_empty": {
     "sabre": 0,
@@ -32,15 +32,15 @@
     "website": 2
   },
   "files": {
-    "data/agentic-id-crosswalk.csv": "56662e02b29f7c46e63dcd2e9c1b414038e6b5b0940d809c3e75f7256d0fd09e",
-    "data/agentic-id-crosswalk.jsonl": "e7e87060408349051eeed04b09ef1c09438ff0277c17e78da0625d5281411b1a",
+    "data/agentic-id-crosswalk.csv": "76ed60082e778eef51b65f75bf33fa55e9bfb15830a9fcde16401aa14969b468",
+    "data/agentic-id-crosswalk.jsonl": "ad6620701a04018555ca23eaccc76f9c4372ff4d57a443eb50abfecf0278ecfa",
     "data/ships-crosswalk.csv": "a69e6e17ca88ad88f30ae3ab487ffa4587a63483171186a429841a96d7446c4b",
     "data/ships-crosswalk.jsonl": "65b4277b2aed3cdb05de874ba126270711729601f9a348cf6e4b6b8518cf0af2",
     "data/trains-crosswalk.csv": "8bb6e543cdcc02200047d37d35286d9f872bd7469e4549bb911bfdb96d5fec14",
     "data/trains-crosswalk.jsonl": "593a5d7bb117cb16d3adf43ee8fe03b4ceca2341c4f6bead5d98a71e49d6210e",
     "data/merged-aids.csv": "dd18234a025de5b66650446beff06ac8534d52b1978bb8a11c2cc1d49ff00e15",
-    "README.md": "63f3bfeefdd5abdb4fa138c67e192359bbf6f17a9c6f9c7e03b668347e5a078e",
+    "README.md": "62dafc89e56cf0168bf1e101a3ce9e480e3a1bd5cdcf6d255e83f6edc1f8acd8",
     "LICENSE": "bd6cec2a7bbf46bfedb4cc9ff5045403261a20b5b1902c76062e4589e07642e1",
-    "CITATION.cff": "2e37f9654fe28915d68e5f40bf7bd3f3dcf92b6d43d9e1caef34c13e93380fe3"
+    "CITATION.cff": "3dcd3894f1b9fafcf6f7e350d1962804ed7169acbf1f53de5324a0ad1ab4dc22"
   }
 }
